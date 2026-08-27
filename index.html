@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trendive — 마케팅·브랜딩·디자인 트렌드</title>
+<link rel="stylesheet" as="style" crossorigin
+  href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+  :root{
+    --blue:#2f6bff; --ink:#111114; --bg:#ffffff; --muted:#8a8a90;
+    --line:#ececec; --soft:#f6f6f7;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);
+    font-family:"Pretendard",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo",sans-serif;
+    -webkit-font-smoothing:antialiased;letter-spacing:-.01em}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1320px;margin:0 auto;padding:0 28px}
+
+  /* header */
+  header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.88);
+    backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--line)}
+  .head-in{display:flex;align-items:center;gap:18px;height:64px}
+  .logo{font-size:22px;font-weight:800;letter-spacing:-.04em}
+  .logo .dot{color:var(--blue)}
+  .logo .ko{font-size:13px;font-weight:500;color:var(--muted);margin-left:8px;letter-spacing:0}
+  .head-meta{margin-left:auto;font-size:12.5px;color:var(--muted)}
+
+  /* filter tabs */
+  .tabs{display:flex;gap:4px;flex-wrap:wrap;padding:26px 0 10px}
+  .tab{font-size:14px;font-weight:600;color:var(--muted);background:none;border:none;
+    cursor:pointer;padding:8px 14px;border-radius:999px;transition:.15s;white-space:nowrap}
+  .tab:hover{color:var(--ink);background:var(--soft)}
+  .tab.on{color:#fff;background:var(--ink)}
+  .tab .n{font-weight:500;opacity:.55;margin-left:4px}
+
+  /* grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+    gap:24px 22px;padding:18px 0 80px}
+  .shot{cursor:pointer}
+  .frame{position:relative;aspect-ratio:4/3;border-radius:12px;overflow:hidden;
+    background:var(--soft);border:1px solid var(--line)}
+  .frame img{width:100%;height:100%;object-fit:cover;display:block;
+    transition:transform .5s cubic-bezier(.2,.6,.2,1)}
+  .shot:hover .frame img{transform:scale(1.05)}
+  .frame .ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;
+    padding:24px;text-align:center;font-size:19px;font-weight:700;color:var(--blue);
+    background:linear-gradient(135deg,#eef3ff,#f6f6f7)}
+  .badge-imp{position:absolute;top:12px;right:12px;font-size:10.5px;font-weight:700;
+    letter-spacing:.06em;padding:4px 8px;border-radius:6px;background:#fff;color:var(--ink);opacity:0;transition:.2s}
+  .badge-imp.high{background:var(--blue);color:#fff}
+  .shot:hover .badge-imp{opacity:1}
+  .cap-main{font-size:16.5px;font-weight:600;line-height:1.38;color:var(--ink);padding:13px 2px 0;
+    display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;transition:color .15s}
+  .shot:hover .cap-main{color:var(--blue)}
+  .cap-sub{font-size:13.5px;font-weight:400;line-height:1.46;color:var(--muted);padding:4px 2px 0;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .caption{display:flex;align-items:center;gap:8px;padding:9px 2px 0}
+  .cap-cat{font-size:12.5px;font-weight:600;color:var(--blue)}
+  .cap-src{font-size:12.5px;color:var(--muted);margin-left:auto}
+
+  /* modal */
+  .modal{position:fixed;inset:0;z-index:50;display:none;
+    background:rgba(15,15,20,.55);backdrop-filter:blur(3px)}
+  .modal.open{display:flex;align-items:flex-start;justify-content:center;
+    overflow-y:auto;padding:48px 20px}
+  .sheet{background:#fff;width:100%;max-width:760px;border-radius:16px;overflow:hidden;
+    box-shadow:0 30px 80px rgba(0,0,0,.3)}
+  .gal{position:relative;background:var(--soft)}
+  .gal-img{width:100%;height:440px;object-fit:cover;display:block;background:var(--soft)}
+  .gal-ph{height:300px;display:flex;align-items:center;justify-content:center;
+    font-size:24px;font-weight:800;color:var(--blue);background:linear-gradient(135deg,#eef3ff,#f6f6f7)}
+  .gal-nav{position:absolute;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;
+    border:none;cursor:pointer;background:rgba(255,255,255,.9);color:var(--ink);font-size:22px;line-height:1;
+    display:flex;align-items:center;justify-content:center;box-shadow:0 2px 10px rgba(0,0,0,.22);transition:.15s}
+  .gal-nav:hover{background:#fff;transform:translateY(-50%) scale(1.06)}
+  .gal-nav.prev{left:14px} .gal-nav.next{right:14px}
+  .gal-grad{position:absolute;left:0;right:0;bottom:0;height:84px;pointer-events:none;
+    background:linear-gradient(to top,rgba(10,10,15,.5),transparent)}
+  .gal-dots{position:absolute;left:0;right:0;bottom:14px;z-index:2;
+    display:flex;justify-content:center;gap:7px}
+  .gal-dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.55);border:none;
+    cursor:pointer;padding:0;transition:.15s;box-shadow:0 0 3px rgba(0,0,0,.35)}
+  .gal-dot.on{background:#fff;width:22px;border-radius:999px}
+  .sheet-body{padding:30px 36px 38px}
+  .sheet-top{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .sheet-cat{font-size:13px;font-weight:700;color:var(--blue)}
+  .sheet-imp{font-size:11px;font-weight:700;letter-spacing:.06em;padding:3px 8px;
+    border-radius:6px;background:var(--soft);color:var(--muted)}
+  .sheet-imp.high{background:var(--blue);color:#fff}
+  .sheet h1{font-size:25px;font-weight:800;line-height:1.32;letter-spacing:-.02em;margin-bottom:14px}
+  .sheet-lead{font-size:16px;font-weight:600;line-height:1.66;color:#33333a;
+    padding-bottom:18px;margin-bottom:20px;border-bottom:1px solid var(--line)}
+  .sheet-text{font-size:15.5px;line-height:1.85;color:#2c2c33}
+  .sheet-text p{margin-bottom:16px}
+  .sheet-tags{display:flex;flex-wrap:wrap;gap:7px;margin:24px 0 22px}
+  .sheet-tags span{font-size:12.5px;color:#55555c;background:var(--soft);padding:5px 11px;border-radius:7px}
+  .sheet-foot{display:flex;align-items:center;justify-content:space-between;
+    border-top:1px solid var(--line);padding-top:18px;font-size:13px;color:var(--muted)}
+  .foot-links{display:flex;gap:8px}
+  .src-link{display:inline-flex;align-items:center;gap:6px;background:var(--blue);color:#fff;
+    font-size:13.5px;font-weight:600;padding:9px 16px;border-radius:9px;transition:.15s}
+  .src-link:hover{background:#1a55ee}
+  .src-link.vid{background:var(--ink)}
+  .src-link.vid:hover{background:#000}
+  .close{position:fixed;top:18px;right:22px;width:40px;height:40px;border-radius:50%;
+    background:#fff;border:none;cursor:pointer;font-size:20px;color:var(--ink);
+    display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap head-in">
+    <div class="logo">Trendive<span class="dot">.</span><span class="ko">마케팅 · 브랜딩 · 디자인 트렌드</span></div>
+    <div class="head-meta" id="meta"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="tabs" id="tabs"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<div class="modal" id="modal">
+  <button class="close" id="close" aria-label="닫기">✕</button>
+  <div class="sheet" id="sheet"></div>
+</div>
+
+<script>
+const CATS = ["전체","📣 마케팅","🎯 브랜딩","🎨 디자인","✨ 레퍼런스","🔥 화제","🌏 국내"];
+let DATA = {items:[]}, active = "전체";
+
+fetch('data/feed.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{
+  DATA = d;
+  document.getElementById('meta').textContent =
+    `${d.items.length} shots · ${(d.last_updated||'').slice(0,10)}`;
+  renderTabs(); render();
+});
+
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function shown(){return active==="전체"?DATA.items:DATA.items.filter(i=>i.category===active);}
+
+function renderTabs(){
+  const t=document.getElementById('tabs');
+  t.innerHTML=CATS.map(c=>{
+    const n=c==="전체"?DATA.items.length:DATA.items.filter(i=>i.category===c).length;
+    if(c!=="전체"&&n===0)return'';
+    return `<button class="tab ${c===active?'on':''}" data-c="${c}">${c}<span class="n">${n}</span></button>`;
+  }).join('');
+  t.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{active=b.dataset.c;renderTabs();render();});
+}
+
+function thumb(it){
+  return it.image_url
+    ? `<img src="${it.image_url}" alt="" loading="lazy" onerror="this.outerHTML='<div class=ph>'+this.dataset.t+'</div>'" data-t="${esc(it.title_ko)}">`
+    : `<div class="ph">${esc(it.title_ko)}</div>`;
+}
+
+function splitTitle(t){
+  const i=t.indexOf('—');
+  return i<0 ? {main:t.trim(),sub:''}
+             : {main:t.slice(0,i).trim(), sub:t.slice(i+1).trim()};
+}
+
+function render(){
+  const items=shown();
+  document.getElementById('grid').innerHTML=items.map((it,i)=>{
+    const t=splitTitle(it.title_ko);
+    return `<div class="shot" onclick="open_(${DATA.items.indexOf(it)})">
+      <div class="frame">${thumb(it)}
+        <span class="badge-imp ${it.importance}">${it.importance==='high'?'HOT':'PICK'}</span>
+      </div>
+      <div class="cap-main">${esc(t.main)}</div>
+      ${t.sub?`<div class="cap-sub">${esc(t.sub)}</div>`:''}
+      <div class="caption"><span class="cap-cat">${it.category}</span><span class="cap-src">${esc(it.source)}</span></div>
+    </div>`;}).join('');
+}
+
+let GAL={imgs:[],i:0,cat:''};
+
+function open_(idx){
+  const it=DATA.items[idx];
+  GAL.imgs=(it.images&&it.images.length)?it.images:(it.image_url?[it.image_url]:[]);
+  GAL.i=0; GAL.cat=it.category;
+  const multi=GAL.imgs.length>1;
+  const ctrls=multi?`<button class="gal-nav prev" onclick="step(-1)" aria-label="이전">‹</button>
+      <button class="gal-nav next" onclick="step(1)" aria-label="다음">›</button>
+      <div class="gal-grad"></div><div class="gal-dots" id="galDots"></div>`:'';
+  const stage=GAL.imgs.length
+    ? `<div class="gal"><img class="gal-img" id="galImg" alt="">${ctrls}</div>`
+    : `<div class="gal-ph">${esc(it.category)}</div>`;
+  const body=esc(it.body_ko).split('\n\n').map(p=>`<p>${p}</p>`).join('');
+  const tags=(it.tags||[]).map(t=>`<span>#${esc(t)}</span>`).join('');
+  document.getElementById('sheet').innerHTML=`${stage}
+    <div class="sheet-body">
+      <div class="sheet-top"><span class="sheet-cat">${it.category}</span>
+        <span class="sheet-imp ${it.importance}">${it.importance.toUpperCase()}</span></div>
+      <h1>${esc(it.title_ko)}</h1>
+      <div class="sheet-lead">${esc(it.summary_ko)}</div>
+      <div class="sheet-text">${body}</div>
+      <div class="sheet-tags">${tags}</div>
+      <div class="sheet-foot"><span>${esc(it.source)} · ${it.date}</span>
+        <div class="foot-links">
+          ${it.url?`<a class="src-link" href="${it.url}" target="_blank" rel="noopener">원문 보기 →</a>`:''}
+          ${it.video_url?`<a class="src-link vid" href="${it.video_url}" target="_blank" rel="noopener">▶ 영상 보기</a>`:''}
+        </div></div>
+    </div>`;
+  if(GAL.imgs.length) renderGal();
+  const m=document.getElementById('modal');
+  m.classList.add('open');m.scrollTop=0;document.body.style.overflow='hidden';
+}
+
+function renderGal(){
+  const img=document.getElementById('galImg'); if(!img)return;
+  img.src=GAL.imgs[GAL.i];
+  img.onerror=()=>{img.replaceWith(Object.assign(document.createElement('div'),
+    {className:'gal-ph',textContent:GAL.cat}));};
+  const d=document.getElementById('galDots');
+  if(d)d.innerHTML=GAL.imgs.map((_,k)=>
+    `<button class="gal-dot ${k===GAL.i?'on':''}" onclick="goto(${k})" aria-label="${k+1}번째"></button>`).join('');
+}
+function step(dir){const n=GAL.imgs.length;GAL.i=(GAL.i+dir+n)%n;renderGal();}
+function goto(k){GAL.i=k;renderGal();}
+
+function close_(){document.getElementById('modal').classList.remove('open');document.body.style.overflow='';}
+document.getElementById('close').onclick=close_;
+document.getElementById('modal').onclick=e=>{if(e.target.id==='modal')close_();};
+document.addEventListener('keydown',e=>{
+  if(!document.getElementById('modal').classList.contains('open'))return;
+  if(e.key==='Escape')close_();
+  else if(e.key==='ArrowLeft'&&GAL.imgs.length>1)step(-1);
+  else if(e.key==='ArrowRight'&&GAL.imgs.length>1)step(1);
+});
+</script>
+</body>
+</html>

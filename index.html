@@ -35,6 +35,21 @@
   .tab.on{color:#fff;background:var(--ink)}
   .tab .n{font-weight:500;opacity:.55;margin-left:4px}
 
+  /* 지금 뜨는 신호 */
+  .signals{margin:22px 0 2px;border:1px solid var(--line);border-radius:14px;background:var(--soft);overflow:hidden}
+  .signals>summary{cursor:pointer;list-style:none;padding:14px 18px;font-weight:700;font-size:14.5px;
+    display:flex;align-items:center;gap:8px}
+  .signals>summary::-webkit-details-marker{display:none}
+  .signals>summary .up{margin-left:auto;font-size:12px;font-weight:500;color:var(--muted)}
+  .sig-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;padding:2px 18px 18px}
+  .sig-col h5{font-size:12px;color:var(--muted);font-weight:700;margin-bottom:6px;letter-spacing:.02em}
+  .sig-col ul{list-style:none}
+  .sig-col li{padding:6px 0;border-top:1px solid var(--line);font-size:13px;line-height:1.4}
+  .sig-col li:first-child{border-top:none}
+  .sig-col a:hover{color:var(--blue)}
+  .sig-col .m{color:var(--muted);font-size:11.5px}
+  @media(max-width:720px){.sig-cols{grid-template-columns:1fr}}
+
   /* grid */
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
     gap:24px 22px;padding:18px 0 80px}
@@ -133,6 +148,7 @@
 
 <div class="wrap">
   <div class="tabs" id="tabs"></div>
+  <details class="signals" id="signals" hidden></details>
   <div class="grid" id="grid"></div>
 </div>
 
@@ -150,6 +166,24 @@ fetch('data/feed.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(
   document.getElementById('meta').textContent =
     `${d.items.length} shots · ${(d.last_updated||'').slice(0,10)}`;
   renderTabs(); render();
+});
+
+// 🛰️ 지금 뜨는 신호 (순찰이 만든 data/signals.json)
+fetch('data/signals.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(s=>{
+  if(!s) return;
+  const el=document.getElementById('signals'); if(!el) return;
+  const L=(arr,fmt)=>(arr&&arr.length)?arr.map(fmt).join(''):'<li class="m">—</li>';
+  const num=n=>Number(n).toLocaleString('ko');
+  const trends=L(s.trends,t=>`<li><a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.title)}${t.traffic?` <span class="m">${num(t.traffic)}+</span>`:''}</a></li>`);
+  const vids=L(s.videos,v=>`<li><a href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.title)}<br><span class="m">${esc(v.channel||'')}${v.views?` · ${num(v.views)}뷰`:''}</span></a></li>`);
+  const news=L(s.news,n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`);
+  el.innerHTML=`<summary>🛰️ 지금 뜨는 신호 <span class="up">${esc(s.updated_at||'')} · 클릭해 펼치기</span></summary>
+    <div class="sig-cols">
+      <div class="sig-col"><h5>🔥 급상승 검색어</h5><ul>${trends}</ul></div>
+      <div class="sig-col"><h5>▶️ 뜨는 유튜브</h5><ul>${vids}</ul></div>
+      <div class="sig-col"><h5>📰 화제 뉴스</h5><ul>${news}</ul></div>
+    </div>`;
+  el.hidden=false;
 });
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}

@@ -12,6 +12,7 @@
     --line:#ececec; --soft:#f6f6f7;
   }
   *{box-sizing:border-box;margin:0;padding:0}
+  [hidden]{display:none!important}
   body{background:var(--bg);color:var(--ink);
     font-family:"Pretendard",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo",sans-serif;
     -webkit-font-smoothing:antialiased;letter-spacing:-.01em}
@@ -35,16 +36,20 @@
   .tab.on{color:#fff;background:var(--ink)}
   .tab .n{font-weight:500;opacity:.55;margin-left:4px}
 
-  /* 지금 뜨는 신호 */
-  .signals{margin:22px 0 2px;border:1px solid var(--line);border-radius:14px;background:var(--soft);overflow:hidden}
-  .signals>summary{cursor:pointer;list-style:none;padding:14px 18px;font-weight:700;font-size:14.5px;
-    display:flex;align-items:center;gap:8px}
-  .signals>summary::-webkit-details-marker{display:none}
-  .signals>summary .up{margin-left:auto;font-size:12px;font-weight:500;color:var(--muted)}
-  .sig-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;padding:2px 18px 18px}
-  .sig-col h5{font-size:12px;color:var(--muted);font-weight:700;margin-bottom:6px;letter-spacing:.02em}
+  /* 우측 정렬 파란 '지금 뜨는 신호' 버튼 */
+  .tab.sig{margin-left:auto;background:var(--blue);color:#fff}
+  .tab.sig:hover{background:var(--blue);color:#fff;opacity:.9}
+  .tab.sig.on{background:var(--blue);color:#fff}
+
+  /* 지금 뜨는 신호 전용 페이지 */
+  .sigpage{padding:22px 0 80px}
+  .sig-head{font-size:15px;font-weight:800;letter-spacing:-.02em;margin:0 0 4px}
+  .sig-sub{font-size:12.5px;color:var(--muted);margin-bottom:22px}
+  .sig-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .sig-col{border:1px solid var(--line);border-radius:14px;background:var(--soft);padding:16px 18px}
+  .sig-col h5{font-size:13px;color:var(--ink);font-weight:800;margin-bottom:10px;letter-spacing:.01em}
   .sig-col ul{list-style:none}
-  .sig-col li{padding:6px 0;border-top:1px solid var(--line);font-size:13px;line-height:1.4}
+  .sig-col li{padding:9px 0;border-top:1px solid var(--line);font-size:13.5px;line-height:1.45}
   .sig-col li:first-child{border-top:none}
   .sig-col a:hover{color:var(--blue)}
   .sig-col .m{color:var(--muted);font-size:11.5px}
@@ -148,8 +153,8 @@
 
 <div class="wrap">
   <div class="tabs" id="tabs"></div>
-  <details class="signals" id="signals" hidden></details>
   <div class="grid" id="grid"></div>
+  <div class="sigpage" id="signalsPage" hidden></div>
 </div>
 
 <div class="modal" id="modal">
@@ -159,7 +164,7 @@
 
 <script>
 const CATS = ["전체","📣 마케팅","🎯 브랜딩","🎨 디자인","✨ 레퍼런스","🔥 화제","🌏 국내"];
-let DATA = {items:[]}, active = "전체";
+let DATA = {items:[]}, active = "전체", SIG = null, view = "gallery";
 
 fetch('data/feed.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{
   DATA = d;
@@ -168,22 +173,9 @@ fetch('data/feed.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(
   renderTabs(); render();
 });
 
-// 🛰️ 지금 뜨는 신호 (순찰이 만든 data/signals.json)
+// 🛰️ 지금 뜨는 신호 데이터(순찰이 만든 data/signals.json) — 별도 페이지에서 사용
 fetch('data/signals.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(s=>{
-  if(!s) return;
-  const el=document.getElementById('signals'); if(!el) return;
-  const L=(arr,fmt)=>(arr&&arr.length)?arr.map(fmt).join(''):'<li class="m">—</li>';
-  const num=n=>Number(n).toLocaleString('ko');
-  const trends=L(s.trends,t=>`<li><a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.title)}${t.traffic?` <span class="m">${num(t.traffic)}+</span>`:''}</a></li>`);
-  const vids=L(s.videos,v=>`<li><a href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.title)}<br><span class="m">${esc(v.channel||'')}${v.views?` · ${num(v.views)}뷰`:''}</span></a></li>`);
-  const news=L(s.news,n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`);
-  el.innerHTML=`<summary>🛰️ 지금 뜨는 신호 <span class="up">${esc(s.updated_at||'')} · 클릭해 펼치기</span></summary>
-    <div class="sig-cols">
-      <div class="sig-col"><h5>🔥 급상승 검색어</h5><ul>${trends}</ul></div>
-      <div class="sig-col"><h5>▶️ 뜨는 유튜브</h5><ul>${vids}</ul></div>
-      <div class="sig-col"><h5>📰 화제 뉴스</h5><ul>${news}</ul></div>
-    </div>`;
-  el.hidden=false;
+  SIG = s; renderTabs(); if(view==="signals") renderSignals();
 });
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
@@ -191,12 +183,35 @@ function shown(){return active==="전체"?DATA.items:DATA.items.filter(i=>i.cate
 
 function renderTabs(){
   const t=document.getElementById('tabs');
-  t.innerHTML=CATS.map(c=>{
+  let html=CATS.map(c=>{
     const n=c==="전체"?DATA.items.length:DATA.items.filter(i=>i.category===c).length;
     if(c!=="전체"&&n===0)return'';
-    return `<button class="tab ${c===active?'on':''}" data-c="${c}">${c}<span class="n">${n}</span></button>`;
+    const on=(view==="gallery"&&c===active)?'on':'';
+    return `<button class="tab ${on}" data-c="${c}">${c}<span class="n">${n}</span></button>`;
   }).join('');
-  t.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{active=b.dataset.c;renderTabs();render();});
+  if(SIG) html+=`<button class="tab sig ${view==="signals"?'on':''}" data-sig="1">🛰️ 지금 뜨는 신호</button>`;
+  t.innerHTML=html;
+  t.querySelectorAll('.tab[data-c]').forEach(b=>b.onclick=()=>{view="gallery";active=b.dataset.c;renderTabs();render();});
+  const sb=t.querySelector('.tab[data-sig]');
+  if(sb) sb.onclick=()=>{view="signals";renderTabs();renderSignals();};
+}
+
+function renderSignals(){
+  document.getElementById('grid').hidden=true;
+  const el=document.getElementById('signalsPage'); el.hidden=false;
+  const s=SIG||{};
+  const L=(arr,fmt)=>(arr&&arr.length)?arr.map(fmt).join(''):'<li class="m">—</li>';
+  const num=n=>Number(n).toLocaleString('ko');
+  const trends=L(s.trends,t=>`<li><a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.title)}${t.traffic?` <span class="m">${num(t.traffic)}+</span>`:''}</a></li>`);
+  const vids=L(s.videos,v=>`<li><a href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.title)}<br><span class="m">${esc(v.channel||'')}${v.views?` · ${num(v.views)}뷰`:''}</span></a></li>`);
+  const news=L(s.news,n=>`<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`);
+  el.innerHTML=`<h2 class="sig-head">🛰️ 지금 뜨는 신호</h2>
+    <div class="sig-sub">순찰이 매일 모으는 실시간 트렌드 신호 — 카드거리를 여기서 골라요 · ${esc(s.updated_at||'')}</div>
+    <div class="sig-cols">
+      <div class="sig-col"><h5>🔥 급상승 검색어</h5><ul>${trends}</ul></div>
+      <div class="sig-col"><h5>▶️ 뜨는 유튜브</h5><ul>${vids}</ul></div>
+      <div class="sig-col"><h5>📰 화제 뉴스</h5><ul>${news}</ul></div>
+    </div>`;
 }
 
 // 이미지가 표시 영역보다 작으면 흰 배경+원본크기(contain), 크면 꽉 채우기(cover)
@@ -221,6 +236,8 @@ function splitTitle(t){
 }
 
 function render(){
+  const sp=document.getElementById('signalsPage'); if(sp) sp.hidden=true;
+  const g=document.getElementById('grid'); if(g) g.hidden=false;
   const items=shown();
   document.getElementById('grid').innerHTML=items.map((it,i)=>{
     const t=splitTitle(it.title_ko);

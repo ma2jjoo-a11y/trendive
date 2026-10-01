@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T02:01:10Z",
+  "last_updated": "2026-10-01T02:52:08Z",
   "items": [
     {
       "id": "0be840a5",
@@ -87,6 +87,31 @@
       ]
     },
     {
+      "id": "e516a9fc",
+      "date": "2026-09-30",
+      "category": "📣 마케팅",
+      "title_ko": "버거킹이 아침엔 국밥집 간판을 빌렸다 — 전단지 폰트 하나로 매출 5배",
+      "summary_ko": "버거킹 코리아가 아침 메뉴 판매 매장을 58개에서 120개로 늘리며 노포 전단지 문법을 그대로 빌린 광고를 선보였다. '아침됩니다', '빨라요! 맛있어요!' 같은 촌스러운 카피와 스탠딩 풍선 비주얼로 아침 매출이 일주일 만에 5배 가까이 뛰었다. 소비자들이 매장 전단지를 자발적으로 찍어 올리며 광고비 없는 확산까지 만들어냈다.",
+      "body_ko": "버거킹 코리아는 7월 30일부터 아침 메뉴 판매 매장을 58개에서 120개로 두 배 넘게 늘리고 판매 시간을 오전 11시까지로 설정했다. 출근길과 등굣길 수요를 정면으로 노린 전략이었지만, 진짜 승부는 광고 소재에서 갈렸다. 스튜디오 클로즈업과 세련된 세리프 폰트 대신, 한국인이라면 누구나 아는 동네 백반집·국밥집 전단지 문법을 그대로 가져온 것이다.\n\n메뉴 자체는 오히려 글로벌한 구성이었다. 크루아상위치 3종에 비프킹랩, 크리스퍼랩, 해시브라운, 커피를 더한 라인업으로 단품 가격은 4,300원에서 5,300원 사이였다. 파리 골목 브런치 같은 감성의 메뉴를 을지로 노포 톤의 광고판으로 파는 의도적 부조화가 소비자 시선을 끌었고, 매장 앞 전단지를 찍어 올린 소비자 게시물이 줄줄이 이어지며 광고비 없는 확산이 성과의 큰 축이 됐다.\n\n이 캠페인의 핵심은 '아침을 사 먹는다'는 구매 맥락을 한국에서 이미 소유하고 있는 카테고리가 백반집·국밥집이라는 점을 정확히 읽은 데 있다. 김 서린 유리문과 손글씨 메뉴판, '아침됩니다' 네 글자는 소비자가 수십 년간 신뢰를 학습해온 신호였다. 만약 버거킹이 '프리미엄 모닝' 톤을 그대로 들고 들어갔다면 소비자는 이를 매일의 습관이 아닌 가끔의 브런치로 분류했을 것이라는 분석이다.\n\n배달의민족이 초창기 손글씨 폰트와 급식체 감성으로 동네 중국집 전단지의 친근함을 흡수한 사례도 같은 맥락으로 거론된다. 브랜드 일관성은 소비자가 이미 아는 맥락에서는 자산이지만, 아직 그 용도로 떠올린 적 없는 새 맥락에서는 진입 장벽이 될 수 있다는 점에서, 버거킹은 아침 시간대에 한정해 노포의 얼굴을 잠깐 빌리는 코드 스위칭을 택했고 저녁 메뉴 광고는 기존 톤을 유지하며 리스크를 맥락 안에 가뒀다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/inline-1789454514149_zf5lbr.avif",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/inline-1789454514149_zf5lbr.avif",
+        "https://somako.co.kr/wp-content/uploads/upload-1789692329212_346d3z-2048x1082.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/burger-king-morning-noticeboard-ad/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Burger King",
+        "버거킹",
+        "맥락 마케팅",
+        "브랜드 코드",
+        "레트로 마케팅",
+        "배달의민족"
+      ]
+    },
+    {
       "id": "179d0226",
       "date": "2026-09-30",
       "category": "🎯 브랜딩",
@@ -113,6 +138,35 @@
         "패키지 디자인",
         "타이포그래피",
         "ABC Dinamo"
+      ]
+    },
+    {
+      "id": "c1ccabcd",
+      "date": "2026-09-30",
+      "category": "🎨 디자인",
+      "title_ko": "스위스 그리드로 무대 위 고독을 설계하다 — Florian Cornut의 Compagnie 3B 프레스킷",
+      "summary_ko": "보르도 출신 아트디렉터 Florian Cornut가 Victor Jestin의 소설 'L'homme qui dancer'를 원작으로 한 공연 'Arthur la Nuit'의 프레스킷을 스위스 에디토리얼 디자인으로 풀어냈다. 절제된 타이포그래피와 다큐멘터리 사진의 대비를 통해 일상적 지방 현실과 밤의 몰입감을 동시에 전달하는 방식이 눈에 띈다.",
+      "body_ko": "Florian Cornut는 Victor Jestin의 2022년 소설 'L'homme qui dancer'를 공연 프레스킷으로 옮기는 작업을 맡아, 극단적인 대비를 기반으로 한 레이아웃 시스템을 구축했다. 이야기는 지방 나이트클럽 La Plage 등에서 30년간 춤을 추며 살아가는 소외된 주인공 Arthur를 따라간다. Cornut는 연극적 장식 대신 Dinamo의 Monument Grotesk 타이포그래피와 François Prost가 촬영한 건조한 다큐멘터리 사진을 정면으로 맞붙였다. 인조 야자수가 늘어선 La Fiesta 같은 도로변 클럽 외관을 담은 대낮의 건축 사진은 고대비 헤드라인과 짝을 이루며, 평범한 지방의 현실과 밤의 트랜스 상태 사이의 긴장감을 즉각적으로 드러낸다.\n\n내지 스프레드는 왼쪽에 고정된 내비게이션 컬럼을 축으로 한 비대칭 스위스 그리드로 구성된다. 소문자 대문자 조합(SOMMAIRE) 표시와 얇은 가로선으로 표시된 이 인덱스는 초기 리허설부터 조명 큐 문서화까지 제작 과정을 추적한다. 오른쪽 캔버스에는 넉넉한 여백과 함께 프랑스어·영어 병기 텍스트가 깔끔한 2단 구성으로 배치된다. 러닝 헤더와 푸터는 연락처 정보와 01/27 같은 분수 형태의 페이지 번호 등 정확한 메타데이터를 고정하며, Monument Grotesk는 하단 모서리의 거대한 숫자부터 미세한 기술 크레딧까지 자유자재로 변주된다.\n\n공연 관련 홍보물은 흔히 혼란스러운 콜라주 형식을 취하지만, Cornut는 이 프레스킷을 건축 출판물처럼 다룬다. Été métropolitain 페스티벌 기간 Iboat에서 열린 'Arthur la Nuit' 공연을 기록하며, Hélène Marx의 공연 사진과 연출가 Janloup Bernard, Clarisse Bernez-Cambot Labarta, 퍼포머 Étienne Bories의 크레딧을 함께 담았다. 무광 단색 카드스톡과 제본된 인쇄물은 촉각적인 리듬감을 강조하며, 여백은 조용한 권위로 텍스트를 감싸 기술 공동제작자와 부킹 담당자들이 마찰 없이 자료를 탐색할 수 있도록 돕는다. 이 프로젝트는 문화 홍보물이 구조적 명료함을 따를 때 가장 큰 효과를 발휘한다는 점을 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_compagnie-3b-presskit-editorial-design-layout-florian-cornut.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_compagnie-3b-presskit-editorial-design-layout-florian-cornut.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_compagnie-3b-presskit-editorial-design-layout-florian-cornut_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_compagnie-3b-presskit-editorial-design-layout-florian-cornut_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_compagnie-3b-presskit-editorial-design-layout-florian-cornut_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_compagnie-3b-presskit-editorial-design-layout-florian-cornut_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/editorial-design-compagnie-3b-presskit-florian-cornut/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Florian Cornut",
+        "플로리앙 코르뉴",
+        "Dinamo Monument Grotesk",
+        "모뉴먼트 그로테스크",
+        "에디토리얼 디자인",
+        "François Prost",
+        "프랑수아 프로스트"
       ]
     },
     {
@@ -174,6 +228,62 @@
       ]
     },
     {
+      "id": "e1fca2ef",
+      "date": "2026-09-29",
+      "category": "🎨 디자인",
+      "title_ko": "숨기지 않고 드러낸 결합부 — 1000L 모듈형 가구의 독특한 조인트 미학",
+      "summary_ko": "이탈리아 디자인 스튜디오 Abuse Studio가 선보인 1000L 모듈형 수납 가구는 조인트를 감추지 않고 오히려 시각적 포인트로 삼는다. 45도로 절개된 홈에 앵글 아이언을 끼워 넣는 저비용·저기술 방식이 눈길을 끈다.",
+      "body_ko": "가구 디자이너들은 한때 조인트를 최대한 감추려 애썼지만, 요즘은 오히려 조인트 자체를 시각적 재미의 요소로 활용하는 사례가 늘고 있다. 이탈리아 디자인 스튜디오 Abuse Studio가 선보인 1000L 모듈형 수납 시스템이 그 대표적인 예다.\n\n얼핏 보면 복잡해 보이는 금속 지지대는 사실 정교하게 가공된 부품이 아니다. 기둥(upright) 부재에 45도 각도로 두 개의 홈(커프)을 파고, 그 사이에 평범한 앵글 아이언을 끼워 넣은 구조다. 래커 도장을 하기 전 원목 상태의 유닛을 보면 이 구조가 훨씬 명확하게 드러난다.\n\n다소 생소하게 보일 수 있지만, 이 방식은 저기술(low-tech)이면서도 비용 효율적인 해법이라는 점에서 의미가 있다. 복잡한 가공 없이도 구조적 안정성과 독특한 비주얼을 동시에 확보한 셈이다.\n\n한편 이 가구를 만든 스튜디오의 이름은 'Abuse'로, 이탈리아어에서도 영어와 동일하게 '남용·학대'라는 뜻을 지니고 있어 브랜드가 전달하려는 메시지가 무엇인지는 명확하지 않다.",
+      "image_url": "https://s3files.core77.com/blog/images/lead_n_spotlight/1852174_lead_400_145526_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1852174_lead_400_145526_.jpg",
+        "https://s3files.core77.com/blog/images/1852180_81_145526_gFIQlta3T.jpg",
+        "https://s3files.core77.com/blog/images/1852177_81_145526_JhClXiraT.jpg",
+        "https://s3files.core77.com/blog/images/1852179_81_145526_V3RkjVxGL.jpg",
+        "https://s3files.core77.com/blog/images/1852182_81_145526_mvuPrm0su.jpg"
+      ],
+      "source": "Core77",
+      "url": "https://www.core77.com/posts/145526/The-Unusual-Joinery-in-Abuse-Studios-1000L-Furniture",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Abuse Studio",
+        "어뷰즈 스튜디오",
+        "가구 디자인",
+        "조인트 디자인",
+        "모듈형 가구",
+        "Core77",
+        "이탈리아 디자인"
+      ]
+    },
+    {
+      "id": "bbc46169",
+      "date": "2026-09-28",
+      "category": "📣 마케팅",
+      "title_ko": "로고 없이 감자튀김 상자만으로 하인즈가 읽힌 이유 — 150년 일관성이 만든 복리",
+      "summary_ko": "하인즈가 로고도 제품명도 없이 감자튀김 상자 실루엣만으로 브랜드를 알린 캠페인이 칸 라이언즈 그랑프리를 받았다. 150년간 바꾸지 않은 키스톤 로고 모양이 소비자 인지에 각인돼 있었기에 가능한 결과로, 도달률과 매출 지표에서도 효과가 확인됐다.",
+      "body_ko": "캐나다 리씽크 토론토가 만든 하인즈의 「Look Familiar?」 캠페인은 로고도, 제품명도, 케첩 병 이미지도 없이 감자튀김 상자 하나만으로 하인즈를 떠올리게 했다. 출발점은 패스트푸드 감자튀김 상자의 육각형 실루엣이 하인즈의 150년 된 키스톤 로고와 닮았다는 발견이었다. 미국, 캐나다, 멕시코, 영국, 브라질, 독일, UAE, 중국 등 여러 도심에 옥외광고를 걸고 우버이츠와 연계해 주문 시점에 메시지를 노출시켰다.\n\n결과는 수치로 확인됐다. UAE 도달률 42%, 토론토 33%, 미국 우버이츠 플랫폼 매출 222% 증가, 캐나다 가구 침투율 10.31%(3.38%p 상승), 2025년 캐나다 총매출 1,850만 달러, 영국 시장점유율 4.37%p 상승 등이다. 언론 언급 150건 중 86%의 헤드라인에 '하인즈'라는 이름이 직접 등장했고, 칸 라이언즈 인쇄·퍼블리싱 부문 그랑프리까지 받았다.\n\n이 캠페인이 통한 이유는 광고 자체보다 그 이전에 쌓인 시간에 있다. 감자튀김 상자 실루엣만으로 하인즈가 읽히려면 그 모양이 이미 소비자 머릿속에 각인돼 있어야 하는데, 이는 한 세기 반 동안 로고 모양을 거의 바꾸지 않은 결과다. 반면 트로피카나(2009년 패키지 리뉴얼로 두 달 만에 매출 20% 하락)와 갭(2010년 새 로고를 엿새 만에 원상복구) 사례는 멀쩡히 쌓이던 브랜드 인지를 리뉴얼로 스스로 리셋한 경우다.\n\n이로부터 얻을 수 있는 실무 지침은 세 가지다. 로고와 이름을 지웠을 때도 남는 자산(컬러, 셰이프, 폰트, 말투, 패키지 실루엣)을 점검하는 자산 감사를 먼저 하고, 리뉴얼 안건마다 '이걸 바꾸면 몇 년치 인지를 버리는가'를 물으며, 바꿔야 할 것(메시지·소재)과 지켜야 할 것(코어 자산)을 분리해야 한다는 것이다. 하인즈도 광고 자체는 새로 만들었지만 150년 된 로고에는 손대지 않았다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/inline-1790035000054_m5tqjk.jpg",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/inline-1790035000054_m5tqjk.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1789984741114_nos208-2048x1135.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/heinz-look-familiar-brand-consistency-compounds/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Heinz",
+        "하인즈",
+        "브랜드 리뉴얼",
+        "Cannes Lions",
+        "칸 라이언즈",
+        "Tropicana",
+        "트로피카나",
+        "브랜드 일관성"
+      ]
+    },
+    {
       "id": "a763e0e8",
       "date": "2026-09-28",
       "category": "🎯 브랜딩",
@@ -200,6 +310,35 @@
         "타이포그래피",
         "비주얼 아이덴티티",
         "블록 레터링"
+      ]
+    },
+    {
+      "id": "bdc855dd",
+      "date": "2026-09-28",
+      "category": "🎨 디자인",
+      "title_ko": "스위스 그리드가 스포츠 영상을 만나면 — 노스 오브 노멀 스튜디오의 역동적 브랜딩",
+      "summary_ko": "디자이너 몰나르 페테르(Molnár Péter)가 스포츠 영상 제작사 North of Normal Studio를 위해 칼로 비바렐리(Carlo Vivarelli)식 그리드 체계와 기하학적 스포츠 타이포그래피를 결합한 아이덴티티를 선보였다. 코발트블루와 옵시디언 블랙을 중심으로 한 엄격한 비주얼 시스템은 고속 영상 환경에서도 선명한 인지성을 유지하도록 설계됐다.",
+      "body_ko": "몰나르 페테르(Molnár Péter)는 North of Normal Studio를 위한 브랜딩에서 칼로 비바렐리(Carlo Vivarelli)의 중세기 스위스 그리드 시스템을 디지털 영상 레이아웃으로 번역했다. 이 스튜디오는 스포츠 테마 영상 콘텐츠를 제작하는 만큼, 정체성 또한 템포감과 물리적 움직임, 화면에서의 즉각적인 인지성을 중심으로 구축되어야 했다. 이에 디자이너는 팬톤 286C 코발트블루, 짙은 옵시디언, 깨끗한 오프화이트를 기반으로 한 강렬한 시스템을 선보였다.\n\n중심 심볼은 북유럽 소나무 잎, 나침반 방위, 방향 벡터를 하나의 모듈형 글리프로 압축한 형태다. 베이스라인이 시점을 설정하고, 그 위로 쌓인 쉐브론 모양이 기준면 위로 솟아올라 정점의 운동 능력을 상징한다. 도약하는 스프린터부터 눈 덮인 고산 등반가까지, 고대비의 운동선수 사진들이 이 그래픽 시스템에 실제 인간의 노력을 더한다.\n\n타이포그래피는 Inter를 기본 서체로 삼아, 얇은 숫자부터 두꺼운 Inter Black 디스플레이 타이틀까지 극단적인 굵기 대비를 활용했다. 원형 세그먼트를 분할하고 뒤집어 구성한 마크는 소문자 워드마크와 정확히 맞물리도록 설계됐다. 72pt의 미세한 타입 스펙시먼과 150pt의 거대한 숫자 카운터가 화면 여백을 가로질러 긴장감을 만들어내며, 이러한 구조적 엄격함은 영상이 빠르게 전환되는 방송 환경에서도 브랜딩이 선명함을 잃지 않게 한다.\n\n디지털 스포츠 미디어는 흔히 과도한 모션 그래픽에 의존하지만, North of Normal은 절제된 네거티브 스페이스와 명확한 비주얼 웨이트를 택했다. 이 시스템은 소셜 컷다운, 모션 타이틀 카드, 익스트림 스포츠 다큐멘터리 전반에 걸쳐 일관성을 잃지 않고 확장된다. 몰나르 페테르는 엄격한 타이포그래피 위계와 역동적인 영상 리듬을 결합해, 체계적인 스위스 디자인 원칙이 역동적인 영상 환경에서도 충분히 통할 수 있음을 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_north-normal-molnr-pter.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_north-normal-molnr-pter.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_north-normal-molnr-pter_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_north-normal-molnr-pter_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_north-normal-molnr-pter_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_north-normal-molnr-pter_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/branding-design-north-normal-molnar-peter/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Molnár Péter",
+        "몰나르 페테르",
+        "North of Normal Studio",
+        "노스오브노멀스튜디오",
+        "Carlo Vivarelli",
+        "브랜딩디자인",
+        "스포츠타이포그래피"
       ]
     },
     {
@@ -258,6 +397,63 @@
         "브랜드 아이덴티티",
         "로펌 디자인",
         "미니멀리즘"
+      ]
+    },
+    {
+      "id": "041bc06d",
+      "date": "2026-09-27",
+      "category": "🎨 디자인",
+      "title_ko": "런던 디자인 페스티벌, 24번째 가을을 맞다 — 공예와 기술이 한 자리에서 만났다",
+      "summary_ko": "런던 디자인 페스티벌이 24회째를 맞아 돌아왔다. 거대한 천산갑 조형물부터 세인트폴 대성당의 라이트쇼, Tom Dixon(톰 딕슨)의 신작, V&A에서 펼쳐진 공예와 기술의 결합까지 다양한 장면이 소개됐다.",
+      "body_ko": "런던의 나뭇잎이 황금빛으로 물들고 기차가 평소처럼 연착하는 계절, 런던 디자인 페스티벌이 24번째 에디션으로 돌아왔다. 올해 행사에서는 거대한 천산갑 조형물, 세인트폴 대성당에서 펼쳐진 라이트쇼, Tom Dixon의 신작, 그리고 V&A에서 선보인 공예와 기술의 결합 등이 눈길을 끌었다.\n\n특히 올해는 새로운 세대의 디자이너들이 자신만의 방식으로 제작하고 실험하는 모습이 두드러졌다는 점이 특징으로 꼽힌다. 기성 브랜드의 신작뿐 아니라 신진 디자이너들의 독자적인 시도가 함께 조명되며 페스티벌의 스펙트럼을 넓혔다.\n\n행사를 소개한 Anki(앙키)는 제품 혁신과 디자인 전략, 사용자 경험 분야에서 활동해온 독립 디자인 컨설턴트로, Vodafone(보다폰), Trivago(트립어드바이저 계열 트리바고), Fatmap(팻맵) 등과 협업해왔다. 쾰른, 시드니, 바르셀로나에서 학위를 취득한 그는 현재 런던과 쾰른을 오가며 디자인과 여행에 관한 글을 쓰고 있으며, 최근에는 디자이너·작가·엔지니어들과 함께 작은 글로벌 컬렉티브를 결성하기도 했다.",
+      "image_url": "https://s3files.core77.com/blog/images/lead_n_spotlight/1852066_lead_400_145405_.jpeg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1852066_lead_400_145405_.jpeg",
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/lead_400_17083_.jpg",
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/lead_400_18362_.jpg",
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1851527_lead_400_145494_.jpg",
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1851461_lead_400_145488_.png"
+      ],
+      "source": "Core77",
+      "url": "https://www.core77.com/gallery/145405/London-Design-Festival-2026",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "London Design Festival",
+        "런던디자인페스티벌",
+        "Tom Dixon",
+        "톰딕슨",
+        "V&A",
+        "공예와기술",
+        "디자인트렌드"
+      ]
+    },
+    {
+      "id": "5b3b097b",
+      "date": "2026-09-26",
+      "category": "📣 마케팅",
+      "title_ko": "맥주 안 보여주고 칸 그랑프리 — 하이네켄, 사라지는 펍을 지켜 브랜드를 지키다",
+      "summary_ko": "하이네켄은 아일랜드 시골 마을 킬텔리의 폐업 위기 펍 '더 스트리트 바'를 주민들과 함께 되살리는 과정을 다큐멘터리로 담아 2026 칸 라이언즈 크리에이티브 전략 부문 그랑프리를 받았다. 제품을 단 한 컷도 광고하지 않고 맥주가 소비되던 '장소'를 지켜낸 전략이 핵심이다.",
+      "body_ko": "아일랜드 리머릭주의 작은 마을 킬텔리는 상점과 우체국이 모두 문을 닫은 뒤, 마지막 남은 공용 공간인 펍 '더 스트리트 바'마저 주인의 은퇴로 사라질 위기에 처했다. 주민 26명이 돈을 모아 30만 유로(약 4억 7천만 원)에 펍을 직접 사들였고, 요식업 경험이 전혀 없던 이들을 위해 하이네켄이 영업 자문, 바텐더 교육, 장비 지원을 제공하며 자립 기반을 함께 다졌다. 이 과정은 감독 가 오록과 함께 「죽기를 거부한 펍」이라는 다큐멘터리 캠페인으로 완성됐다.\n\n배경에는 2025년 7월 아일랜드 주류산업그룹(DIGI) 의뢰로 경제학자 앤서니 폴리가 작성한 보고서가 있다. 2005년부터 2024년까지 아일랜드에서 문을 닫은 펍이 2,119곳, 전체의 약 4분의 1에 달했고, 개입이 없으면 최대 1,000곳이 더 사라질 수 있다는 전망이었다. 특히 폐업률이 가장 높은 지역이 킬텔리가 속한 리머릭주(20년간 37.2% 감소)였다는 점에서, 이번 캠페인은 통계의 진앙지에서 고른 사례였다.\n\n하이네켄은 '제품이 왜 좋은가'를 설득하는 대신 '제품이 소비되던 장소가 왜 사라지면 안 되는가'를 증명하는 방식을 택했다. 바텐더 교육 프로그램과 운영 가이드, 온라인 자료 허브(loveofpubs.com)까지 구축하며 펍을 되살리는 실행 매뉴얼 자체를 브랜드가 떠안았다. 이 캠페인은 2026 칸 라이언즈에서 크리에이티브 전략 부문 그랑프리를 포함해 PR·다이렉트·B2B·엔터테인먼트 등 총 31개의 라이언을 수상했으며, 하이네켄은 '올해의 크리에이티브 브랜드'로 선정됐다.\n\n더 스트리트 바는 실제로 다시 문을 열었고, 이후 여러 마을이 같은 방식으로 자기 동네 펍을 사들이는 데 성공했다. 광고가 만든 것은 단순한 인지도가 아니라 폐업 곡선을 되돌린 실물 결과였다는 점에서, 이 캠페인은 브랜드가 제품이 아닌 제품이 소비되는 맥락과 장소를 자산으로 볼 때 무엇을 얻을 수 있는지를 보여준다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/inline-1790073574084_pnk2q1.jpg",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/inline-1790073574084_pnk2q1.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1790068212365_txp2om-2048x1536.jpeg",
+        "https://somako.co.kr/wp-content/uploads/upload-1790075094206_o36hdo-1536x374.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1790075705417_439mw2-1536x946.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/heineken-pub-brand-strategy/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "Heineken",
+        "하이네켄",
+        "칸라이언즈",
+        "스토리텔링마케팅",
+        "브랜드전략",
+        "Kilteely",
+        "킬텔리"
       ]
     },
     {
@@ -1389,6 +1585,33 @@
       ]
     },
     {
+      "id": "57cf2eee",
+      "date": "2026-09-09",
+      "category": "📣 마케팅",
+      "title_ko": "멀티컬처 미디어 My Code, C레벨 3인 동시 영입 — 데이터 인텔리전스와 영상으로 체질 개조",
+      "summary_ko": "멀티컬처 미디어·마케팅 기업 My Code가 CRO·CFO·COO 3인을 동시에 선임하며 아마니 던컨 CEO 체제의 경영진 구성을 마무리했다. 동시에 10년치 오디언스 데이터를 기반으로 한 '인텔리전스 센터'를 고객용 상품으로 전환하고, 이중언어 스트리밍 서비스로 영상 사업을 확장하고 있다. 다양성 오디언스 도달력을 파는 회사가 데이터와 자체 IP로 가치 제안을 재정의하는 흐름이다.",
+      "body_ko": "My Code는 화요일 루이스 로메로를 신임 최고매출책임자(CRO), 잉 미아오를 최고재무책임자(CFO), 데이브 리칼지를 최고운영책임자(COO)로 선임했다. 1월에 합류한 아마니 던컨 CEO가 수개월간 구성해 온 경영진 라인업을 완성한 인사다. 로메로와 미아오는 외부 영입이며, 리칼지는 내부 승진이다. 던컨은 \"나에게는 미래에 관한 문제\"라며 \"내 경영진을 만들기 위한 나의 인사\"라고 말했다.\n\n8월 17일 합류한 로메로는 멀티컬처 미디어 업계에서 25년 이상의 경력을 쌓았고, 직전에는 카넬라 미디어(Canela Media)에서 세일즈 부문 EVP를, 그 이전에는 가디언(The Guardian)에서 세일즈 고위직을 맡았다. 8월 말 합류한 미아오는 17년 이상의 마케팅 경력을 갖췄으며 퍼포먼스 마케팅 에이전시 컨버지(Converge)의 CFO 출신이다. 그의 영입은 My Code가 뉴욕을 공식 본사로 확정한 시점과 맞물린다. 4개월간 COO를 맡아 온 리칼지는 제품 마케팅·솔루션 부문 SVP에서 승진했고, 파라마운트·ESPN·아레나 그룹을 거쳐 전사 운영과 고투마켓 전략을 총괄한다.\n\n다양한 오디언스에 도달하는 역량을 세일즈 포인트로 삼는 회사인 만큼 컬처 핏이 핵심 기준이었다. 던컨은 \"My Code는 83%가 다양성 구성원이며, 우리는 우리가 도달하려는 오디언스 자체\"라고 말했다. 이번 인사는 새 리더십 체제에 흔히 따라오는 경영진 교체이기도 하다. 지난해 9월 CRO로 선임된 크리스틴 엘리엇의 자리는 이제 로메로가 맡는다. 창업자였던 전임 CEO 파커 모스는 2025년 물러났고, 던컨의 선임은 2023년 말 My Code를 약 4억 달러 가치로 평가하며 과반 지분을 인수한 사모펀드 에어리얼 얼터너티브스 아래에서의 성장 국면과 겹친다.\n\n사업 측면에서 던컨은 브랜드에 제시하는 가치 제안 자체를 재조정하고 있다. Remezcla, Impremedia, La Opinion, HipLatina 등 멀티컬처 미디어 브랜드 포트폴리오를 보유한 회사는 10년치 오디언스 데이터를 활용한 '인텔리전스 센터'를 구축 중이며, 완성 후에는 내부 도구가 아닌 고객 대면 상품으로 전환할 계획이다. 이미 허쉬(Hershey)와 관련 프로젝트를 진행하고 있다. 또한 익스피리언과 함께 오디언스 그래프 'My Audience +'를 출시했고, 자다키스와 전 NBA 선수 갓 샴갓이 진행하는 'Check It Up'과 예정된 'Silver Spoons' 등 팟캐스트를 추가해 자체 보유 IP 비중을 키우고 있다. 영상 확장도 진행형이다. Remezcla는 10월 이중언어 스트리밍 서비스 'Remezcla Más'를 출시해, 이미 8자리 수 규모를 차지하던 비디오·CTV 사업을 확대했다. 회사는 추가 재무 수치나 수익성에 대해서는 언급을 거부했다.",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/09/MyCode_Logo.jpg?w=600&h=315&crop=1",
+      "images": [
+        "https://static-www.adweek.com/wp-content/uploads/2026/09/MyCode_Logo.jpg?w=600&h=315&crop=1"
+      ],
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/my-code-chief-revenue-financial-operating-officers/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "My Code",
+        "마이코드",
+        "Amani Duncan",
+        "아마니 던컨",
+        "Remezcla",
+        "레메스클라",
+        "멀티컬처 마케팅",
+        "오디언스 데이터",
+        "CTV 스트리밍"
+      ]
+    },
+    {
       "id": "158bed27",
       "date": "2026-09-09",
       "category": "🎯 브랜딩",
@@ -1415,6 +1638,35 @@
         "TT Neoris",
         "브랜드 아이덴티티",
         "타이포그래피 시스템"
+      ]
+    },
+    {
+      "id": "385c2fe9",
+      "date": "2026-09-09",
+      "category": "🎯 브랜딩",
+      "title_ko": "PR 에이전시가 식물 선으로 신뢰를 그리다 — Ricardo Chacoa의 Spring & Tonic 아이덴티티",
+      "summary_ko": "런던 PR 에이전시 Spring & Tonic이 디자이너 Ricardo Chacoa와 함께 새 비주얼 아이덴티티를 공개했다. 올리브 그린·머스터드·크림 팔레트에 섬세한 벡터 선으로 그린 보태니컬 일러스트, 커스텀 세리프 타이포그래피를 결합해 '기업의 신뢰감'과 '유기적인 신선함' 사이의 긴장을 풀어냈다.",
+      "body_ko": "Ricardo Chacoa는 런던 기반 PR 에이전시 Spring & Tonic을 위해 업계의 흔한 클리셰를 의도적으로 피하는 방향을 택했다. 컬러 시스템은 올리브 그린, 진한 머스터드, 깔끔한 크림으로 정제했고, 시스템의 핵심에는 자연 재료와 유기적 모티프를 표현한 섬세한 벡터 라인워크 기반의 보태니컬 일러스트 시스템을 두었다. 이 식물 디테일은 레이아웃의 프레임이 되고 브랜드 콜래터럴을 장식하며, 디지털 우선 브랜드 경험에 촉각적인 질감을 더하는 유연한 그래픽 어휘로 작동한다.\n\n타이포그래피는 커스텀 세리프 글리프와 균형 잡힌 자간으로 전개되어, 디지털과 물리적 플랫폼 양쪽에서 높은 시각적 대비를 만든다. 워드마크 락업은 letter-spacing을 세심하게 조율해 보태니컬 모티프의 유기적인 곡선과 구조적이고 깔끔한 기하학적 레터폼 사이의 균형을 잡는다. 레이아웃은 엄격한 멀티 컬럼 그리드로 고정하고 넉넉한 여백을 확보해, 콘텐츠 카드와 웹 모듈, 디지털 레이아웃을 따라 독자의 시선을 유도한다. 큰 헤드라인과 압축된 메타데이터 블록을 대비시키는 명확한 에디토리얼 스케일링은 반응형 웹부터 인쇄물까지 다양한 접점에서 가독성을 유지한다.\n\n물리적 영역에서는 프리미엄 스테이셔너리 스위트와 명함, 커스텀 캡 같은 브랜디드 머천다이즈로 확장된다. Chacoa는 고해상도 프레젠테이션을 통해 브랜드의 실물 자산을 강조하며 품질을 전달하는 기억에 남는 경험을 설계했다. 스톡 템플릿 대신 맞춤 벡터 지오메트리를 우선한 결과, 아이덴티티는 에이전시의 자신감 있고 현대적인 태도를 드러낸다. 전통적인 브랜딩 원칙과 현대적 디지털 인터페이스를 하나로 묶어 일관되고 지속적인 기업 이미지를 구축한 사례다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_spring-tonic-branding-ricardo-chacoa.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_spring-tonic-branding-ricardo-chacoa.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/visual-identity-spring-tonic-ricardo-chacoa/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Spring & Tonic, 스프링앤토닉",
+        "Ricardo Chacoa, 리카르도 차코아",
+        "Abduzeedo, 압두지도",
+        "비주얼 아이덴티티",
+        "보태니컬 일러스트",
+        "커스텀 세리프",
+        "에디토리얼 그리드"
       ]
     },
     {
@@ -1446,62 +1698,6 @@
         "패키지디자인",
         "브랜드리뉴얼",
         "세리프 워드마크"
-      ]
-    },
-    {
-      "id": "57cf2eee",
-      "date": "2026-09-09",
-      "category": "📣 마케팅",
-      "title_ko": "멀티컬처 미디어 My Code, C레벨 3인 동시 영입 — 데이터 인텔리전스와 영상으로 체질 개조",
-      "summary_ko": "멀티컬처 미디어·마케팅 기업 My Code가 CRO·CFO·COO 3인을 동시에 선임하며 아마니 던컨 CEO 체제의 경영진 구성을 마무리했다. 동시에 10년치 오디언스 데이터를 기반으로 한 '인텔리전스 센터'를 고객용 상품으로 전환하고, 이중언어 스트리밍 서비스로 영상 사업을 확장하고 있다. 다양성 오디언스 도달력을 파는 회사가 데이터와 자체 IP로 가치 제안을 재정의하는 흐름이다.",
-      "body_ko": "My Code는 화요일 루이스 로메로를 신임 최고매출책임자(CRO), 잉 미아오를 최고재무책임자(CFO), 데이브 리칼지를 최고운영책임자(COO)로 선임했다. 1월에 합류한 아마니 던컨 CEO가 수개월간 구성해 온 경영진 라인업을 완성한 인사다. 로메로와 미아오는 외부 영입이며, 리칼지는 내부 승진이다. 던컨은 \"나에게는 미래에 관한 문제\"라며 \"내 경영진을 만들기 위한 나의 인사\"라고 말했다.\n\n8월 17일 합류한 로메로는 멀티컬처 미디어 업계에서 25년 이상의 경력을 쌓았고, 직전에는 카넬라 미디어(Canela Media)에서 세일즈 부문 EVP를, 그 이전에는 가디언(The Guardian)에서 세일즈 고위직을 맡았다. 8월 말 합류한 미아오는 17년 이상의 마케팅 경력을 갖췄으며 퍼포먼스 마케팅 에이전시 컨버지(Converge)의 CFO 출신이다. 그의 영입은 My Code가 뉴욕을 공식 본사로 확정한 시점과 맞물린다. 4개월간 COO를 맡아 온 리칼지는 제품 마케팅·솔루션 부문 SVP에서 승진했고, 파라마운트·ESPN·아레나 그룹을 거쳐 전사 운영과 고투마켓 전략을 총괄한다.\n\n다양한 오디언스에 도달하는 역량을 세일즈 포인트로 삼는 회사인 만큼 컬처 핏이 핵심 기준이었다. 던컨은 \"My Code는 83%가 다양성 구성원이며, 우리는 우리가 도달하려는 오디언스 자체\"라고 말했다. 이번 인사는 새 리더십 체제에 흔히 따라오는 경영진 교체이기도 하다. 지난해 9월 CRO로 선임된 크리스틴 엘리엇의 자리는 이제 로메로가 맡는다. 창업자였던 전임 CEO 파커 모스는 2025년 물러났고, 던컨의 선임은 2023년 말 My Code를 약 4억 달러 가치로 평가하며 과반 지분을 인수한 사모펀드 에어리얼 얼터너티브스 아래에서의 성장 국면과 겹친다.\n\n사업 측면에서 던컨은 브랜드에 제시하는 가치 제안 자체를 재조정하고 있다. Remezcla, Impremedia, La Opinion, HipLatina 등 멀티컬처 미디어 브랜드 포트폴리오를 보유한 회사는 10년치 오디언스 데이터를 활용한 '인텔리전스 센터'를 구축 중이며, 완성 후에는 내부 도구가 아닌 고객 대면 상품으로 전환할 계획이다. 이미 허쉬(Hershey)와 관련 프로젝트를 진행하고 있다. 또한 익스피리언과 함께 오디언스 그래프 'My Audience +'를 출시했고, 자다키스와 전 NBA 선수 갓 샴갓이 진행하는 'Check It Up'과 예정된 'Silver Spoons' 등 팟캐스트를 추가해 자체 보유 IP 비중을 키우고 있다. 영상 확장도 진행형이다. Remezcla는 10월 이중언어 스트리밍 서비스 'Remezcla Más'를 출시해, 이미 8자리 수 규모를 차지하던 비디오·CTV 사업을 확대했다. 회사는 추가 재무 수치나 수익성에 대해서는 언급을 거부했다.",
-      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/09/MyCode_Logo.jpg?w=600&h=315&crop=1",
-      "images": [
-        "https://static-www.adweek.com/wp-content/uploads/2026/09/MyCode_Logo.jpg?w=600&h=315&crop=1"
-      ],
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/my-code-chief-revenue-financial-operating-officers/",
-      "video_url": "",
-      "importance": "medium",
-      "tags": [
-        "My Code",
-        "마이코드",
-        "Amani Duncan",
-        "아마니 던컨",
-        "Remezcla",
-        "레메스클라",
-        "멀티컬처 마케팅",
-        "오디언스 데이터",
-        "CTV 스트리밍"
-      ]
-    },
-    {
-      "id": "385c2fe9",
-      "date": "2026-09-09",
-      "category": "🎯 브랜딩",
-      "title_ko": "PR 에이전시가 식물 선으로 신뢰를 그리다 — Ricardo Chacoa의 Spring & Tonic 아이덴티티",
-      "summary_ko": "런던 PR 에이전시 Spring & Tonic이 디자이너 Ricardo Chacoa와 함께 새 비주얼 아이덴티티를 공개했다. 올리브 그린·머스터드·크림 팔레트에 섬세한 벡터 선으로 그린 보태니컬 일러스트, 커스텀 세리프 타이포그래피를 결합해 '기업의 신뢰감'과 '유기적인 신선함' 사이의 긴장을 풀어냈다.",
-      "body_ko": "Ricardo Chacoa는 런던 기반 PR 에이전시 Spring & Tonic을 위해 업계의 흔한 클리셰를 의도적으로 피하는 방향을 택했다. 컬러 시스템은 올리브 그린, 진한 머스터드, 깔끔한 크림으로 정제했고, 시스템의 핵심에는 자연 재료와 유기적 모티프를 표현한 섬세한 벡터 라인워크 기반의 보태니컬 일러스트 시스템을 두었다. 이 식물 디테일은 레이아웃의 프레임이 되고 브랜드 콜래터럴을 장식하며, 디지털 우선 브랜드 경험에 촉각적인 질감을 더하는 유연한 그래픽 어휘로 작동한다.\n\n타이포그래피는 커스텀 세리프 글리프와 균형 잡힌 자간으로 전개되어, 디지털과 물리적 플랫폼 양쪽에서 높은 시각적 대비를 만든다. 워드마크 락업은 letter-spacing을 세심하게 조율해 보태니컬 모티프의 유기적인 곡선과 구조적이고 깔끔한 기하학적 레터폼 사이의 균형을 잡는다. 레이아웃은 엄격한 멀티 컬럼 그리드로 고정하고 넉넉한 여백을 확보해, 콘텐츠 카드와 웹 모듈, 디지털 레이아웃을 따라 독자의 시선을 유도한다. 큰 헤드라인과 압축된 메타데이터 블록을 대비시키는 명확한 에디토리얼 스케일링은 반응형 웹부터 인쇄물까지 다양한 접점에서 가독성을 유지한다.\n\n물리적 영역에서는 프리미엄 스테이셔너리 스위트와 명함, 커스텀 캡 같은 브랜디드 머천다이즈로 확장된다. Chacoa는 고해상도 프레젠테이션을 통해 브랜드의 실물 자산을 강조하며 품질을 전달하는 기억에 남는 경험을 설계했다. 스톡 템플릿 대신 맞춤 벡터 지오메트리를 우선한 결과, 아이덴티티는 에이전시의 자신감 있고 현대적인 태도를 드러낸다. 전통적인 브랜딩 원칙과 현대적 디지털 인터페이스를 하나로 묶어 일관되고 지속적인 기업 이미지를 구축한 사례다.",
-      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_spring-tonic-branding-ricardo-chacoa.jpg",
-      "images": [
-        "https://cms.abduzeedo.com/sites/default/files/originals/hero_spring-tonic-branding-ricardo-chacoa.jpg",
-        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_0.jpg",
-        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_1.jpg",
-        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_2.jpg",
-        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_spring-tonic-branding-ricardo-chacoa_3.jpg"
-      ],
-      "source": "Abduzeedo",
-      "url": "https://abduzeedo.com/visual-identity-spring-tonic-ricardo-chacoa/",
-      "video_url": "",
-      "importance": "medium",
-      "tags": [
-        "Spring & Tonic, 스프링앤토닉",
-        "Ricardo Chacoa, 리카르도 차코아",
-        "Abduzeedo, 압두지도",
-        "비주얼 아이덴티티",
-        "보태니컬 일러스트",
-        "커스텀 세리프",
-        "에디토리얼 그리드"
       ]
     },
     {
@@ -1560,33 +1756,6 @@
       ]
     },
     {
-      "id": "81ba0d25",
-      "date": "2026-09-08",
-      "category": "🎨 디자인",
-      "title_ko": "Agipo·Topol·Maison Neue의 삼중주 — Typewolf가 고른 'Go RVing'",
-      "summary_ko": "타이포그래피 레퍼런스 사이트 Typewolf가 2025년 9월 26일 'Site of the Day'로 'Go RVing'을 선정했다. 이 사이트는 Agipo, Topol, Maison Neue 세 서체 조합으로 구성됐다. 폰트 선택이 사이트 전체 인상을 좌우하는 사례로 참고할 만하다.",
-      "body_ko": "Typewolf가 2025년 9월 26일자 'Site of the Day'로 'Go RVing'을 선정했다. Typewolf는 웹사이트의 서체 사용을 기록하고 분류하는 독립 타이포그래피 리소스로, 매일 한 곳씩 주목할 만한 사이트를 골라 어떤 폰트가 쓰였는지 함께 공개한다.\n\n이번 선정작에 사용된 서체는 Agipo, Topol, Maison Neue 세 가지다. 서로 다른 성격의 서체를 조합해 위계를 만드는 방식은 웹 타이포그래피에서 가장 기본이면서도 결과 차이가 크게 벌어지는 지점이다. Typewolf는 개별 폰트나 사이트를 이름으로 검색하거나, 전체 폰트·전체 사이트·인기 순위 목록으로 탐색할 수 있게 정리해두고 있어 레퍼런스 수집 도구로 활용도가 높다.\n\nTypewolf는 Jeremiah Shoaf가 만든 독립 프로젝트로, 월 35만 명 이상의 순 방문자가 찾는다. 운영에는 비용과 시간이 들기 때문에 사이트 측은 지속 가능한 사이드 프로젝트로 유지하기 위한 후원을 요청하고 있다.",
-      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-09-26-2x.png",
-      "images": [
-        "https://www.typewolf.com/assets/img/sotd/2025-09-26-2x.png",
-        "https://www.typewolf.com/assets/img/sotd/2025-09-26-big-2x.jpg",
-        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
-      ],
-      "source": "Typewolf",
-      "url": "https://www.typewolf.com/site-of-the-day/go-rving",
-      "video_url": "",
-      "importance": "medium",
-      "tags": [
-        "Typewolf, 타입울프",
-        "Go RVing, 고알빙",
-        "Jeremiah Shoaf, 제레미아 쇼프",
-        "Agipo, 아지포",
-        "Maison Neue, 메종 누",
-        "웹 타이포그래피",
-        "폰트 페어링"
-      ]
-    },
-    {
       "id": "e5b0b16a",
       "date": "2026-09-08",
       "category": "📣 마케팅",
@@ -1617,6 +1786,33 @@
       ]
     },
     {
+      "id": "81ba0d25",
+      "date": "2026-09-08",
+      "category": "🎨 디자인",
+      "title_ko": "Agipo·Topol·Maison Neue의 삼중주 — Typewolf가 고른 'Go RVing'",
+      "summary_ko": "타이포그래피 레퍼런스 사이트 Typewolf가 2025년 9월 26일 'Site of the Day'로 'Go RVing'을 선정했다. 이 사이트는 Agipo, Topol, Maison Neue 세 서체 조합으로 구성됐다. 폰트 선택이 사이트 전체 인상을 좌우하는 사례로 참고할 만하다.",
+      "body_ko": "Typewolf가 2025년 9월 26일자 'Site of the Day'로 'Go RVing'을 선정했다. Typewolf는 웹사이트의 서체 사용을 기록하고 분류하는 독립 타이포그래피 리소스로, 매일 한 곳씩 주목할 만한 사이트를 골라 어떤 폰트가 쓰였는지 함께 공개한다.\n\n이번 선정작에 사용된 서체는 Agipo, Topol, Maison Neue 세 가지다. 서로 다른 성격의 서체를 조합해 위계를 만드는 방식은 웹 타이포그래피에서 가장 기본이면서도 결과 차이가 크게 벌어지는 지점이다. Typewolf는 개별 폰트나 사이트를 이름으로 검색하거나, 전체 폰트·전체 사이트·인기 순위 목록으로 탐색할 수 있게 정리해두고 있어 레퍼런스 수집 도구로 활용도가 높다.\n\nTypewolf는 Jeremiah Shoaf가 만든 독립 프로젝트로, 월 35만 명 이상의 순 방문자가 찾는다. 운영에는 비용과 시간이 들기 때문에 사이트 측은 지속 가능한 사이드 프로젝트로 유지하기 위한 후원을 요청하고 있다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-09-26-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-09-26-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-09-26-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/go-rving",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Typewolf, 타입울프",
+        "Go RVing, 고알빙",
+        "Jeremiah Shoaf, 제레미아 쇼프",
+        "Agipo, 아지포",
+        "Maison Neue, 메종 누",
+        "웹 타이포그래피",
+        "폰트 페어링"
+      ]
+    },
+    {
       "id": "2bf4b7fe",
       "date": "2026-09-02",
       "category": "📣 마케팅",
@@ -1638,35 +1834,6 @@
         "컴투스",
         "게임 콜라보",
         "마케팅"
-      ]
-    },
-    {
-      "id": "41229bb5",
-      "date": "2026-08-26",
-      "category": "🎨 디자인",
-      "title_ko": "Xbox × IKEA, 게이밍 가구를 내놓다 — 컨트롤러가 스툴이 된 'YXSTABY' 9종",
-      "summary_ko": "게임스컴에서 공개된 Xbox의 첫 게이밍 가구 컬렉션 'YXSTABY'(9종). IKEA 디자이너와 Xbox 디자이너가 한 명씩 짝을 이뤄 제품마다 협업했고, 대표작은 Xbox 컨트롤러의 '썸스틱'을 그대로 옮긴 스툴이다. 게임할 때만 튀지 않고 평소엔 집에 자연스럽게 녹아들도록 설계했다.",
-      "body_ko": "8월 26일(현지) 독일 쾰른 게임스컴에서 공개된 YXSTABY는 Xbox의 첫 게이밍 가구다. 9종으로 구성되며, 각 제품은 IKEA 디자이너 1명과 Xbox 디자이너 1명이 한 팀을 이뤄 가구·게이밍 전문성을 결합해 만들었다. 안 쓸 땐 거실에 자연스럽게 녹아들도록 한 게 컨셉이다.\n\n대표작은 Xbox 컨트롤러의 '썸스틱(엄지 스틱)'을 본뜬 스툴이다. 컨트롤러의 원본 3D 모델을 가져와, 실제 썸스틱처럼 모든 방향으로 기울어지는 곡면 베이스에 미끄럼 방지 격자 엣지까지 재현했다. \"사람들이 게임할 때 실제로 곁에 두는 물건을 살폈는데, 썸스틱이 꼭 작은 스툴처럼 보였다\"고 IKEA 디자이너 다비드 발(David Wahl)이 설명했다. \"컨트롤러 원본 설계 파일로 돌아가 비례·질감·좌면 곡률·안정성을 오래 다듬었다. 한눈에 알아보면서도 거실에서 편안하고 기능적이길 바랐다.\"\n\n이 밖에도 컨트롤러의 십자형 D패드를 본뜬 스테인리스 스틸 트레이와 Xbox 시그니처 그린 쿠션, 캐스터·손잡이를 달아 어느 방이든 '게임 스테이션'으로 바꿀 수 있는 수납 가구 등이 포함됐다. 브랜드의 상징적 디자인 요소를 가구로 번역해, 팬에겐 위트를 공간엔 기능을 준 협업이다.",
-      "image_url": "https://static.dezeen.com/uploads/2026/08/hero-ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_0.jpg",
-      "images": [
-        "https://static.dezeen.com/uploads/2026/08/hero-ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_4.jpg",
-        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_8.jpg",
-        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_6.jpg",
-        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_10.jpg"
-      ],
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/08/26/xbox-ikea-gaming-furniture-yxstaby/",
-      "video_url": "",
-      "importance": "high",
-      "tags": [
-        "Xbox",
-        "엑스박스",
-        "IKEA",
-        "이케아",
-        "YXSTABY",
-        "게이밍 가구",
-        "협업"
       ]
     },
     {
@@ -1742,6 +1909,35 @@
       ]
     },
     {
+      "id": "41229bb5",
+      "date": "2026-08-26",
+      "category": "🎨 디자인",
+      "title_ko": "Xbox × IKEA, 게이밍 가구를 내놓다 — 컨트롤러가 스툴이 된 'YXSTABY' 9종",
+      "summary_ko": "게임스컴에서 공개된 Xbox의 첫 게이밍 가구 컬렉션 'YXSTABY'(9종). IKEA 디자이너와 Xbox 디자이너가 한 명씩 짝을 이뤄 제품마다 협업했고, 대표작은 Xbox 컨트롤러의 '썸스틱'을 그대로 옮긴 스툴이다. 게임할 때만 튀지 않고 평소엔 집에 자연스럽게 녹아들도록 설계했다.",
+      "body_ko": "8월 26일(현지) 독일 쾰른 게임스컴에서 공개된 YXSTABY는 Xbox의 첫 게이밍 가구다. 9종으로 구성되며, 각 제품은 IKEA 디자이너 1명과 Xbox 디자이너 1명이 한 팀을 이뤄 가구·게이밍 전문성을 결합해 만들었다. 안 쓸 땐 거실에 자연스럽게 녹아들도록 한 게 컨셉이다.\n\n대표작은 Xbox 컨트롤러의 '썸스틱(엄지 스틱)'을 본뜬 스툴이다. 컨트롤러의 원본 3D 모델을 가져와, 실제 썸스틱처럼 모든 방향으로 기울어지는 곡면 베이스에 미끄럼 방지 격자 엣지까지 재현했다. \"사람들이 게임할 때 실제로 곁에 두는 물건을 살폈는데, 썸스틱이 꼭 작은 스툴처럼 보였다\"고 IKEA 디자이너 다비드 발(David Wahl)이 설명했다. \"컨트롤러 원본 설계 파일로 돌아가 비례·질감·좌면 곡률·안정성을 오래 다듬었다. 한눈에 알아보면서도 거실에서 편안하고 기능적이길 바랐다.\"\n\n이 밖에도 컨트롤러의 십자형 D패드를 본뜬 스테인리스 스틸 트레이와 Xbox 시그니처 그린 쿠션, 캐스터·손잡이를 달아 어느 방이든 '게임 스테이션'으로 바꿀 수 있는 수납 가구 등이 포함됐다. 브랜드의 상징적 디자인 요소를 가구로 번역해, 팬에겐 위트를 공간엔 기능을 준 협업이다.",
+      "image_url": "https://static.dezeen.com/uploads/2026/08/hero-ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_0.jpg",
+      "images": [
+        "https://static.dezeen.com/uploads/2026/08/hero-ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_4.jpg",
+        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_8.jpg",
+        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_6.jpg",
+        "https://static.dezeen.com/uploads/2026/08/ikea-xbox-yxstaby-gaming-furniture_dezeen_2364_col_10.jpg"
+      ],
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/08/26/xbox-ikea-gaming-furniture-yxstaby/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "Xbox",
+        "엑스박스",
+        "IKEA",
+        "이케아",
+        "YXSTABY",
+        "게이밍 가구",
+        "협업"
+      ]
+    },
+    {
       "id": "58aafb13",
       "date": "2026-08-04",
       "category": "📣 마케팅",
@@ -1795,6 +1991,33 @@
       "video_url": "https://www.youtube.com/@helloiamwoninicetomeetyou"
     },
     {
+      "id": "7229f23f",
+      "date": "2026-06-29",
+      "category": "🎨 디자인",
+      "title_ko": "Layer가 만든 모듈러 충전 시스템 'Node & Loft' — 충전기를 배경에서 주인공으로",
+      "summary_ko": "산업 디자이너 벤자민 휴버트가 이끄는 스튜디오 Layer가 인도 액세서리 브랜드 데일리오브젝트(Daily Objects)를 위해 모듈러 멀티 디바이스 충전 시스템 'Node & Loft'를 디자인했다. 늘 '배경 오브제'로 취급되던 충전기를, 교체 가능한 모듈을 끼우는 캐릭터 있는 제품군으로 재해석했다.",
+      "body_ko": "벤자민 휴버트가 이끄는 Layer는 혁신적 테크 제품을 모색하던 인도 액세서리 브랜드 데일리오브젝트를 위해 Node와 Loft를 디자인했다. 양측은 집에서 여러 기기를 충전하는 경험을 더 즐겁고 개인적으로 바꿀 수 있는 카테고리로 멀티 디바이스 충전 솔루션을 지목했다. 휴버트는 \"기기 충전은 일상에서 가장 반복되는 상호작용 중 하나인데, 정작 그 제품들은 배경 오브제처럼 취급된다\"고 말했다.\n\n그는 \"Node와 Loft로 그 경험에 명료함과 유연성, 그리고 캐릭터를 부여하고 싶었다\"며, \"아름답게 작동하고 직관적으로 쓰이면서 데일리오브젝트만의 독자적 시각 언어를 세우는 제품군을 만들고자 했다\"고 덧붙였다. 대부분의 멀티 디바이스 충전 시스템이 순전히 기능적인 콤팩트 스탠드 형태에 머무는 데 반해, 스튜디오는 더 개성 있는 해법을 택했다.\n\nNode 충전 생태계는 2-in-1 또는 3-in-1 도크에 네 가지 교체형 모듈 — 무선 폰 충전기, 무선 충전 디스크, 애플워치 스탠드, 휴대용 램프 — 을 조합하는 방식이다. 필요에 따라 끼우고 빼며 자기만의 충전 구성을 만들 수 있다.",
+      "image_url": "https://static.dezeen.com/uploads/2026/06/layer-node-loft-charging-devices-sq.jpg",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/29/layer-modular-system-charging-devices-at-home/",
+      "importance": "medium",
+      "tags": [
+        "Layer",
+        "Benjamin Hubert",
+        "Daily Objects",
+        "충전기",
+        "제품 디자인",
+        "모듈러"
+      ],
+      "images": [
+        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_7.jpg",
+        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_8.jpg",
+        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_9.jpg",
+        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_13.jpg"
+      ]
+    },
+    {
       "id": "9ec342a6",
       "date": "2026-06-27",
       "category": "📣 마케팅",
@@ -1819,57 +2042,6 @@
         "https://creativereview.imgix.net/uploads/2026/06/Amazon-Port-2.jpg?auto=format&w=1600",
         "https://creativereview.imgix.net/uploads/2026/06/IMG_5226.jpeg?auto=format&w=1600",
         "https://creativereview.imgix.net/uploads/2026/06/IMG_5237.jpeg?auto=format&w=1600"
-      ]
-    },
-    {
-      "id": "fe4c1134",
-      "date": "2026-06-26",
-      "category": "📣 마케팅",
-      "title_ko": "이케아, 가구로 만든 18개국 국기 — 덴츠의 월드컵 캠페인 'Assemble the World'",
-      "summary_ko": "이케아 캐나다가 자사 홈퍼니싱 제품을 조립해 18개국 국기를 표현한 월드컵 캠페인을 선보였다. 덴츠 캐나다가 제작한 'Assemble the World'는 응원 문화를 이케아 특유의 '조립' 정체성과 엮어, 가구를 팬덤의 놀이로 바꿔놓았다.",
-      "body_ko": "덴츠 캐나다가 만든 'Assemble the World'는 총 18개 국기를 이케아 가구와 홈퍼니싱 제품으로 재구성한 캠페인이다. 의자·수납장·텍스타일 같은 일상 제품을 색과 형태에 맞춰 배열해 각국 국기를 완성하는 방식으로, 조립(assemble)이라는 브랜드의 핵심 행위를 응원이라는 감정과 자연스럽게 연결했다.\n\n해당 비주얼은 여름 내내 SNS와 자사 채널, 그리고 이케아 매장 인근 OOH(옥외광고) 지면에 노출된다. 공식 스폰서십에 기대지 않고도 글로벌 스포츠 이벤트의 열기에 올라타, 브랜드 정체성을 위트 있게 드러낸 사례다.",
-      "image_url": "https://creativereview.imgix.net/uploads/2026/06/Ikea-Assemble-the-World-campaign.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1920&h=1080",
-      "source": "Creative Review",
-      "url": "https://www.creativereview.co.uk/ikea-canada-assemble-the-world-football-flag-dentsu/",
-      "importance": "high",
-      "tags": [
-        "Ikea",
-        "이케아",
-        "Dentsu",
-        "덴츠",
-        "월드컵",
-        "World Cup",
-        "캠페인"
-      ],
-      "images": [
-        "https://creativereview.imgix.net/uploads/2026/06/Ikea-Assemble-the-World-campaign.jpg?auto=format&w=1600",
-        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-Flags.jpg?auto=format&w=1600",
-        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-DOOH-World-Flat.jpg?auto=format&w=1600",
-        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-DOOH-Canada-Picture.jpg?auto=format&w=1600"
-      ]
-    },
-    {
-      "id": "0300721d",
-      "date": "2026-06-25",
-      "category": "🎯 브랜딩",
-      "title_ko": "라파(Rapha) 20주년 리브랜딩 — 빈티지 사이클링 자료에서 길어올린 6개 전용 서체",
-      "summary_ko": "사이클링 의류 브랜드 라파가 창립 20년 만에 브랜드 아이덴티티를 재정비했다. 에이전시 Six와 타입 파운드리 Frost가 손잡고, 라파 아카이브 속 빈티지 사이클링 잡지·레이스 인쇄물·저지·기술 매뉴얼에서 영감을 얻어 6개 전용 서체(48개 스타일)를 새로 만들었다. '재발명이 아니라 재점화'가 이번 브리프였다.",
-      "body_ko": "2004년 사이먼 모트람이 런던에서 창립한 라파는 지난 20년간 사이클링 문화의 한 축을 이뤄왔다. Six의 공동창업자이자 크리에이티브 디렉터 대런 퍼스는 \"라파는 사람들이 사이클링을 생각하는 방식을 바꿨고, 평범한 라이딩을 그 이상으로 만들었다\"고 말한다. CEO 프랜 밀러와 최고브랜드책임자 조디 해리슨의 지휘 아래 시작된 이번 작업의 핵심은 명확했다. \"라파를 재발명하는 게 아니라 재점화하는 것\", 그리고 '사이클링의 목소리'로서 라파를 다시 세우는 것이었다.\n\n이 방향은 자연스럽게 타이포그래피로 이어졌고, 영국 파운드리 Frost와의 협업으로 6개 전용 서체와 48개의 새 스타일이 탄생했다. Rapha Sans, Rapha Serif, Mono, Semi-Mono로 구성된 이 글꼴 시스템은 캠페인부터 기술 정보, 디지털 인터페이스까지 매끄럽게 넘나들도록 설계됐다. 퍼스는 \"기존 서체가 헤리티지에 지나치게 뿌리내려 프로 영역에서 커가는 라파를 온전히 대변하지 못했다\"며, \"사이클링의 시각적 유산에서 출발하되 거기에 갇히지 않는 무언가를 원했다\"고 설명했다.\n\n초기 리서치는 역사적 사이클링 출판물과 레이스 인쇄물·저지·기술 매뉴얼 등 종목 자체에서 출발했지만, 곧 1970~90년대의 타입 중심 광고로 확장됐다. \"타이포그래피가 이미지만큼의 감정적 무게를 짊어지던 시기\"였다는 것. 라파 로고의 핵심 스크립트는 유지하되, 새 서체들은 더 동시대적인 인상을 더한다. Six와 Frost는 서체를 따로 디자인하지 않고 캠페인·의류·에디토리얼·디지털·모션에 끊임없이 적용·검증하며 유연성을 확보했다. 퍼스는 \"서체가 목소리를 제공한다면, 조판은 거기에 리듬과 개성을 부여한다\"고 마무리했다.",
-      "image_url": "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_yE7TGtb.gif",
-      "source": "It's Nice That",
-      "url": "https://www.itsnicethat.com/articles/six-frost-rapha-branding-project-250626",
-      "importance": "high",
-      "tags": [
-        "Rapha",
-        "라파",
-        "Six",
-        "Frost",
-        "타이포그래피",
-        "리브랜딩",
-        "서체"
-      ],
-      "images": [
-        "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_yE7TGtb.gif"
       ]
     },
     {
@@ -1900,6 +2072,33 @@
       ]
     },
     {
+      "id": "fe4c1134",
+      "date": "2026-06-26",
+      "category": "📣 마케팅",
+      "title_ko": "이케아, 가구로 만든 18개국 국기 — 덴츠의 월드컵 캠페인 'Assemble the World'",
+      "summary_ko": "이케아 캐나다가 자사 홈퍼니싱 제품을 조립해 18개국 국기를 표현한 월드컵 캠페인을 선보였다. 덴츠 캐나다가 제작한 'Assemble the World'는 응원 문화를 이케아 특유의 '조립' 정체성과 엮어, 가구를 팬덤의 놀이로 바꿔놓았다.",
+      "body_ko": "덴츠 캐나다가 만든 'Assemble the World'는 총 18개 국기를 이케아 가구와 홈퍼니싱 제품으로 재구성한 캠페인이다. 의자·수납장·텍스타일 같은 일상 제품을 색과 형태에 맞춰 배열해 각국 국기를 완성하는 방식으로, 조립(assemble)이라는 브랜드의 핵심 행위를 응원이라는 감정과 자연스럽게 연결했다.\n\n해당 비주얼은 여름 내내 SNS와 자사 채널, 그리고 이케아 매장 인근 OOH(옥외광고) 지면에 노출된다. 공식 스폰서십에 기대지 않고도 글로벌 스포츠 이벤트의 열기에 올라타, 브랜드 정체성을 위트 있게 드러낸 사례다.",
+      "image_url": "https://creativereview.imgix.net/uploads/2026/06/Ikea-Assemble-the-World-campaign.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1920&h=1080",
+      "source": "Creative Review",
+      "url": "https://www.creativereview.co.uk/ikea-canada-assemble-the-world-football-flag-dentsu/",
+      "importance": "high",
+      "tags": [
+        "Ikea",
+        "이케아",
+        "Dentsu",
+        "덴츠",
+        "월드컵",
+        "World Cup",
+        "캠페인"
+      ],
+      "images": [
+        "https://creativereview.imgix.net/uploads/2026/06/Ikea-Assemble-the-World-campaign.jpg?auto=format&w=1600",
+        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-Flags.jpg?auto=format&w=1600",
+        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-DOOH-World-Flat.jpg?auto=format&w=1600",
+        "https://creativereview.imgix.net/uploads/2026/06/IKEA-AssembleTheWorld-DOOH-Canada-Picture.jpg?auto=format&w=1600"
+      ]
+    },
+    {
       "id": "c929d1f6",
       "date": "2026-06-26",
       "category": "🎨 디자인",
@@ -1927,6 +2126,30 @@
       ]
     },
     {
+      "id": "0300721d",
+      "date": "2026-06-25",
+      "category": "🎯 브랜딩",
+      "title_ko": "라파(Rapha) 20주년 리브랜딩 — 빈티지 사이클링 자료에서 길어올린 6개 전용 서체",
+      "summary_ko": "사이클링 의류 브랜드 라파가 창립 20년 만에 브랜드 아이덴티티를 재정비했다. 에이전시 Six와 타입 파운드리 Frost가 손잡고, 라파 아카이브 속 빈티지 사이클링 잡지·레이스 인쇄물·저지·기술 매뉴얼에서 영감을 얻어 6개 전용 서체(48개 스타일)를 새로 만들었다. '재발명이 아니라 재점화'가 이번 브리프였다.",
+      "body_ko": "2004년 사이먼 모트람이 런던에서 창립한 라파는 지난 20년간 사이클링 문화의 한 축을 이뤄왔다. Six의 공동창업자이자 크리에이티브 디렉터 대런 퍼스는 \"라파는 사람들이 사이클링을 생각하는 방식을 바꿨고, 평범한 라이딩을 그 이상으로 만들었다\"고 말한다. CEO 프랜 밀러와 최고브랜드책임자 조디 해리슨의 지휘 아래 시작된 이번 작업의 핵심은 명확했다. \"라파를 재발명하는 게 아니라 재점화하는 것\", 그리고 '사이클링의 목소리'로서 라파를 다시 세우는 것이었다.\n\n이 방향은 자연스럽게 타이포그래피로 이어졌고, 영국 파운드리 Frost와의 협업으로 6개 전용 서체와 48개의 새 스타일이 탄생했다. Rapha Sans, Rapha Serif, Mono, Semi-Mono로 구성된 이 글꼴 시스템은 캠페인부터 기술 정보, 디지털 인터페이스까지 매끄럽게 넘나들도록 설계됐다. 퍼스는 \"기존 서체가 헤리티지에 지나치게 뿌리내려 프로 영역에서 커가는 라파를 온전히 대변하지 못했다\"며, \"사이클링의 시각적 유산에서 출발하되 거기에 갇히지 않는 무언가를 원했다\"고 설명했다.\n\n초기 리서치는 역사적 사이클링 출판물과 레이스 인쇄물·저지·기술 매뉴얼 등 종목 자체에서 출발했지만, 곧 1970~90년대의 타입 중심 광고로 확장됐다. \"타이포그래피가 이미지만큼의 감정적 무게를 짊어지던 시기\"였다는 것. 라파 로고의 핵심 스크립트는 유지하되, 새 서체들은 더 동시대적인 인상을 더한다. Six와 Frost는 서체를 따로 디자인하지 않고 캠페인·의류·에디토리얼·디지털·모션에 끊임없이 적용·검증하며 유연성을 확보했다. 퍼스는 \"서체가 목소리를 제공한다면, 조판은 거기에 리듬과 개성을 부여한다\"고 마무리했다.",
+      "image_url": "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_yE7TGtb.gif",
+      "source": "It's Nice That",
+      "url": "https://www.itsnicethat.com/articles/six-frost-rapha-branding-project-250626",
+      "importance": "high",
+      "tags": [
+        "Rapha",
+        "라파",
+        "Six",
+        "Frost",
+        "타이포그래피",
+        "리브랜딩",
+        "서체"
+      ],
+      "images": [
+        "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_yE7TGtb.gif"
+      ]
+    },
+    {
       "id": "a2c4759c",
       "date": "2026-06-25",
       "category": "🎨 디자인",
@@ -1951,33 +2174,6 @@
         "https://s3files.core77.com/blog/images/1839208_81_144568_huIhfbAVl.jpg",
         "https://s3files.core77.com/blog/images/1839213_81_144568_eUwrzjEE_.jpg",
         "https://s3files.core77.com/blog/images/1839212_81_144568_jLp5LSSYd.jpg"
-      ]
-    },
-    {
-      "id": "7229f23f",
-      "date": "2026-06-29",
-      "category": "🎨 디자인",
-      "title_ko": "Layer가 만든 모듈러 충전 시스템 'Node & Loft' — 충전기를 배경에서 주인공으로",
-      "summary_ko": "산업 디자이너 벤자민 휴버트가 이끄는 스튜디오 Layer가 인도 액세서리 브랜드 데일리오브젝트(Daily Objects)를 위해 모듈러 멀티 디바이스 충전 시스템 'Node & Loft'를 디자인했다. 늘 '배경 오브제'로 취급되던 충전기를, 교체 가능한 모듈을 끼우는 캐릭터 있는 제품군으로 재해석했다.",
-      "body_ko": "벤자민 휴버트가 이끄는 Layer는 혁신적 테크 제품을 모색하던 인도 액세서리 브랜드 데일리오브젝트를 위해 Node와 Loft를 디자인했다. 양측은 집에서 여러 기기를 충전하는 경험을 더 즐겁고 개인적으로 바꿀 수 있는 카테고리로 멀티 디바이스 충전 솔루션을 지목했다. 휴버트는 \"기기 충전은 일상에서 가장 반복되는 상호작용 중 하나인데, 정작 그 제품들은 배경 오브제처럼 취급된다\"고 말했다.\n\n그는 \"Node와 Loft로 그 경험에 명료함과 유연성, 그리고 캐릭터를 부여하고 싶었다\"며, \"아름답게 작동하고 직관적으로 쓰이면서 데일리오브젝트만의 독자적 시각 언어를 세우는 제품군을 만들고자 했다\"고 덧붙였다. 대부분의 멀티 디바이스 충전 시스템이 순전히 기능적인 콤팩트 스탠드 형태에 머무는 데 반해, 스튜디오는 더 개성 있는 해법을 택했다.\n\nNode 충전 생태계는 2-in-1 또는 3-in-1 도크에 네 가지 교체형 모듈 — 무선 폰 충전기, 무선 충전 디스크, 애플워치 스탠드, 휴대용 램프 — 을 조합하는 방식이다. 필요에 따라 끼우고 빼며 자기만의 충전 구성을 만들 수 있다.",
-      "image_url": "https://static.dezeen.com/uploads/2026/06/layer-node-loft-charging-devices-sq.jpg",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/06/29/layer-modular-system-charging-devices-at-home/",
-      "importance": "medium",
-      "tags": [
-        "Layer",
-        "Benjamin Hubert",
-        "Daily Objects",
-        "충전기",
-        "제품 디자인",
-        "모듈러"
-      ],
-      "images": [
-        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_7.jpg",
-        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_8.jpg",
-        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_9.jpg",
-        "https://static.dezeen.com/uploads/2026/06/layer-modular-charging-system-product-design_dezeen_2364_col_13.jpg"
       ]
     },
     {

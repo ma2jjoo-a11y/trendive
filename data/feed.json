@@ -1,6 +1,1557 @@
 {
-  "last_updated": "2026-09-09T00:30:30Z",
+  "last_updated": "2026-10-01T02:01:10Z",
   "items": [
+    {
+      "id": "0be840a5",
+      "date": "2026-10-01",
+      "category": "📣 마케팅",
+      "title_ko": "네이버페이·카카오페이·토스페이, 결제 넘어 일상을 파고드는 법 — 간편결제 3사의 각기 다른 마케팅 전략",
+      "summary_ko": "간편결제 이용률이 10명 중 9명에 달하면서 네이버페이, 카카오페이, 토스페이는 단순 결제 기능을 넘어 각자의 방식으로 소비자 접점을 넓히고 있다. 네이버페이는 포인트 혜택과 신기술 체험을, 카카오페이는 밈과 굿즈로 친숙함을, 토스페이는 슈퍼앱과 브랜드 가치를 전면에 내세운다.",
+      "body_ko": "온라인은 물론 오프라인 결제까지 일상 깊숙이 자리잡은 간편결제 서비스는 이제 편리함만으로는 차별화가 어려워졌다. 네이버페이, 카카오페이, 토스페이는 각자 다른 전략으로 소비자와의 접점을 늘리고 있는데, 그 방식은 뚜렷하게 갈린다.\n\n네이버페이는 얼굴 인증 결제 기능인 페이스사인을 팝업스토어와 공항 스마트패스 등 실생활 서비스와 연결해 체험 기회를 넓혔다. 인벤타리오 문구페어에서는 페이스사인 등록자에게 전용 입장과 포인트를 제공해 자연스러운 사용 동기를 만들었고, 중·고등학생을 겨냥해서는 열품타와 협업한 '네품타 챌린지'와 유튜브 애니메이션 '쌓음꾼들'로 10대 이용자를 포섭했다. 크리에이터 레오티비와는 후쿠오카 여행 콘텐츠를 통해 해외 결제 혜택도 알렸다. 전반적으로 '사용할수록 포인트가 쌓인다'는 메시지를 각인시키는 데 집중하는 모습이다.\n\n카카오페이는 금융을 어렵게 느끼는 소비자를 위해 오이뮤와 협업한 미니북 굿즈 '오늘의 금융'을 선보이며 일상 속 접점을 늘렸다. 또한 <와일드 씽> 캐릭터와 인기 밈을 활용한 '굿딜 좋아' 콘텐츠로 할인 혜택을 노래 가사에 담아 쉽고 재미있게 전달했으며, 유튜브 채널과의 협업을 통해 일본 여행에서의 해외 결제 혜택도 자연스럽게 소개했다. 트렌드와 밈을 활용해 금융을 친숙하게 만드는 것이 핵심 전략이다.\n\n토스페이는 운세, 만보기 등 다양한 미니앱으로 슈퍼앱 전략을 강화하며 금융 앱을 넘어선 라이프스타일 플랫폼으로 자리매김하고 있다. 아티스트 16명과 함께한 뮤직비디오 <Spectrum>으로 토스임팩트라는 브랜드 가치를 전달했고, 크리에이터 김선태와는 '1시간 안에 천만 원 결제하기' 미션 콘텐츠로 페이스페이의 간편함과 선한 영향력을 동시에 보여줬다. 세 서비스 모두 결제 기능 자체보다 소비자의 일상에서 자주 떠오르고 자주 쓰이는 경험을 만드는 데 집중하고 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜간편결제-3대장-마케팅-전략-비교_260916.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜간편결제-3대장-마케팅-전략-비교_260916.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-38-2048x860.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-39-1536x634.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-40.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-41.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ea%b0%84%ed%8e%b8%ea%b2%b0%ec%a0%9c-3%eb%8c%80%ec%9e%a5-%eb%84%a4%ec%9d%b4%eb%b2%84%ed%8e%98%ec%9d%b4%c2%b7%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%8e%98%ec%9d%b4%c2%b7%ed%86%a0%ec%8a%a4%ed%8e%98%ec%9d%b4/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "NaverPay",
+        "네이버페이",
+        "KakaoPay",
+        "카카오페이",
+        "TossPay",
+        "토스페이",
+        "간편결제마케팅"
+      ]
+    },
+    {
+      "id": "e92a2467",
+      "date": "2026-10-01",
+      "category": "🎯 브랜딩",
+      "title_ko": "미니멀리즘은 끝났다 — 스마트폰 브랜딩이 '공업 현장'을 입다",
+      "summary_ko": "StudioDraft가 스마트폰 브랜드 POVA의 로고는 그대로 둔 채, 브루탈리즘 미학을 중심으로 전체 아이덴티티를 재설계했다. 무광 블랙과 산업용 오렌지의 조합, 노출형 하드웨어 디테일, 모듈형 패키징까지 '제작 도구'라는 콘셉트를 하나의 시각 체계로 완성했다.",
+      "body_ko": "StudioDraft는 테크 브랜드 POVA의 핵심 로고는 건드리지 않으면서 브랜드 전체를 아우르는 시각 세계를 새롭게 구축했다. 크리에이터를 위한 도구라는 정체성을 바탕으로, 무광 블랙 표면에 선명한 산업용 오렌지 포인트를 더하고 모듈형 그리드 위에 빼곡한 기술 데이터를 배치했다. 기존의 차갑고 미니멀한 테크 디자인 대신, 실용성과 수공예적 디테일에 뿌리를 둔 브루탈리즘 아이덴티티를 선택한 것이다. 널링 처리된 카메라 베젤, 노출된 육각 나사, 도트 매트릭스 디스플레이 등 하드웨어 자체가 이 방향성을 뒷받침하며, 날카로운 기하학적 타이포그래피가 모든 접점을 관통한다.\n\n패키징은 이 아이덴티티가 실제 공간에서 어떻게 작동하는지 보여주는 핵심 사례다. 실버 페이퍼보드 박스에는 블라인드 디보싱 레터링이 들어가 차분한 소재 기반을 형성하고, 제품 사양은 박스에 직접 인쇄하는 대신 모듈형 접착 라벨에 담았다. 다이컷 오렌지 경고 화살표, 블랙 스펙 카드, 바코드 스티커가 용기 가장자리를 감싸면서 평범한 언박싱을 마치 산업용 테스트 벤치를 여는 듯한 경험으로 바꿔놓는다. 메탈릭 버블 메일러와 크롬 포일 쇼핑백은 이 창고형 미학을 리테일 매장까지 확장시키며, 깔끔한 종이 소재와 유틸리티 테이프의 대비가 전체 톤을 지탱한다.\n\n이러한 일관된 규율은 디지털 생태계와 옥외 캠페인까지 이어진다. 세로형 포스터 6종은 시네마틱한 조명과 블루프린트 좌표, 굵은 타이포그래피로 신제품 출시를 알리고, 도심 빌보드는 이 고대비 비주얼을 거리로 가져온다. 온라인 제품 페이지 역시 같은 언어를 따라 다크 모드 인터페이스 카드 위에 정교한 부품 다이어그램과 선명한 오렌지 포커스 마커를 배치했다. 하드웨어 마감, 리테일 패키징, 반응형 디지털 레이아웃을 하나로 통합함으로써 StudioDraft는 기존 로고를 유지하면서도 테크 기업의 브랜드를 완전히 재정의할 수 있음을 증명한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_pova-rebranding-studiodraft.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_pova-rebranding-studiodraft.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pova-rebranding-studiodraft_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pova-rebranding-studiodraft_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pova-rebranding-studiodraft_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pova-rebranding-studiodraft_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/pova-brand-identity-redesign-studiodraft/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "StudioDraft",
+        "스튜디오드래프트",
+        "POVA",
+        "포바",
+        "브루탈리즘 디자인",
+        "패키징 디자인",
+        "브랜드 아이덴티티"
+      ]
+    },
+    {
+      "id": "afa345e3",
+      "date": "2026-10-01",
+      "category": "🎨 디자인",
+      "title_ko": "타이포그래피 큐레이터가 주목한 사이트 — Typewolf, 'Every'를 오늘의 사이트로 선정",
+      "summary_ko": "타이포그래피 전문 리소스 Typewolf가 2025년 9월 28일 'Every'를 오늘의 사이트(Site of the Day)로 선정했다. Typewolf는 Jeremiah Shoaf가 운영하는 독립 타이포그래피 큐레이션 사이트로, 매달 35만 명 이상의 순방문자를 기록하고 있다.",
+      "body_ko": "타이포그래피 전문 리소스 Typewolf가 2025년 9월 28일 'Every'라는 사이트를 오늘의 사이트(Site of the Day)로 선정해 소개했다. Typewolf는 웹사이트에서 사용된 폰트를 식별하고 아카이빙하는 독립 플랫폼으로, 디자이너들이 레퍼런스를 찾을 때 자주 찾는 창구 중 하나다.\n\nTypewolf는 Jeremiah Shoaf가 만든 타이포그래피 전문 리소스로, 사용자는 폰트 이름을 검색하거나 전체 폰트 목록, 전체 사이트 모음, 인기 순위 리스트를 둘러볼 수 있다. 이 사이트는 매달 35만 명 이상의 순방문자를 기록할 정도로 디자인 업계에서 꾸준히 참고되는 자료로 자리잡았다.\n\nTypewolf 측은 사이트 운영에 많은 비용과 시간이 소요된다는 점을 밝히며, 이 자료가 유용하다고 느끼는 이용자들에게 후원을 요청하고 있다. 이는 독립적으로 운영되는 디자인 큐레이션 플랫폼들이 지속 가능성을 고민하는 흐름을 보여주는 사례이기도 하다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-09-28-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-09-28-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-09-28-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/every-2025",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Typewolf",
+        "타이프울프",
+        "Jeremiah Shoaf",
+        "제레마이아 쇼프",
+        "타이포그래피",
+        "웹디자인",
+        "Site of the Day"
+      ]
+    },
+    {
+      "id": "4ea09dac",
+      "date": "2026-09-30",
+      "category": "📣 마케팅",
+      "title_ko": "편리함 다음은 안정감 — 토스가 앱 안에 식당을 차린 이유",
+      "summary_ko": "토스가 앱인앱 '안정식당'을 열고 'Find Your Safe Zone: 토스 안정감 프로젝트'를 시작했다. 송금·결제 같은 기능적 편리함 이후 남은 유저의 불안을 정서적으로 어루만지며, 콘텐츠와 게이미피케이션, 오프라인 경험을 결합해 장기적인 재방문 루틴을 설계한 것이 특징이다.",
+      "body_ko": "토스는 그간 송금, 결제, 자산 관리 등 금융 전반의 마찰을 없애며 압도적인 편리함을 제공해왔다. 하지만 모든 것이 쉬워진 자리에 'AI 시대 내 자리는 남아 있을까'와 같은 불확실성에 대한 불안이 남는다는 점에 주목해, 앱 '전체' 탭 안 앱인앱 형태로 가상 식당 <안정식당>을 열고 'Find Your Safe Zone: 토스 안정감 프로젝트'를 시작했다. 토스가 정의한 안정감은 완벽한 안전지대가 아니라, 하루를 스스로 계획하고 배우며 성취를 쌓아 '내 삶을 잘 이끌고 있다'는 감각이다.\n\n안정식당에 들어가면 '안정셰프'가 유저를 맞이하고, 하루 한 번 오늘의 안정감 레벨을 기록하면 안정감 캘린더가 채워지며 즉시 토스포인트가 적립된다. 2026년 하반기 동안 '불안 인정', '루틴과 자립', '해방감', '연결과 안녕', '다시 시작할 용기'라는 5가지 테마가 매월 순차 공개되며, 각 테마마다 인터뷰 글, 영상, 팟캐스트 등 다채로운 콘텐츠가 제공된다. 콘텐츠를 클릭하면 응모권을 받아 특별 선물 이벤트에 참여할 수 있는 구조다.\n\n첫 번째 테마 '불안 인정'에서는 선재 스님과 우정욱 셰프의 레시피를 통해 요리와 식사라는 행동으로 마음의 통제감을 회복하게 했고, 신인 배우와 아티스트들의 포트레이트 영상으로 시작 앞의 불안이 누구나 겪는 통과의례임을 보여주었다. 또한 심야 지식 팟캐스트 <Ground Truth>에서는 AI 시대 커리어의 조건을 전문가와 함께 논하며 피상적 위로 대신 실질적인 지식 콘텐츠로 접근했고, 토스팀 내부 실무자들의 AI 생존기를 솔직하게 공개해 유저와의 공감대를 형성했다.\n\n온라인에서 쌓은 응모권은 도자기 브랜드 소일베이커와 협업한 웰컴 선물, 젤라또샵 녹기전에와 협업한 '안정감 맛 젤라또' 교환 등 오프라인 경험으로 이어졌다. 이를 통해 추상적인 '안정감'이라는 가치를 실제 감각으로 전달했다. 기능 경쟁이 상향 평준화된 시장에서 토스는 유저의 멘탈과 라이프스타일을 지탱하는 플랫폼으로 포지셔닝을 확장하며, 금융 거래가 없어도 매일 앱을 켜는 접속 계기를 만들어내고 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜토스-안정감-프로젝트-분석_260918_03.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜토스-안정감-프로젝트-분석_260918_03.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-43.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-45.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-44.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-46.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ed%86%a0%ec%8a%a4-%ec%95%88%ec%a0%95%ec%8b%9d%eb%8b%b9%ec%97%90-%eb%8b%b4%ea%b8%b4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5-%ea%b8%88%ec%9c%b5-%ec%95%b1%ec%9d%b4-%ec%95%88%ec%a0%95%ea%b0%90/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Toss",
+        "토스",
+        "안정식당",
+        "브랜드 마케팅",
+        "앱인앱",
+        "게이미피케이션",
+        "정서 마케팅"
+      ]
+    },
+    {
+      "id": "179d0226",
+      "date": "2026-09-30",
+      "category": "🎯 브랜딩",
+      "title_ko": "흙과 강의 향, 커피 한 봉지에 담다 — Café Gardo 패키징이 그린 산지의 질감",
+      "summary_ko": "프랑스 Entre-Deux-Mers 지역의 로스터리 Café Gardo가 아트디렉터 Florian Cornut와 함께 모듈형 패키징 디자인을 공개했다. 서드웨이브 커피 특유의 미니멀리즘 대신, 산지의 질감과 수작업의 흔적을 담은 타이포그래피와 색채 시스템으로 차별화를 꾀한 점이 눈에 띈다.",
+      "body_ko": "프랑스 남서부 가론강과 도르도뉴강이 합류하는 역사적 지역 Entre-Deux-Mers에서 이름을 따온 Café Gardo는 장인 로스터 Frank Soccio가 Camblanes-et-Meynac에서 설립한 로스터리다. 애그로포레스트리 농장에서 원두를 소싱하고 돛단배를 이용한 저탄소 운송을 우선시하는 브랜드 철학을 바탕으로, 아트디렉터 Florian Cornut는 흙과 강, 수작업과의 연결을 반영한 아이덴티티를 구축했다. 일반적인 서드웨이브 커피의 차가운 미니멀리즘 대신, 따뜻한 수확 색조와 Grant Harder가 촬영한 원산지의 거친 포토 텍스처, 인쇄의 솔직한 흔적들을 통해 농업적 기원과 동시대 그래픽 공예를 연결했다.\n\n타이포그래피 시스템은 표현적인 디스플레이 서체와 기술적 정밀함 사이의 의도적 대비에 기반한다. 메인 워드마크에는 Gabriel Pang의 Bolota를 사용했는데, 통통하고 두꺼운 윤곽이 GARDO에 입체적 무게감을 부여하고, CAFÉ에는 열린 아웃라인 처리를 적용해 질량과 여백의 균형을 맞췄다. 이 유희적인 디스플레이는 ABC Dinamo의 ABC Repro Mono로 절제된다. 모노스페이스 주석, { CAFÉ DE L'ENTRE-DEUX-MERS }를 감싸는 기술적 괄호, 구조화된 선택 그리드가 생산 정보를 실용적 명료함으로 뒷받침하며, 품종명과 수확 노트가 쉽게 읽히도록 타이포그래피 위계를 설계했다.\n\n패키징 시스템은 모듈형 카드와 스티커 위계를 소매용 파우치와 생산 배치에 직접 적용한다. 색상으로 구분된 헤더는 싱글 오리진 릴리즈를 구분하는데, 니카라과산에는 황금빛 황토색을, 에티오피아 마이크로랏에는 짙은 녹음 색을 매치했다. 함께 제공되는 사이드 카드는 기술적 테이스팅 도시에 역할을 하며, 1760미터의 고도, 카보닉 마세레이션 가공법, 로스팅 날짜, 그리고 Claudia Lovo 같은 생산자 정보를 상세히 담는다. 원형 레이더 플레이버 휠은 과일, 설탕, 향신료, 꽃 향 등 맛의 프로필을 매핑한다. 시각적 중심에는 Baptiste De Almeida가 애니메이션화한, 김이 나는 커피 그릇을 감싸 쥔 손 일러스트 마스코트가 자리하며, 각 한 잔의 커피 뒤에 있는 공동체적 의례를 강조한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_caf-gardo-brandingvisual-identity-packaging-florian-cornut.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_caf-gardo-brandingvisual-identity-packaging-florian-cornut.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_caf-gardo-brandingvisual-identity-packaging-florian-cornut_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_caf-gardo-brandingvisual-identity-packaging-florian-cornut_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_caf-gardo-brandingvisual-identity-packaging-florian-cornut_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_caf-gardo-brandingvisual-identity-packaging-florian-cornut_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/florian-cornut-unveils-cafe-gardo-packaging-design/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Florian Cornut",
+        "플로리안 코르뉘",
+        "Café Gardo",
+        "카페 가르도",
+        "패키지 디자인",
+        "타이포그래피",
+        "ABC Dinamo"
+      ]
+    },
+    {
+      "id": "64a44d6c",
+      "date": "2026-09-30",
+      "category": "🎨 디자인",
+      "title_ko": "타이포그래피 큐레이션이 주목한 오늘의 사이트 — 'Board', 카벨과 노이에 하스 그로테스크의 조합",
+      "summary_ko": "타이포그래피 전문 사이트 Typewolf(타입울프)가 2025년 12월 10일 'Board'를 오늘의 사이트로 선정했다. 선정 기준이 된 폰트는 Kabel(카벨)과 Neue Haas Grotesk(노이에 하스 그로테스크) 두 가지다.",
+      "body_ko": "타이포그래피 리소스 사이트 Typewolf가 12월 10일 'Board'라는 웹사이트를 '오늘의 사이트(Site of the Day)'로 소개했다. 이 선정에서 핵심적으로 언급된 요소는 사용된 폰트로, Kabel과 Neue Haas Grotesk 두 서체가 꼽혔다.\n\nTypewolf는 Jeremiah Shoaf(제레미아 쇼프)가 운영하는 독립 타이포그래피 리소스로, 매달 35만 명 이상의 순 방문자를 기록하고 있다. 특정 폰트명이나 사이트명으로 검색하면 관련 사례를 모아볼 수 있으며, 전체 폰트 목록이나 사이트 목록, 인기 순위 등도 별도로 제공된다.\n\n사이트 운영에는 상당한 비용과 시간이 소요되는 만큼, Typewolf는 지속 가능한 사이드 프로젝트로 유지하기 위해 방문자들의 후원을 독려하고 있다. 이는 타이포그래피 큐레이션이 광고 없이도 개인 프로젝트로서 운영될 수 있음을 보여주는 사례이기도 하다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-12-10-2x.jpg",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-12-10-2x.jpg",
+        "https://www.typewolf.com/assets/img/sotd/2025-12-10-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/board",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Typewolf",
+        "타입울프",
+        "Kabel",
+        "카벨",
+        "Neue Haas Grotesk",
+        "노이에 하스 그로테스크",
+        "웹타이포그래피"
+      ]
+    },
+    {
+      "id": "cf043387",
+      "date": "2026-09-29",
+      "category": "📣 마케팅",
+      "title_ko": "2026년 9월, 브랜드가 알아야 할 밈 6개 — 주접부터 장원영까지",
+      "summary_ko": "크리스마스가 100일도 안 남았다는 말이 나올 만큼 유행의 속도가 빨라지는 요즘, 고구마팜이 최신 밈 6가지를 정리했다. 아이돌 주접 밈부터 애니메이션 명대사, 장원영 밈, AI 패러디, 정보 요구 밈까지 브랜드가 활용할 수 있는 트렌드를 다룬다.",
+      "body_ko": "엑스에서 시작된 \"내가 아이돌이었으면 이 파트는 꼭 하고 싶음(직접 부름)\" 밈은 최애의 킬링파트를 모아 보여주는 형식으로, 아이돌뿐 아니라 배우·성우·캐릭터로까지 확장됐다. 브랜드는 제품이나 모델의 매력 포인트를 이 문구와 함께 보여주면 딱딱한 강점 소개를 유쾌하게 전달할 수 있다. 「나의 히어로 아카데미아」의 \"이것은 내가 최고의 히어로가 되기까지의 이야기다\"라는 대사도 콘텐츠 전체를 한 문장으로 압축하는 밈으로 쓰이며, 신제품 개발 과정을 강조하는 브랜드 콘텐츠에 적용할 수 있다.\n\n「블리치」의 명대사 \"느리구나, 쓰러지는 것조차\"는 최근 화재 대피 영상에서 \"느리구나, 대피하는 것조차\"로 패러디되며 바이럴됐다. 반응이 늦었다는 뉘앙스를 담은 만큼 신제품 출시나 프로모션에서 FOMO를 자극하는 데 활용할 수 있지만, 지나치게 재촉하는 인상을 주지 않도록 가벼운 선에서 다뤄야 한다. 한편 '못생기거나 어색한 조합'을 뜻하는 '밤티'의 반대말로 '장원영'이 떠오르며 화제를 모았다. <냉장고를 부탁해>에서 비비가 '장원영 당면'이라 표현한 데 이어, 장원영 본인이 인스타그램에 관련 검색 화면을 올리며 밈을 확산시켰다.\n\nGENER8TION과 영 린의 'STORM II' 뮤직비디오 속, 군무 중 한 사람만 가만히 서 있는 장면은 강렬한 시각적 임팩트로 AI 패러디 밈을 낳았다. 국내에서는 리트리버 군단이나 박명수 같은 친숙한 인물을 활용한 재현 영상이 이어지며, 밈 자체보다 연출 포인트가 2차 바이럴을 만든 사례로 참고할 만하다. 마지막으로 좋아 보이는 대상에 'OO 정보'라고 남기는 댓글 밈은 부러움이나 기대감을 짧게 표현하는 방식으로, 브랜드가 소비자 게시물에 직접 반응하거나 신제품 소개 도입부에 활용하기 좋다.\n\n밈은 형식을 그대로 따라 하기보다 맥락과 소비자가 반응한 포인트를 이해하는 것이 중요하다. 같은 밈이라도 브랜드가 가져오는 포인트에 따라 전혀 다른 콘텐츠가 될 수 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/260921-1.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/260921-1.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-52.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-53-1536x427.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-54.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-55-1536x427.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%eb%82%b4%ea%b0%80-%ea%b3%a0%ea%b5%ac%eb%a7%88%ed%8c%9c%ec%9d%b4%ec%97%88%ec%9c%bc%eb%a9%b4-%ec%9d%b4-%eb%b0%88%ec%9d%80-%ea%bc%ad-%ec%86%8c%ea%b0%9c%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%9d%8c-2026/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "밈",
+        "meme",
+        "장원영",
+        "Jang Wonyoung",
+        "GENER8TION",
+        "제너레이션",
+        "SNS마케팅"
+      ]
+    },
+    {
+      "id": "85ed5acb",
+      "date": "2026-09-29",
+      "category": "🎯 브랜딩",
+      "title_ko": "브라질 모더니즘을 브랜딩하다 — 가구 복원 스튜디오 Voluta의 건축적 아이덴티티",
+      "summary_ko": "디자이너 Tiago Araujo가 브라질 중세기 가구 복원 및 세라믹 큐레이션 스튜디오 Voluta를 위해 건축적 비주얼 아이덴티티를 설계했다. 오스카 니마이어의 기둥과 코보고 브리즈 블록에서 영감을 받아, 콘크리트의 질감과 따뜻한 유기적 재료를 결합한 것이 특징이다.",
+      "body_ko": "Voluta는 '브라질은 모더니즘으로 향한다'는 명확한 전제 위에서 운영되는 스튜디오다. 중세기 가구를 복원하고 수공예 세라믹을 큐레이션하는 이곳을 위해, 디자이너 Tiago Araujo는 역사적 보존을 현대적 삶과 직접 연결하는 디자인 유산 중심의 아이덴티티를 구축했다. 삭막한 갤러리식 표현을 지양하는 대신, 그는 Branco Concreto, Barro Queimado, 로베르토 부를레 마르스(Roberto Burle Marx)의 이름을 딴 Vermelho Burle을 비롯해 Vinho Jacarandá, Mostarda Paulista, Azul Pilotis 등 브라질 디자인사를 기리는 색채 팔레트를 도입했다.\n\n핵심 로고타입은 구조적 대칭과 콘크리트의 질량감을 반영한다. 오스카 니마이어의 기둥과 Futura의 기하학적 절제에서 직접 영감을 받아, Araujo는 엄격한 베지어 곡선으로 커스텀 글자체를 설계했다. 첫 글자 V는 조각된 건축 기둥을 연상시키며, 모든 글리프는 일관된 획 굵기와 균형 잡힌 원형 기하학을 유지한다. 타이포그래피를 넘어 Araujo는 각 글자를 모듈형 그래픽 시스템으로 펼쳐냈는데, 이는 전통 브라질 코보고 브리즈 블록을 연상시킨다. 이 천공 패턴은 견고한 형태와 열린 공간 사이를 유동적으로 오가며, 브랜드 전반에서 역동적인 테두리와 그래픽 악센트로 기능한다. 텍스트 레이아웃에는 Regular와 Medium 두 가지 굵기의 Jost 서체가 짝을 이뤄 인쇄물 전반에서 선명한 가독성을 보장한다.\n\n실물 애플리케이션은 디지털의 정밀함과 원초적인 수공예 감각을 잇는다. Mostarda Paulista 색상의 가느다란 카드에는 반복되는 코보고 패턴과 함께 수집 노트가 담기고, Azul Pilotis 색상의 고객용 엽서에는 대담한 Vermelho Burle 마크가 워크숍 사진과 나란히 배치된다. 이 인쇄물들은 복원된 라운지 체어와 젖은 점토 세라믹의 모습을 담아내며, 두꺼운 무광 용지에 인쇄되어 빈티지 자카란다 목재의 촉감 있는 결과 어우러진다. 붉은 면 캔버스 토트백 바닥에는 금색 로고타입이 새겨져 있으며, 세라믹 워크숍 태그부터 복원 인증서에 이르기까지 이 포괄적인 비주얼 아이덴티티는 브라질 건축을 촉감 있는 브랜드 시스템으로 번역해낸다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_voluta-branding-visual-identity-tiago-araujo.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_voluta-branding-visual-identity-tiago-araujo.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_voluta-branding-visual-identity-tiago-araujo_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_voluta-branding-visual-identity-tiago-araujo_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_voluta-branding-visual-identity-tiago-araujo_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_voluta-branding-visual-identity-tiago-araujo_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/voluta-inside-tiago-araujos-new-visual-identity/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Voluta",
+        "볼루타",
+        "Tiago Araujo",
+        "티아고 아라우호",
+        "브랜드 아이덴티티",
+        "브라질 모더니즘",
+        "코보고 패턴"
+      ]
+    },
+    {
+      "id": "ba3f4edc",
+      "date": "2026-09-29",
+      "category": "🎨 디자인",
+      "title_ko": "타이포그래피 큐레이터가 주목한 오늘의 사이트 — Dirty Vine, Typewolf 선정작에 이름을 올리다",
+      "summary_ko": "타이포그래피 전문 플랫폼 Typewolf가 'Dirty Vine'을 2025년 12월 12일자 '오늘의 사이트'로 선정했다. 월 35만 명 이상이 찾는 독립 큐레이션 매체에서 선정됐다는 사실 자체가 웹 타이포그래피 업계에서 주목할 만한 레퍼런스임을 보여준다.",
+      "body_ko": "웹 타이포그래피 분야의 독립 큐레이션 사이트 Typewolf가 'Dirty Vine'을 2025년 12월 12일자 '오늘의 사이트(Site of the Day)'로 선정했다. Typewolf는 특정 사이트에 쓰인 폰트를 찾거나, 폰트별·사이트별·인기순 목록을 둘러볼 수 있는 리소스로, 디자이너들 사이에서 레퍼런스 수집 창구로 꾸준히 활용되고 있다.\n\nTypewolf는 Jeremiah Shoaf가 운영하는 독립 타이포그래피 자료실로, 매달 35만 명이 넘는 순방문자가 찾는 규모를 갖추고 있다. 운영진은 사이트 유지에 상당한 비용과 시간이 든다는 점을 밝히며, 유용하게 쓰고 있다면 후원을 통해 지속 가능한 사이드 프로젝트로 이어갈 수 있도록 지지해 달라고 요청하고 있다.\n\n'오늘의 사이트'로 선정된다는 것은 웹 타이포그래피와 비주얼 디자인 트렌드를 선도하는 작업물로 인정받는다는 의미를 지닌다. Typewolf의 선정 리스트는 디자이너들이 폰트 선택과 레이아웃 아이디어를 얻는 실질적인 참고 자료로 기능해 왔다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-12-12-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-12-12-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-12-12-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/dirty-vine",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Typewolf",
+        "타이포울프",
+        "Dirty Vine",
+        "더티바인",
+        "Jeremiah Shoaf",
+        "제레마이아 쇼프",
+        "웹 타이포그래피"
+      ]
+    },
+    {
+      "id": "da79726f",
+      "date": "2026-09-28",
+      "category": "📣 마케팅",
+      "title_ko": "카카오, 이모티콘·멜론·페이 한 곳에 — 10월 1일 통합 멤버십 소프트런칭",
+      "summary_ko": "카카오가 이모티콘, 멜론, 카카오페이 등 여러 서비스를 하나로 묶은 통합 멤버십 '카카오멤버십'을 10월 1일 소프트런칭한다. 초기에는 소규모 선착순 가입으로 시작해 단계적으로 확대할 예정이며, 요금과 혜택은 출시 당일 공개된다.",
+      "body_ko": "카카오가 21일, 여러 서비스를 하나의 멤버십으로 통합한 '카카오멤버십'의 오픈 알림 신청을 시작했다고 밝혔다. 이모티콘, 톡클라우드, 선물하기, 멜론, 카카오페이, 카카오증권 등 카카오가 운영해온 다양한 서비스를 연계한 통합 멤버십으로, 카카오가 복수의 서비스를 하나로 묶어 제공하는 것은 이번이 처음이다.\n\n소프트런칭은 10월 1일로 예정돼 있으며, 서비스 안정화를 위해 초기에는 소규모 이용자를 대상으로 선착순 가입을 받는다. 이후 가입 대상을 단계적으로 확대해 나갈 계획이다.\n\n구체적인 이용 요금, 서비스별 세부 혜택, 가입 조건 등 핵심 정보는 아직 공개되지 않았으며 소프트런칭 당일인 10월 1일에 발표될 예정이다. 카카오의 핵심 서비스를 하나의 멤버십으로 엮는다는 점에서 이용자 락인 전략으로 해석될 수 있는 움직임이다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/월-7.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/월-7.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%98%a4%eb%8a%98%ec%9d%98-%eb%89%b4%ec%8a%a4%ed%81%b4%eb%a6%ac%ed%95%91%ea%b3%bc-ai-%ed%8a%b8%eb%a0%8c%eb%93%9c-58/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Kakao",
+        "카카오",
+        "카카오멤버십",
+        "멤버십전략",
+        "멜론",
+        "카카오페이",
+        "구독서비스"
+      ]
+    },
+    {
+      "id": "a763e0e8",
+      "date": "2026-09-28",
+      "category": "🎯 브랜딩",
+      "title_ko": "굵은 글자가 브랜드가 될 때 — Boldtype Management, 타이포그래피로 말하는 젊음의 언어",
+      "summary_ko": "이탈리아 스튜디오 Aptum Studio가 이벤트 기획사 Boldtype Management를 위해 초굵은 지오메트릭 블록 타이포그래피 기반의 비주얼 아이덴티티를 선보였다. 산세리프 얇은 글자와 대비되는 두꺼운 팔각형 블록체가 브랜드의 핵심 그래픽 요소로 작동한다.",
+      "body_ko": "Boldtype Management는 Aptum Studio와 디자이너 Luca Guerci, Matteo Polla, Thomas Garaventa가 함께 작업한 다이내믹한 비주얼 아이덴티티 프로젝트다. 브랜딩의 중심에는 두꺼운 팔각형 블록 형태로 그려진 'BOLD'라는 단어가 자리하며, 이 무거운 커스텀 폰트가 전체 시스템의 메인 히어로 그래픽 역할을 한다. 여기에 강렬한 애시드 옐로우와 부드러운 라벤더 톤이 더해지고, 가느다란 산세리프 텍스트가 묵직한 블록 레터와 대비를 이루며 날카로운 인상을 완성한다. 레이아웃은 도시의 거친 사진과 깔끔한 컬러 필드, 볼드한 타입 마크를 함께 배치해 모든 화면에서 글자가 강한 시각적 무게감을 갖도록 설계됐다.\n\n이 브랜드 언어는 인쇄물과 웹 콘텐츠를 거쳐 도시의 벽과 휴대폰 화면까지 확장된다. 대형 거리 포스터에는 밝은 컬러 블록과 함께 'Don't Be Old, Be Bold'라는 문구가 등장하며, 북 커버와 행잉 아트 프린트, 코튼 셔츠에는 밝고 어두운 배경 위에 블록 레터가 배치된다. 소셜미디어 포스트 프레임은 깔끔한 이미지 테두리로 이벤트 소식을 전달하며, 모든 인쇄물은 깊은 색감의 잉크와 선명한 선 처리를 공통적으로 강조한다. 이 굵은 폰트는 마치 이벤트 홍보를 위한 하나의 건축 블록처럼 다뤄진다.\n\n이러한 아이덴티티는 젊은 세대에게 새로운 목소리를 부여하는 이벤트 매니지먼트 브랜딩으로 기능한다. 묵직한 타이포그래피와 역동적인 거리 사진을 결합함으로써 브랜드는 명확한 무드를 만들어내고, 거친 에너지와 정제된 이벤트 레이아웃을 하나로 엮어낸다. 이는 젊은 타깃을 위한 브랜드 마크를 설계하는 디자인팀에게 유의미한 참고 사례가 되며, 모든 포스터 레이아웃에서 신선함을 유지하는 디자인 선택을 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_0.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_3.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_4.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/boldtype-management-visual-identity_5.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/boldtype-management-visual-identity-and-typography-branding/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Aptum Studio",
+        "압툼 스튜디오",
+        "Boldtype Management",
+        "볼드타입 매니지먼트",
+        "타이포그래피",
+        "비주얼 아이덴티티",
+        "블록 레터링"
+      ]
+    },
+    {
+      "id": "384cf302",
+      "date": "2026-09-28",
+      "category": "🎨 디자인",
+      "title_ko": "오늘의 타이포그래피 레퍼런스 — Typewolf가 고른 'Heart & Soil'의 폰트 조합",
+      "summary_ko": "타이포그래피 큐레이션 사이트 Typewolf(타입울프)가 'Heart & Soil'을 오늘의 사이트로 선정했다. 선정 기준은 Cardinal, Sweet Sans, Baskerville 세 가지 서체의 조합이다. 매달 35만 명 이상이 방문하는 이 독립 운영 사이트는 실무 디자이너들에게 실제 적용 사례 중심의 폰트 레퍼런스로 꾸준히 참고되고 있다.",
+      "body_ko": "Jeremiah Shoaf(제레미아 쇼프)가 운영하는 타이포그래피 리소스 사이트 Typewolf(타입울프)가 'Heart & Soil'을 2025년 12월 13일자 오늘의 사이트로 소개했다. 이번 선정에서 눈에 띄는 요소는 세 가지 서체의 조합으로, 클래식한 세리프 계열의 Cardinal(카디널)과 Baskerville(바스커빌), 그리고 산세리프 계열의 Sweet Sans(스위트 산스)가 함께 쓰였다.\n\nTypewolf는 특정 폰트명이나 사이트명을 검색해 실제 웹에서 어떻게 활용되는지 확인할 수 있도록 돕는 구조로, 전체 폰트 목록과 사이트 목록, 인기 순위 등을 함께 제공한다. 디자이너들이 레퍼런스를 찾을 때 이론보다 실제 적용 사례를 먼저 참고하는 흐름을 보여주는 운영 방식이다.\n\n이 사이트는 매달 35만 명 이상의 순 방문자를 기록하고 있으며, 독립적으로 운영되는 만큼 유지에 상당한 비용과 시간이 든다는 점도 함께 언급됐다. 이는 개인이 운영하는 전문 큐레이션 매체가 디자인 업계에서 꾸준히 영향력을 유지하기 위해 커뮤니티의 지지가 필요하다는 점을 보여주는 사례이기도 하다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-12-13-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-12-13-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-12-13-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/heart-and-soil",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Typewolf",
+        "타입울프",
+        "타이포그래피",
+        "Cardinal",
+        "Sweet Sans",
+        "Baskerville",
+        "웹폰트"
+      ]
+    },
+    {
+      "id": "c15974de",
+      "date": "2026-09-27",
+      "category": "📣 마케팅",
+      "title_ko": "오브젝트 헤드가 쏘아올린 인외콤 신드롬 — 롯데월드 다크 판타지 페스티벌의 흥행 공식",
+      "summary_ko": "롯데월드가 할로윈 시즌 'Mystery Party' 테마로 선보인 다크 판타지 페스티벌이 SNS를 뜨겁게 달구고 있다. 좀비·뱀파이어 같은 익숙한 공포 클리셰 대신 '오브젝트 헤드(인외)'라는 마이너 서브컬처 장르를 전면에 내세운 캐릭터 디자인이 팬아트와 2차 창작 열풍을 불러일으켰다.",
+      "body_ko": "롯데월드는 가을 시즌을 맞아 'Mystery Party'를 테마로 내걸고 다크 판타지 페스티벌 퍼레이드를 선보였다. 등불을 머리로 쓴 정장 캐릭터, 장미 머리에 드레스를 입은 캐릭터 등 기존 할로윈 콘텐츠에서 흔히 보던 좀비·뱀파이어·귀신 클리셰와는 전혀 다른 비주얼이 눈길을 끌었다. 이런 사물 머리를 가진 캐릭터는 서브컬처에서 '오브젝트 헤드' 혹은 '인외'로 불리며, 이를 좋아하는 팬덤은 '인외콤이 있다'고 표현한다. 국내에서는 아직 특정 마니아층 중심의 마이너한 장르에 머물러 있었다.\n\n오브젝트 헤드의 매력은 이목구비가 없어 표정을 읽을 수 없다는 점에서 역설적으로 나온다. 명확한 정보가 제한적인 만큼 캐릭터의 성격과 서사를 상상할 여지가 커지고, 소비자들은 퍼포먼스를 보며 설정을 유추하는 과정 자체를 즐긴다. 대중적으로 낯선 장르를 브랜드가 선택했다는 점도 주목할 만하다. 해당 장르의 확실한 수요층을 자극해 자발적 바이럴을 끌어내는 동시에, 대중에게는 기존에 보기 힘들었던 차별화된 볼거리를 제공하는 전략으로 작동했다.\n\n롯데월드는 소비자 반응에 맞춰 캐릭터 설정을 단계적으로 공개했다. 베스퍼, 칸드라, 로젤이라는 이름과 함께 성격 묘사, 캐릭터 간 일상적인 모습을 담은 영상을 순차적으로 선보이며 소비자가 상상으로 채워가던 설정을 공식화했다. 이는 궁금증을 해소하면서도 다음 콘텐츠에 대한 기대감을 유지시키고, 브랜드가 소비자 반응을 세심하게 살피고 있다는 이미지를 형성하는 데 기여했다.\n\n엑스(X)에서는 평소 사물이었다가 축제 기간에만 캐릭터로 변한다는 설정의 팬아트가 387만 조회수를 기록하는 등 다양한 2차 창작물이 쏟아졌다. 롯데월드는 여기에 팬아트 콘테스트를 더해 서브컬처 팬들의 참여를 유도했고, 이를 통해 소비자가 캐릭터와 설정을 어떻게 해석하고 소비하는지 파악할 기회도 함께 얻었다. 아직 많이 다뤄지지 않은 영역을 먼저 개척한 이번 사례는, 낯설지만 분명한 매력을 가진 소재를 찾는 브랜드에게 하나의 방향성을 제시한다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/260922.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/260922.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-89.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-1-6.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-2-5.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-3-5.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%9d%b8%ec%99%b8%ec%bd%a4-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ec%9e%90%ea%b7%b9%ed%95%9c-%eb%a1%af%eb%8d%b0%ec%9b%94%eb%93%9c-%eb%8b%a4%ed%81%ac-%ed%8c%90%ed%83%80%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "LotteWorld",
+        "롯데월드",
+        "ObjectHead",
+        "오브젝트헤드",
+        "서브컬처",
+        "팬아트",
+        "브랜드마케팅"
+      ]
+    },
+    {
+      "id": "a9550553",
+      "date": "2026-09-27",
+      "category": "🎯 브랜딩",
+      "title_ko": "로펌 브랜딩의 공식을 깨다 — 블루 톤 대신 블랙앤화이트로 승부한 PCK",
+      "summary_ko": "캐나다 법률 그룹 PCK Intellectual Property가 Brand Brothers와 함께 새로운 브랜드 아이덴티티를 공개했다. 전통적인 로펌의 파란 톤과 문장(紋章) 디자인 대신, 엄격한 그리드 기반의 모노그램과 블랙앤화이트 비주얼로 날카롭고 현대적인 인상을 구축했다.",
+      "body_ko": "토론토에 본사를 두고 위니펙과 워싱턴에 지사를 운영하는 PCK Intellectual Property는 특허, 상표, 소송 등을 다루는 법률 그룹이다. Brand Brothers(브랜드 브라더스)는 이 회사의 브랜드 아이덴티티를 설계하며 로펌 특유의 안전한 블루 톤과 둔탁한 크레스트 디자인에서 완전히 벗어났다. 대신 순수한 블랙과 화이트의 강한 대비를 전면에 내세워, 명료함과 균형, 목적성을 시각적으로 전달한다.\n\n시스템의 중심에는 엄격한 그리드 위에 설계된 커스텀 모노그램이 자리한다. 글자는 넓은 자세와 낮은 기준선을 가져 안정감을 준다. 핵심은 C와 K가 만나는 지점으로, 두 글자의 획이 하나의 날카로운 형태로 합쳐지며 두 방향으로 뻗어나가는 끝을 만든다. 이 커스텀 형태는 지속적인 법률 케어와 기술적 성장을 암시한다. 순수한 블랙 컬러 덕분에 모노그램은 어떤 크기에서도 선명함을 유지하며, 정돈된 자간은 본문 텍스트와의 위계를 분명히 한다.\n\n메인 마크 외에도 Brand Brothers는 C-K 결합부에서 추상적인 심볼을 추출했다. 부드러운 곡선과 내부 컷아웃을 가진 이 형태는 포스터, 책자, 웹페이지 등에서 강렬한 브랜드 아이콘으로 활용된다. 스튜디오는 웹사이트와 클라이언트 문서도 함께 리뉴얼했는데, 두꺼운 텍스트 블록 대신 여백과 강한 그리드, 볼드한 타이포그래피를 적용했다. 명함과 폴더 같은 실물 인쇄물에는 두꺼운 종이 위에 짙은 블랙 잉크를 사용해 완성도를 더했다.\n\n이번 작업은 로펌도 신선한 그래픽 디자인을 받아들일 수 있음을 보여준다. 클라이언트의 신뢰감을 지키면서도 실질적인 디자인 역량을 드러내는 균형을 이뤘다는 점이 특징이다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_pck-intellectual-property-brand-identity-brand-brothers.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_pck-intellectual-property-brand-identity-brand-brothers.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pck-intellectual-property-brand-identity-brand-brothers_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pck-intellectual-property-brand-identity-brand-brothers_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pck-intellectual-property-brand-identity-brand-brothers_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_pck-intellectual-property-brand-identity-brand-brothers_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-pck-brand-brothers/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Brand Brothers",
+        "브랜드 브라더스",
+        "PCK",
+        "모노그램",
+        "브랜드 아이덴티티",
+        "로펌 디자인",
+        "미니멀리즘"
+      ]
+    },
+    {
+      "id": "55552f7b",
+      "date": "2026-09-27",
+      "category": "🎨 디자인",
+      "title_ko": "타이포그래피 큐레이터가 고른 오늘의 사이트, 'Daylight' — Typewolf 선정",
+      "summary_ko": "타이포그래피 전문 사이트 Typewolf가 2025년 12월 14일 'Daylight'를 오늘의 사이트로 선정했다. Typewolf는 Jeremiah Shoaf가 운영하는 독립 타이포그래피 리소스로, 매달 35만 명 이상이 방문하는 영향력 있는 디자인 레퍼런스다.",
+      "body_ko": "타이포그래피 애호가와 디자이너들 사이에서 꾸준히 참고되는 사이트 Typewolf가 'Daylight'를 12월 14일자 오늘의 사이트로 선정했다. Typewolf는 특정 폰트 이름으로 검색하거나 전체 폰트, 전체 사이트, 인기 목록을 직접 둘러볼 수 있는 구조로, 웹에서 실제로 사용되고 있는 타이포그래피 사례를 모아 보여주는 아카이브형 플랫폼이다.\n\nTypewolf는 Jeremiah Shoaf가 개인 프로젝트로 시작해 운영해 온 독립 타이포그래피 리소스로, 현재 월간 순 방문자 수가 35만 명을 넘는다. 운영에 상당한 비용과 시간이 들어가는 만큼, 사이트는 후원을 통해 지속 가능한 사이드 프로젝트로 유지되고 있음을 밝히고 있다.\n\n이번에 선정된 Daylight는 URL 경로상 헬스(건강) 분야와 관련된 사이트로 추정되며, Typewolf의 '오늘의 사이트'로 소개된 만큼 타이포그래피 활용 면에서 주목할 만한 레퍼런스로 꼽힌 것으로 보인다. 다만 구체적인 서체명이나 레이아웃 디테일은 원문 발췌에서 확인되지 않는다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-12-14-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-12-14-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-12-14-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/daylight-health",
+      "video_url": "",
+      "importance": "low",
+      "tags": [
+        "Typewolf",
+        "타이포울프",
+        "Jeremiah Shoaf",
+        "제레마이아 쇼프",
+        "Daylight",
+        "타이포그래피",
+        "웹디자인"
+      ]
+    },
+    {
+      "id": "09195ac0",
+      "date": "2026-09-26",
+      "category": "📣 마케팅",
+      "title_ko": "익숙한 기준에 물음표를 던지다 — 랩신·Purely Elizabeth·이케아·애플의 역발상 캠페인",
+      "summary_ko": "랩신, Purely Elizabeth, 이케아, 애플 등은 소비자가 의심 없이 따르던 선택 기준 자체에 질문을 던지는 캠페인을 선보였다. 향, 함량, 가격, 편견이라는 익숙한 경쟁 축을 비틀어 각 브랜드만의 차별화 지점을 만들어낸 것이 공통점이다.",
+      "body_ko": "랩신은 2024년부터 빨래 냄새의 원인이 세균이며 향기만으로는 해결할 수 없다는 메시지를 전해왔다. 지난 7월 공개된 캠페인에서는 섬유유연제의 향기 이름에 불쾌한 냄새를 붙이는 방식으로, 향으로 냄새를 덮어도 결국 악취와 섞일 수 있다는 점을 보여주고 세균 관리라는 해결책으로 섬유항균제를 제안했다. 익숙한 섬유유연제를 기준점으로 삼아 낯선 카테고리인 섬유항균제의 차별점을 쉽게 이해시킨 전략이다.\n\n미국 그래놀라 브랜드 Purely Elizabeth(퓨어리 엘리자베스)는 단백질 열풍이 과열된 시장에서 'Protein Product Madness' 캠페인을 선보였다. 젤리, 와인, 치약 등 뜻밖의 제품에 단백질이 강조되는 모습을 보여주며 그 출처에 의문을 던지고, 자사 제품은 견과류·씨앗·귀리 같은 원재료에서 얻은 단백질이라는 점을 강조했다. 단백질 함량 경쟁 대신 출처라는 새로운 기준을 제시한 것이다.\n\n이케아는 벨기에에서 가구 가격을 재구성하는 캠페인을 진행했다. 소파 가격 499유로를 아이가 소파 위에서 뛰어노는 한 순간의 가격인 0.00000063유로로 환산해 제시하며, 가격 경쟁이 치열한 시장에서 소비를 추억을 만드는 행위로 재해석했다.\n\n애플은 접근성 캠페인 'I'm Not Remarkable'을 통해 장애가 있는 학생들의 평범한 대학 생활을 뮤지컬 형식으로 담아냈다. 학생들은 '나는 대단하지 않아'라는 가사로 장애인의 삶을 특별하게만 보는 시선에 반박했고, VoiceOver 등 접근성 기능은 일상을 뒷받침하는 도구로 자연스럽게 표현됐다. 네 캠페인 모두 스펙과 최저가라는 익숙한 경쟁 축 대신, 당연하게 여겨지던 기준에 질문을 던지는 방식으로 차별화를 만들어냈다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/고팜-썸네일-1-scaled.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/고팜-썸네일-1-scaled.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-86.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/이케아_인스타그램-@ogilvy_1.jpg",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-87.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-88.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%95%a0%ed%94%8c%eb%b6%80%ed%84%b0-%ec%9d%b4%ec%bc%80%ec%95%84%ea%b9%8c%ec%a7%80-%ea%b3%a0%ec%a0%95%ea%b4%80%eb%85%90%ec%9d%84-%eb%b9%84%ed%8a%bc-%eb%b8%8c%eb%9e%9c%eb%93%9c-%ec%ba%a0%ed%8e%98/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Rapsin",
+        "랩신",
+        "Purely Elizabeth",
+        "퓨어리 엘리자베스",
+        "IKEA",
+        "이케아",
+        "Apple",
+        "애플",
+        "브랜드캠페인"
+      ]
+    },
+    {
+      "id": "23495ee7",
+      "date": "2026-09-26",
+      "category": "🎯 브랜딩",
+      "title_ko": "안에서 밖을 보다 — 명화 위에 거꾸로 새긴 타이포그래피",
+      "summary_ko": "바르샤바 디자이너 Jarosław Dziubek(야로스와프 지우베크)가 전시 'From The Inside'를 위해 거울 반전 타이포그래피와 눈 모양 조형을 결합한 비주얼 아이덴티티를 공개했다. 고전 회화 위에 반전된 대형 산세리프 글자를 겹쳐 전시 그래픽의 수동적 역할에 도전한 것이 핵심이다.",
+      "body_ko": "바르샤바 기반 디자이너 Jarosław Dziubek(야로스와프 지우베크)이 전시 'From The Inside'를 위한 개념적 그래픽 시스템을 선보였다. 전시의 주제는 '내부에서 바라본 예술'로, 관람객이 고전 미술 작품을 현대적 시각으로 어떻게 인식하는지를 탐구한다. 보통 전시 그래픽은 큐레이션에 종속된 중립적 요소로 머무르지만, 지우베크는 이 수동적 구도를 적극적으로 흔드는 정체성을 설계했다. 표준적인 읽기 습관을 뒤집어 새로운 시각적 호기심을 유발하는 방식이다.\n\n눈 모양의 조리개 심볼이 전체 아이덴티티의 중심축 역할을 한다. 이 그래픽 마크는 의도적으로 반전된 글자들로 이루어진 굵은 타이포그래피를 감싸며, 내부 렌즈를 통해 외부를 바라보는 행위를 시각적으로 모방한다. 압축된 대형 산세리프 글자체는 야외 포스터와 가림막에서 존재감을 드러내고, 고대비 타이포그래피는 바로크·르네상스 유화와 직접 충돌한다. 깨끗한 흰색 윈도우 형태가 역사적 장면과 초상화를 가로지르며, 상단 여백에는 허가 스탬프와 일정 날짜가 배치된다. 비대칭적인 타이포그래피 스케일이 헤드라인과 관람 정보 사이의 균형을 잡고, 차분한 회색과 모스그린 톤이 은근한 깊이를 더한다.\n\n이 아이덴티티는 실제 프로모션 및 전시 소품으로도 충실히 구현됐다. 거리 포스터는 낡은 목재 공사장 가림막에 그대로 부착되고, 전시 도록은 원형 타이포그래피 컷아웃이 들어간 풀컬러 인물화 표지를 사용한다. 제본된 브로셔는 검은색 와이어 스테이플만으로 고정해 절제된 편집 디자인을 유지했으며, 콘크리트 벽에는 흰색 스탬프 글자가 새겨진 목공용 연필이 등장한다. 눈 모양 심볼이 큼지막하게 새겨진 면 소재 토트백, 넉넉한 여백을 살린 흰색 입체 도록 케이스 등도 함께 제작됐다. 이러한 디테일은 그래픽 시스템을 물리적 현실에 단단히 뿌리내리게 한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_from-inside-jarosaw-dziubek.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_from-inside-jarosaw-dziubek.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_from-inside-jarosaw-dziubek_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_from-inside-jarosaw-dziubek_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_from-inside-jarosaw-dziubek_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_from-inside-jarosaw-dziubek_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/visual-identity-inside-jaroslaw-dziubek/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Jarosław Dziubek",
+        "야로스와프 지우베크",
+        "Abduzeedo",
+        "어버듀지도",
+        "Visual Identity",
+        "비주얼 아이덴티티",
+        "전시 디자인"
+      ]
+    },
+    {
+      "id": "0678f085",
+      "date": "2026-09-26",
+      "category": "🎨 디자인",
+      "title_ko": "여백이 유리를 말하게 하다 — Suerte Studio의 Xe Vero 카탈로그",
+      "summary_ko": "무라노 유리 공방 Xe Vero의 카탈로그를 이탈리아 스튜디오 Suerte Studio가 디자인했다. 계산된 여백과 에디토리얼 그리드로 유리 공예의 색감과 곡선, 빛의 굴절을 강조하는 것이 핵심이다.",
+      "body_ko": "역사 깊은 무라노 유리 공방을 위한 출판물을 디자인하는 일은 수백 년에 걸친 베네치아 장인 전통과 타협 없는 현대적 시각 언어 사이의 균형을 요구한다. Xe Vero를 위해 이탈리아 스튜디오 Suerte Studio는 '비앙코 프로제타토(bianco progettato)', 즉 계산된 백색 여백을 축으로 한 인쇄물을 구성했다. 표준적인 제품 사양이나 장식적 요소로 지면을 채우는 대신, 네거티브 스페이스를 능동적인 건축적 요소로 다뤘다. 넉넉한 여백과 열린 지면은 독자의 시선을 유리 제품 고유의 색채감, 섬세한 곡선, 빛의 굴절로 직접 이끌며, 각 스프레드는 실용적인 용기를 조각적 초점으로 전환시킨다.\n\n레이아웃 시스템의 근간은 비대칭 다단 그리드로, 모든 스프레드에 걸쳐 의도적인 시각적 리듬을 형성한다. 타이포그래피 위계는 철저히 절제되어, 가늘고 그로테스크한 숫자체와 은은한 기술 인덱스, 정제된 산세리프 캡션이 바깥 여백에 조용히 자리한다. 이러한 절제된 타이포그래피 덕분에 스튜디오 사진이 시각적 경쟁 없이 각 구성을 지배할 수 있다. 밀착된 매크로 카탈로그 디테일과 전면 재단된 풀블리드 스틸컷을 번갈아 배치함으로써, 디자인은 리드미컬한 호흡을 만들어내고 독자가 천천히 머물며 베네치아 유리의 투명한 물성과 유동적인 질감을 음미하도록 유도한다.\n\n물성에 대한 고려는 소개되는 오브제를 넘어 인쇄 제작 방식 자체로 확장된다. 카탈로그는 무라노의 마스터 유리 장인들을 기리는 물리적 아티팩트로 기능하며, 무광 중량지와 짙은 잉크 밀도, 정밀한 재단, 견고한 제본을 결합했다. InDesign과 Photoshop으로 구축된 제작 워크플로우는 각 유리 작품의 미묘한 표면 반사와 톤 그러데이션을 보존해, 산업적 정밀함과 수작업 장인 전통을 잇는다. 절제된 구성과 재료에 대한 진솔한 존중을 통해, 이 에디토리얼 디자인은 인쇄 카탈로그가 상업적 효용을 넘어 지속되는 디자인 기록물이 될 수 있음을 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_un-catalogo-contemporaneo-e-materico-costruito-su-suerte.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_un-catalogo-contemporaneo-e-materico-costruito-su-suerte.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/editorial-design-xe-vero-catalogue-suerte-studio/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Suerte Studio",
+        "수에르테 스튜디오",
+        "Xe Vero",
+        "에디토리얼 디자인",
+        "무라노 유리",
+        "타이포그래피",
+        "그리드 시스템"
+      ]
+    },
+    {
+      "id": "1ab1e563",
+      "date": "2026-09-25",
+      "category": "📣 마케팅",
+      "title_ko": "열흘 만에 56만 명을 부른 상어 한 마리 — 부산 '부캉이' 신드롬이 보여준 바이럴 공식",
+      "summary_ko": "부산 북항 친수공원에 나타난 무태상어 '부캉이'가 열흘간 56만 명의 방문객을 끌어모으며 화제가 됐다. 현장 에피소드가 SNS로 확산되며 하나의 콘텐츠처럼 소비됐고, 지자체부터 카페·의류 브랜드까지 발 빠르게 이를 활용한 마케팅을 펼쳤다.",
+      "body_ko": "부산 동구 북항 친수공원에서 발견된 몸길이 약 3m의 무태상어 '부캉이'가 큰 화제를 모았다. '북항에 나타났다'는 의미로 이름 붙여진 부캉이를 보기 위해 열흘간 약 56만 명이 방문했고, 전재수 부산시장은 CBS 라디오에서 '수조 원을 들여도 안 되는 홍보'라고 언급할 정도였다. 고래·상어 소재 상품 매출도 함께 늘어나며 경제적 파급 효과로 이어졌다.\n\n부캉이의 화제성은 SNS 바이럴을 통해 더욱 커졌다. 한 시민이 생닭을 던져준 일화는 엑스에서 1.7만 회 이상 공유됐고, 외국인이 부산역에서 만난 어르신 덕분에 부캉이를 보러 왔다는 인터뷰 게시물은 135.8만 조회수를 기록했다. 단순한 구경거리를 넘어 현장의 에피소드까지 함께 확산되며 하나의 종합 콘텐츠처럼 소비된 것이다.\n\n브랜드들의 발 빠른 대응도 눈에 띄었다. 부산 동구청은 상어 입안에 돔구장이 들어간 릴스와 추석 댓글 이벤트를 선보였고, 부산시 캐릭터 부기는 부캉이와 대립 구도를 만들어 시민 참여형 콘텐츠로 확장했다. 이디야커피는 북항친수공원점을 '이디야 죠스점'으로 홍보했고, 로컬 카페 블루샥은 프로필 문구를 바꿔 직접 언급하며 인증샷 이벤트를 진행했다. 의류 브랜드 탄산마그네슘은 부캉이 콜라보 티셔츠를 게릴라 팝업 형식으로 판매했다.\n\n부캉이는 곧 바다로 돌아갈 예정이지만, 이번 사례는 하나의 이슈가 주변의 이야기와 맥락을 통해 어떻게 화제성을 키워가는지 보여준다. 트렌드를 볼 때 현상 자체뿐 아니라 그 주변에서 만들어지는 콘텐츠와 참여 방식까지 함께 살펴볼 필요가 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/260929.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/260929.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-90-1536x861.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-91-1536x863.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-92.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-93.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%97%b4%ed%9d%98%ea%b0%84-56%eb%a7%8c-%eb%aa%85%ec%9d%b4-%eb%b6%80%ec%82%b0%ec%9c%bc%eb%a1%9c-%ed%96%a5%ed%96%88%eb%8b%a4%ea%b3%a0-%ec%83%81%ec%96%b4-%eb%b6%80%ec%ba%89%ec%9d%b4/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "부캉이",
+        "부산",
+        "Busan",
+        "바이럴마케팅",
+        "블루샥",
+        "BlueShark",
+        "로컬브랜딩"
+      ]
+    },
+    {
+      "id": "95e9a06e",
+      "date": "2026-09-25",
+      "category": "🎯 브랜딩",
+      "title_ko": "커피 한 잔도 데이터가 된다 — 카페인을 '공학적으로' 설계한 브랜드 dose",
+      "summary_ko": "디자이너 Sungsik Kim이 일상적 카페인 섭취를 정밀한 개인 데이터로 다루는 브랜드 'dose'의 아이덴티티와 UI/UX를 공개했다. 원형 도트 매트릭스 패턴과 블랙·오프화이트 베이스에 포인트 컬러를 더해, 의료적 정밀함과 일상적 따뜻함을 동시에 구현한 것이 특징이다.",
+      "body_ko": "Sungsik Kim은 커피 브랜드 dose를 위해 아이덴티티와 UI/UX 디자인을 함께 설계했다. 대부분의 커피 도구가 디카페인 원두 선택 정도의 단순한 옵션만 제공하는 것과 달리, 이 프로젝트는 하루 카페인 섭취량을 정밀하게 측정해야 할 '개인 처방량(dose)'으로 다룬다. 'Engineering Caffeine'이라는 모토 아래, 블랙과 오프화이트의 차분한 베이스에 전기적인 오렌지-레드 컬러로 중요 데이터 알림과 기기 인터랙션을 강조했다.\n\n모바일 인터페이스는 24시간 주기의 약동학적 분해 곡선을 실시간으로 보여주는 혈중 카페인 곡선을 제공한다. 원형 도트 매트릭스 패턴이 디자인 토큰의 구조적 기반을 이루며, 이는 행성의 궤도와 생체 주기를 연상시킨다. 모든 텔레메트리 레이블은 촘촘한 베이스라인 그리드에 정렬되어 있어 사용자가 추출 지표와 일일 한계치를 몇 초 만에 파악할 수 있다. 모듈화된 앱 구조는 복잡한 웰니스 대시보드 대신 정돈된 데이터 카드와 동적인 곡선 스트로크로 흡수 피크와 대사 감소를 명확하게 시각화한다.\n\n디지털 소프트웨어는 저전력 무선 동기화를 통해 카운터용 커피 머신과 직접 연동된다. 사용자는 직관적인 원형 하드웨어 다이얼로 에스프레소, 아메리카노, 라떼 중 브루 모드를 선택하며, 주황빛 LED 도트 매트릭스 배열이 추출 진행 상황을 보여준다. 촉각적인 세라믹 컵, 음각 코스터, 테크니컬한 원두 파우치는 화면에서와 동일한 타이포그래피와 그리드 체계를 그대로 반영한다. Sungsik Kim은 이러한 작업을 통해 물리적 산업 디자인과 반응형 인터페이스 설계를 하나로 묶어, 정량화된 일상 웰니스를 따뜻하고 집중력 있으며 수월하게 느껴지도록 만들었다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_dose-sungsik-kim_0.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_dose-sungsik-kim_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_dose-sungsik-kim_0_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_dose-sungsik-kim_1_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_dose-sungsik-kim_2_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_dose-sungsik-kim_3_0.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-uiux-design-dose-sungsik-kim/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Sungsik Kim",
+        "성식 김",
+        "dose",
+        "도스",
+        "브랜드 아이덴티티",
+        "UI/UX 디자인",
+        "웰니스 테크"
+      ]
+    },
+    {
+      "id": "eb45939d",
+      "date": "2026-09-25",
+      "category": "🎨 디자인",
+      "title_ko": "슬랩세리프와 일본 서체가 만나다 — PP Kyoto가 보여주는 구조와 붓질의 긴장감",
+      "summary_ko": "Pangram Pangram이 선보인 신규 타입페이스 PP Kyoto는 서구 슬랩세리프의 견고한 구조와 일본 서예의 유연한 붓질을 결합한 디자인이다. 9가지 웨이트와 692개 글리프로 라틴·히라가나·가타카나를 아우르는 다국어 시스템을 지원하며, 디스플레이부터 패키징까지 폭넓게 적용 가능하다.",
+      "body_ko": "Pangram Pangram®의 Caio Kondo, Francesca Bolognini, Mat Desjardins가 개발한 PP Kyoto는 서구 슬랩세리프와 일본 문자 체계가 어떻게 조화를 이룰 수 있는지를 오랜 반복 실험을 통해 탐구한 결과물이다. 단순히 표면적인 스타일 차용에 그치지 않고, 견고한 건축적 블록과 유동적인 캘리그래피 붓질 사이의 구조적 대화에 초점을 맞췄다. 묵직한 수평 슬랩과 부드럽게 휘어지는 티어드롭 터미널이 대비를 이루며, 헤드라인과 패키징, 포스터 전반에 강한 시각적 긴장감을 만들어낸다. 글자마다 뚜렷하게 찍힌 원형 점은 리듬감을 더해 기념비적인 무게감과 차분한 균형감을 동시에 전달한다.\n\nPP Kyoto는 Thin부터 Heavy까지 9단계로 세밀하게 조정된 웨이트와 그에 대응하는 이탤릭 컷을 갖춘 포괄적인 타이포그래피 시스템을 선보인다. 총 692개 글리프를 통해 라틴 문자, 히라가나, 가타카나를 아우르는 다국어 지원이 가능하며, 각 지역에 맞는 문장부호도 완비했다. 대체 Q자와 유기적인 터미널, 디스플레이 조판을 위한 맞춤 리거처 등 세밀한 글리프 설계가 돋보인다. 대형 디스플레이 규격에서는 선명한 기하학적 슬랩세리프가 구조적 안정감을 제공하고, 편집용 소형 텍스트 등급에서는 넉넉한 카운터와 유려한 스트로크 디테일이 가독성을 유지해 다국어 레이아웃 안에서도 자연스럽게 호흡한다.\n\n디지털 시안을 넘어, PP Kyoto는 실제 물리적 환경과 브랜드 접점에서도 실용성을 입증한다. 유리 출입문에 적용된 선명한 흰색 윈도우 그래픽은 자연스러운 오크 프레임, 건축용 황동 하드웨어와 대비를 이룬다. 흰색 테이크아웃 종이백이나 구겨진 크래프트 커피 파우치 같은 촉각적 패키징에서도 타이포그래피는 질감 있는 소재 위에서 선명함을 유지한다. 짙은 검정 리노컷 아치와 밀도 높은 잉크 표현은 이 서체가 리테일, 호스피탈리티, 편집 출판 시스템에 특히 잘 어울린다는 점을 보여준다. 이러한 기념비적 디스플레이 그래픽에서 손에 쥘 수 있는 종이 артифact로의 유연한 전환은 파운드리의 치밀한 장인정신을 드러낸다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_kyoto-free-font-pangram-pangram.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_kyoto-free-font-pangram-pangram.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kyoto-free-font-pangram-pangram_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kyoto-free-font-pangram-pangram_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kyoto-free-font-pangram-pangram_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kyoto-free-font-pangram-pangram_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/typeface-design-pp-kyoto-pangram-pangram/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Pangram Pangram",
+        "팬그램팬그램",
+        "PP Kyoto",
+        "타이포그래피",
+        "서체디자인",
+        "일본타이포그래피",
+        "패키징디자인"
+      ]
+    },
+    {
+      "id": "ca4f56eb",
+      "date": "2026-09-20",
+      "category": "📣 마케팅",
+      "title_ko": "올리브영에서 드론을, 컬리에서 소파를 산다 — 이커머스 '빅 블러'가 다시 쓰는 카테고리 공식",
+      "summary_ko": "\"이 플랫폼은 이 카테고리만 판다\"는 공식이 깨지고 있다. 무신사·컬리·올리브영 같은 버티컬 커머스가 인접 카테고리로 영역을 넓히는 '빅 블러(Big Blur)' 현상이 확산되는 중이다. 컬리는 2025년 결산에서 라이브 방송만으로 뷰티 120억 원, 패션 50억 원 이상의 매출을 기록했다.",
+      "body_ko": "업종과 카테고리의 경계가 흐려지는 '빅 블러'는 원래 금융·유통·IT·콘텐츠 등 산업 간 경계를 설명하던 개념이지만, 최근에는 이커머스 업계에서 자주 쓰인다. 확장의 배경은 성장 방식의 변화다. 과거 버티컬 커머스는 특정 카테고리에 깊게 들어가 전문성을 확보하고, 취향이 분명한 고객을 모은 뒤 큐레이션과 커뮤니티로 충성도를 높였다. 무신사는 패션, 컬리는 신선식품, 올리브영은 뷰티·헬스라는 인식이 강했던 이유다. 그러나 시장이 성숙해 신규 고객 유입이 어려워지면 기존 고객의 구매 빈도와 객단가를 높이는 쪽이 더 중요해진다. 플랫폼이 이미 확보한 고객의 생활 반경 안에서 '다음으로 살 만한 상품'을 찾는 이유다.\n\n컬리가 대표적이다. 신선식품에서 출발해 뷰티·패션·생활용품·리빙으로 영역을 넓혔고, 2025년 결산 기준 라이브 방송을 통해 뷰티 120억 원, 패션 50억 원 이상의 매출을 올렸다. 주방·생활 카테고리도 50억 원을 넘겼으며, 상품군 강화에 힘입어 풀필먼트서비스를 포함한 판매자배송상품(3P) 사업의 연간 거래액은 전년 대비 54.9% 증가했다. 또 다른 배경은 이커머스가 '검색하는 곳'에서 '발견하는 곳'으로 바뀌고 있다는 점이다. 메조미디어의 2025 이커머스 업종 분석 리포트 역시 핵심 화두로 '발견형 쇼핑'을 꼽는다. 콘텐츠·추천·랭킹·라이브·숏폼을 통해 '사려고 들어온 건 아닌데 사고 싶어지는' 장면을 설계하는 구조다. 이 관점에서 카테고리 확장은 상품 수를 늘리는 일이 아니라, 플랫폼 안에서 발견될 수 있는 라이프스타일 장면을 늘리는 일에 가깝다.\n\n기회는 세 가지다. 식품보다 객단가가 높은 뷰티·가전·리빙을 통한 객단가 상승, 한 고객의 옷·향·식재료·리빙 취향을 함께 파악하는 입체적 데이터 축적, 그리고 무료배송·적립·쿠폰·멤버십이 결합되며 만들어지는 락인 효과와 LTV 상승이다. 반면 리스크도 분명하다. 가장 큰 위험은 정체성 약화다. 확장이 큐레이션이 아니라 단순 입점 확대처럼 보이면 브랜드 신뢰가 흔들린다. 식품·패션·가전·주류·뷰티는 물류, CS, 반품, 인증, 재고 관리 방식이 모두 달라 운영 복잡도도 커진다. 입점 브랜드 간 노출 경쟁이 심해져 전문몰 안에서도 광고비와 프로모션을 써야 보이는 구조가 강화될 수 있고, 수익성이 악화되면 입점 시도 자체가 줄어들 수 있다.\n\n결국 확장은 '취향의 종합화'로 흘러갈 가능성이 크다. 무신사의 뷰티·라이프스타일 확장은 패션 고객의 취향 데이터와, 컬리의 뷰티·리빙·패션 확장은 장보기 고객의 생활 루틴과, 올리브영의 식음료·가전 확장은 건강과 자기 관리 플랫폼으로의 인식 전환과 맞닿아 있다. 같은 향수라도 패션 플랫폼은 스타일링 아이템으로, 뷰티 플랫폼은 자기 관리 루틴의 일부로 제안한다. 기획자와 마케터가 물어야 할 질문은 \"무엇까지 팔 수 있느냐\"가 아니라 \"우리 플랫폼에서 팔 이유가 있느냐\", 그리고 단기 매출이 아닌 재방문·체류·멤버십 강화에 기여하는가다. 고객이 \"왜 여기서 이걸 팔지?\"라고 느끼는 순간 확장은 개성을 흐린다. 경계가 흐려질수록 브랜드의 기준은 더 선명해져야 한다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜빅-블러-현상-분석_260911.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/고구마팜빅-블러-현상-분석_260911.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/image-36.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/09/발견형-쇼핑-2048x1401.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%98%ac%eb%a6%ac%eb%b8%8c%ec%98%81%ec%97%90%ec%84%9c-%eb%93%9c%eb%a1%a0%ec%9d%84-%ec%bb%ac%eb%a6%ac%ec%97%90%ec%84%9c-%ec%86%8c%ed%8c%8c%eb%a5%bc-%ed%8c%90%eb%8b%a4-%eb%b9%85-%eb%b8%94%eb%9f%ac/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "Big Blur, 빅블러",
+        "Kurly, 컬리",
+        "Olive Young, 올리브영",
+        "Musinsa, 무신사",
+        "e-commerce, 이커머스",
+        "발견형 쇼핑",
+        "카테고리 확장"
+      ]
+    },
+    {
+      "id": "aca5e396",
+      "date": "2026-09-20",
+      "category": "🎯 브랜딩",
+      "title_ko": "빛이 관문을 통과하는 순간을 브랜드로 만들다 — Unikorns Agency가 설계한 The OneGate의 각진 광선 아이덴티티",
+      "summary_ko": "바르샤바 스튜디오 Unikorns Agency가 국경 간 결제 플랫폼 The OneGate의 브랜드 아이덴티티를 공개했다. '관문을 통과하는 빛'을 모티프로 한 각진 그라디언트와 Atyp Display 서체를 축으로, 투명한 접근성과 자본의 마찰 없는 이동을 시각화했다. 피지컬 마스터카드 카드부터 iOS 앱까지 동일한 각도의 조명 논리를 일관되게 적용한 점이 핵심이다.",
+      "body_ko": "현대 금융 인프라를 위한 디자인은 제도적 안정감과 미래지향적 기술의 명료함 사이에서 균형을 잡아야 한다. 기업 고객과 국제 개인 고객에게 디지털 뱅킹 솔루션을 제공하는 국경 간 결제 플랫폼 The OneGate를 위해, 바르샤바 기반 스튜디오 Unikorns Agency는 '관문을 뚫고 들어오는 빛'에서 출발한 아이덴티티를 구축했다. Maria Brilkova, Sasha Miro, Dima Miro, Vlad Myhulia, Violetta Martinova, Yeva Petukhova로 구성된 크리에이티브 팀은 흔한 기업용 그라디언트나 무미건조한 핀테크 대시보드의 클리셰를 따르는 대신, 방향성을 가진 조명이 투명한 접근성과 마찰 없는 자본 이동을 상징하는 날카롭고 각진 비주얼 시스템을 설계했다.\n\n아이덴티티의 토대에는 절제된 타이포그래피와 기하학적 프레임워크가 있다. 중심이 되는 서체는 Suitcase Type Foundry의 Tomáš Brousil이 디자인한 Atyp Display로, 이 네오 그로테스크 서체의 또렷한 건축적 절개면과 견고한 수직 스템이 브랜드의 방향성 광선과 호응한다. 딥 옵시디언과 미드나이트 네이비 배경은 고대비 캔버스 역할을 하며, 그 위에 일렉트릭 코발트 블루, 빛나는 솔라 앰버, 그리고 'Bloom'으로 명명된 크로매틱 그라디언트가 선형으로 얹힌다. 이 조명 논리는 레이아웃을 대각선으로 가로지르며 광학적 포털과 빛나는 문턱의 인상을 만들어내는 시각적 리듬을 형성한다.\n\n아이덴티티는 화면에서 물리적 오브젝트로 자연스럽게 확장되며 소재의 완성도를 유지한다. 실물 마스터카드 직불카드는 매트 블랙 표면과 만나는 대각선 그라디언트 웨지를 적용해, 촉각적인 EMV 마이크로칩과 레이저 각인된 계좌 정보를 정확하게 프레이밍한다. 이 기준은 블라인드 디보싱 카드, 딥 블루 서류 폴더, 브러시드 스테인리스 스틸 외부 사이니지, 실크스크린 트윌 토트백 등 기업용 스테이셔너리 전반으로 이어진다.\n\n디지털 환경에서는 네이티브 iOS 애플리케이션과 데스크톱 웹 대시보드가 카드의 각도를 그대로 번역한다. 환전 위젯, 카드 발급 선택기, 숫자 키패드가 실시간 텔레메트리와 결합되며, 물리적 산출물과 인터페이스가 하나의 조형 언어 아래 묶인다. 전체 케이스 스터디는 Unikorns Agency 웹사이트에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_the-onegate-unikorns.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_the-onegate-unikorns.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_the-onegate-unikorns_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_the-onegate-unikorns_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_the-onegate-unikorns_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_the-onegate-unikorns_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-onegate-unikorns-agency/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Unikorns Agency, 유니콘스 에이전시",
+        "The OneGate, 더 원게이트",
+        "Atyp Display, 아팁 디스플레이",
+        "Suitcase Type Foundry, 슈트케이스 타입 파운드리",
+        "Mastercard, 마스터카드",
+        "핀테크 브랜딩",
+        "그라디언트 아이덴티티"
+      ]
+    },
+    {
+      "id": "f0a74fde",
+      "date": "2026-09-20",
+      "category": "🎨 디자인",
+      "title_ko": "푸투라의 골격에 아방가르드의 대담함을 얹다 — Pangram Pangram의 신작 'PP Frama'",
+      "summary_ko": "캐나다 파운드리 Pangram Pangram이 기하학적 산세리프 'PP Frama'를 공개했다. Futura의 명료한 구조와 Avant Garde의 대담한 형태를 한 시스템 안에 결합했고, 작은 본문에서 기하학 서체가 어두워 보이는 고질적 문제를 광학 보정으로 해결했다. 파운드리 사이트에서 무료 트라이얼 파일을 제공한다.",
+      "body_ko": "Pangram Pangram이 새 타이포그래피 'PP Frama'를 선보였다. 이 서체는 두 개의 유명 서체 패밀리에서 출발한다. Futura에서 명확한 구조를, Avant Garde에서 대담한 형태를 가져왔고, 스튜디오 설립자 Mathieu Desjardins가 두 스타일을 하나의 시스템으로 묶었다. 글자는 경직된 형태를 피하고 차분한 리듬을 만든다. 둥근 보울과 날카로운 포인트가 정제된 마감으로 맞물리며, 각 글리프는 지면 위에서 자신감 있으면서도 가볍게 자리한다.\n\n기하학적 폰트는 작은 본문 덩어리에서 지나치게 어둡게 보이는 약점이 있다. Pangram Pangram은 미세한 광학 조정으로 이 문제를 다뤘다. 둥근 곡선은 스템이 만나는 지점에서 부드럽게 가늘어지고, 크로스바는 실제 시각적 중심에 놓인다. 터미널은 수평·수직선으로 평평하게 잘려 긴 단문 칼럼에서도 깨끗한 베이스라인을 만든다. 열린 카운터 덕분에 작은 크기에서도 단어가 쉽게 읽히고, 디스플레이 사이즈에서는 순수한 원형 구조가 선명하게 드러난다. 작은 태그에서 큰 헤드라인까지 시각적 박자가 일정하게 유지된다.\n\n공개된 프로젝트 이미지들은 서체의 활용 범위를 보여준다. 대형 금속 사인은 실제 건물 벽면에서 레터폼을 시험하고, 인쇄된 카드는 큰 디스플레이 숫자와 손으로 그린 배 일러스트를 짝지었다. 고대비 스프레드는 여러 웨이트가 어떻게 어울리는지 보여준다. 얇은 스타일은 아트북에서 가볍고 정갈하게, 블랙 스타일은 포스터와 표지에서 강한 힘을 더한다. 디자이너는 단 하나의 패밀리만으로 전체 레이아웃을 구성할 수 있다.\n\n파운드리는 공식 사이트에서 무료 트라이얼 파일을 제공한다. 작업 팀은 일상적으로 쓰는 레이아웃 툴에서 모든 컷을 바로 테스트할 수 있고, 정식 라이선스 구매 전 전 웨이트를 검증할 수 있다. 이런 개방적 접근은 신생 스튜디오가 새로운 타이포그래피를 실험하는 문턱을 낮춘다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_frama-free-to-try-font-pangram-pangram.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_frama-free-to-try-font-pangram-pangram.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_frama-free-to-try-font-pangram-pangram_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_frama-free-to-try-font-pangram-pangram_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_frama-free-to-try-font-pangram-pangram_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_frama-free-to-try-font-pangram-pangram_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/typography-design-pp-frama-pangram-pangram/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Pangram Pangram",
+        "팽그램팽그램",
+        "PP Frama",
+        "Mathieu Desjardins",
+        "마티유 데자르댕",
+        "Futura",
+        "푸투라",
+        "Avant Garde",
+        "아방가르드",
+        "기하학적 산세리프",
+        "타이포그래피",
+        "광학 보정"
+      ]
+    },
+    {
+      "id": "d996247e",
+      "date": "2026-09-19",
+      "category": "📣 마케팅",
+      "title_ko": "\"면접 포기하겠습니다\" 1분 뒤 \"진행하겠습니다\" — 2026년 8월, 브랜드가 바로 쓰는 밈 5선",
+      "summary_ko": "결정 번복 문자, 'OO삐' 삐에로 붐, '무례하지 않게 말해주세요', 일하기 전후 릴스, '연락 없네 잘 살아'까지 최근 알고리즘에 자주 잡히는 밈 5가지가 정리됐다. 스크럽 대디·기아·틴더·에이블리 등 브랜드들은 이미 자사 제품과 소식을 이 포맷에 얹어 반응을 끌어내고 있다. 공통점은 누구나 겪어본 고민과 고충에서 출발한 공감형 소재라는 점이다.",
+      "body_ko": "첫 번째는 결정 번복 밈이다. 1분 간격으로 \"죄송합니다. 면접 포기하겠습니다\"와 \"생각해 보니 면접을 하겠습니다. 진행하겠습니다…\"를 반복해 보낸 문자가 커뮤니티에 퍼지며 시작됐다. 치열한 내적 갈등이 그대로 드러난 모습이 \"연차 낼까, 말까\" 같은 일상 고민으로 패러디되는 중이다. 스크럽 대디는 공식 계정에서 자사 제품으로 청소를 할지 말지 고민하는 상황을 만들었고, 극지연구소는 엑스에 바다로 뛰어들기 직전 펭귄 사진을 올려 입수를 망설이는 상황으로 묘사했다. 두 브랜드 모두 밈 대응 속도가 빠르다는 평을 받았다.\n\n두 번째는 삐에로다. '삐에로 남친이랑 결혼할 수 있어?'라는 고민 글에서 글쓴이가 선배 삐에로를 '선배삐', 잘 나가는 삐에로를 '개대박삐', 사람 바이 사람을 변형한 '삐바삐'로 부른 것이 발단이 됐다. 'OO삐' 호칭 자체가 유행이 되면서 이용주·이은지·허경환·윤경호 등 '삐출(삐에로 출신)' 방송인이 재조명됐고, 삐에로의 최종 버전이 '품바'라며 네임드 품바 '버드리' 영상이 엑스에서 공유되기도 했다. 이용주가 방글라데시 아이들에게 풍선 장기를 보여주며 \"저 삐에로 출신이에요\"라고 말한 과거 영상이 다시 돌았고, 초록우산이 올린 '삐에로 이용주 14년 만에 복귀했습니다' 영상에는 \"삐의 귀환\", \"정통삐가 온다\"는 댓글이 달렸다.\n\n세 번째는 '무례하지 않게 말해주세요' 릴스다. '까맣다를 무례하지 않게 말해주세요'라는 자막을 단 곽범의 영상에 '여름이 널 아주 사랑했나 보다'라는 댓글이 달리며 2차 바이럴이 일어났다. 리챔은 '너 얼굴이 네모나다는 말을 무례하지 않게 해주세요' 자막으로 댓글 이벤트를 열었고, 뽀로로 틱톡 공식 계정은 뽀로로가 맛없는 음식을 친구들에게 주는 내용을 이 포맷으로 요약해 보상 없이도 다수 댓글을 모았다. 네 번째는 일하기 전후 대조 릴스다. 업무 시작 시간 자막과 함께 웃음기가 남은 얼굴로 할 일을 보고하다가, 종료 시간 자막이 뜨면 지친 모습으로 반전된다. 기아 조직문화 계정의 캐릭터 '퍼펭'은 출근 직후와 야근 중인 모습을 대조했고, 틴더는 팝업 방문 전후를 비교해 오히려 긍정적인 결말로 뒤집었다.\n\n마지막은 '연락 없네 잘 살아'다. 남자 친구가 37분간 카톡 답장을 안 한다며 이별 통보를 보내도 되냐고 물은 블라인드 글에서 출발했다. GS건설은 시공능력평가 3위 소식을 언급하며 \"축하한다는 말도 없네. 잘 살아\", 에이블리는 신상 이벤트 게시글에서 \"아무도 관심 없네. 잘 살아\"로 반응을 유도했다. 이별을 통보하는 척하면서 속으로는 연락을 기다리는 새침한 뉘앙스가 핵심이다. 다만 이번 밈들은 대부분 개인의 고민과 고충에서 출발한 만큼, 누군가를 비하하거나 불편하게 만들 여지가 없는지 한 번 더 점검할 필요가 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/08/260826.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/260826.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-65.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-1-9.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-2-8.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-3-8.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%eb%8c%80%eb%b0%95%ec%82%90-%ec%82%90%eb%b0%94%ec%82%90-%eb%b0%88%ec%9e%98%ec%95%8c%ec%82%90-%eb%a7%8c%eb%93%a4%ec%96%b4-%ec%a3%bc%eb%8a%94-2026%eb%85%84-8%ec%9b%94-%ec%b5%9c%ec%8b%a0-%eb%b0%88/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Scrub Daddy, 스크럽 대디",
+        "Kia, 기아",
+        "Tinder, 틴더",
+        "Ably, 에이블리",
+        "Pororo, 뽀로로",
+        "밈 마케팅",
+        "브랜드 숏폼"
+      ]
+    },
+    {
+      "id": "8ee49fab",
+      "date": "2026-09-19",
+      "category": "🎯 브랜딩",
+      "title_ko": "무대 뒤를 브랜딩하다 — 존 존 디아스가 TNB에 입힌 애시드 라임 스포트라이트",
+      "summary_ko": "브라질의 이벤트 컨설팅·프로덕션 스튜디오 TNB(The New Backstage)가 디자이너 존 존 디아스와 함께 새 브랜드 아이덴티티를 공개했다. 세 개의 원형 스포트라이트 조리개에서 출발한 심볼이 음향 파형과 모듈형 프레임으로 확장되며, 팬톤 블랙 C와 팬톤 2297 C 애시드 라임의 강한 대비가 시스템 전체를 관통한다.",
+      "body_ko": "TNB는 록 인 리우, 롤라팔루자, 포뮬러 1 같은 글로벌 메가 이벤트의 구조 물류와 백스테이지 운영을 맡아온 브라질의 이벤트 컨설팅·프로덕션 회사다. 절대적인 운영 명료성이 요구되는 업의 특성을 존 존 디아스는 '무대 장치의 기하학'으로 번역했다. 아이덴티티의 중심에는 무대 조명을 상징하는 세 개의 원형 스포트라이트 조리개로 구성된 다이내믹 마크가 놓인다. 이 원형 도트는 음향 주파수 파형, 분절된 선형 리본, 모듈형 프레이밍 윈도우로 확장되며 라이브 프로덕션의 보이지 않는 작동 원리를 그래픽 언어로 바꿔놓는다.\n\n색채 운용은 엄격하다. 디아스는 딥 팬톤 블랙 C와 건축적인 쿨 그레이를 기반으로 삼고, 시인성 높은 팬톤 2297 C 애시드 라임을 포인트로 찍었다. 인쇄물의 물성 처리도 눈에 띈다. 명함은 애시드 라임으로 엣지를 손으로 칠했고, 광택 스팟 UV 처리를 마감한 차콜 카드 케이스에 담긴다. 브랜드 매뉴얼은 형광 라임 클로스로 장정한 하드커버에 음향 바를 실크스크린으로 인쇄했으며, 백스테이지 스태프 크리덴셜은 메탈 랜야드 클래스프, 보안용 QR, 원형 포트레이트 조리개를 갖춘 아크릴로 제작됐다.\n\n현장 적용에서는 대형 환경 그래픽과 크루 워크웨어로 확장된다. 대형 조명 건물 배너와 교통 시설 라이트박스는 포뮬러 1 레이스카와 페스티벌 관객을 시그니처 스포트라이트 컨테이너 안에 담아낸다. 테크니컬 크루 유니폼은 인터로킹 스포트라이트 패턴의 집업 트랙 재킷, 등 중앙에 수직 파형을 배치한 스태프 티셔츠, 칼라에 자수 배지를 단 고시인성 폴로셔츠로 구성된다. 산업적 실용성과 무대의 운동감을 함께 쥔 이 시스템은 라이브 엔터테인먼트의 맥박을 담으면서도 대형 프로덕션에 필요한 권위를 유지한다.\n\n프로젝트 전체는 존 존 디아스의 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_tnb-john-john-dias.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_tnb-john-john-dias.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tnb-john-john-dias_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tnb-john-john-dias_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tnb-john-john-dias_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tnb-john-john-dias_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-tnb-john-john-dias/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "TNB",
+        "John John Dias, 존 존 디아스",
+        "Rock in Rio, 록 인 리우",
+        "Formula 1, 포뮬러 1",
+        "브랜드 아이덴티티",
+        "이벤트 브랜딩",
+        "팬톤 컬러 시스템"
+      ]
+    },
+    {
+      "id": "8b0b793c",
+      "date": "2026-09-19",
+      "category": "🎨 디자인",
+      "title_ko": "붓질 하나로 완성된 레스토랑의 얼굴 — 헬싱키 Elm이 북유럽 미니멀리즘을 벗어난 방법",
+      "summary_ko": "아트 디렉터 József G Kiss가 헬싱키 카이보푸이스토의 목조 빌라에 자리한 레스토랑 Elm의 브랜드 아이덴티티를 회화적 언어로 완성했다. 핀란드 작가 Linda Linko의 표현적 페인팅과 수작업 시아노타입, 그리고 절제된 노르딕 타이포그래피가 한 시스템 안에서 맞물린다. 멸균된 스칸디나비아 미니멀리즘 대신, 즉흥적인 붓질과 코발트 울트라마린 블루를 전면에 세운 선택이 핵심이다.",
+      "body_ko": "Restaurant Elm은 헬싱키 카이보푸이스토(Kaivopuisto)의 역사적인 목조 빌라 Puistokatu 4 안에 자리한다. 지중해적 따뜻함과 절제된 노르딕 모더니즘 사이의 균형이 공간의 전제였고, 아트 디렉터 József G Kiss는 이 균형점을 핀란드 작가 Linda Linko의 표현적인 페인팅 스타일에서 찾았다. Linko의 원본 캔버스는 다이닝 공간 안에 주요하게 걸려 있으며, 아이덴티티는 이 그림의 언어를 그대로 확장한다. 즉흥적인 제스처 브러시스트로크, 선명한 코발트 울트라마린 블루, 그리고 슬라이스한 시트러스부터 섬세한 유리잔까지 식재료와 기물을 담아낸 수작업 시아노타입이 그 재료다.\n\n커스텀 로고 마크는 표현적인 붓질 서명처럼 작동한다. 물리적·디지털 접점 전반에 유연한 리듬으로 등장하며, 데클 엣지(deckle-edged) 수제 코튼 페이퍼에 블루 잉크로 스탬프된 Elm 마크는 실버 쿠페와 프레젠테이션 봉투 안에 놓이는 작은 다이닝 오브제가 된다. Kiss는 이 회화적 제스처를 또렷하고 자간이 넓은 타이포그래피와 짝지었다. 인쇄된 다이닝 메뉴, 테이크아웃 패키징, 블라인드 디보싱 처리된 런치 카드에 짙은 블루 잉크로 적용되며, 클래식한 프렌치 브라세리의 유산과 촉각적인 공예 사이에서 가벼운 균형을 만든다.\n\n그래픽 언어는 건축으로도 이어진다. 대형 울트라마린 브러시마크와 흰색 비닐 윈도 데칼이 카이보푸이스토 공원의 겨울 파노라마를 프레이밍하고, 외부의 블루 스틸 A프레임 간판이 안쪽의 환대를 알린다. 와인 카라프, 시트러스 단면, 에어룸 토마토를 담은 수작업 시아노타입 프린트는 다이닝 룸 전반에 액자로 걸려, 식사 경험을 재료와 사진 공예에 붙들어 둔다.\n\nSofia Kulianu의 사진 디렉션과 Emma Ranne의 미디어 디렉션은 빌라 창을 통과하는 자연광을 포착해, 코발트 프린트와 따뜻한 목재 패널링 사이의 깊은 대비를 강조한다. 반응형 디지털 접점부터 포일 스탬핑 기프트 스테이셔너리, 엠보싱 와인 리스트까지 각 요소가 지중해적 요리 열정과 노르딕 건축의 절제 사이 대화를 반복한다. 결과물은 즉흥적으로 보이면서도 치밀하게 제작된 하나의 아이덴티티다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_restaurant-elm-jzsef-g-kiss.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_restaurant-elm-jzsef-g-kiss.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_restaurant-elm-jzsef-g-kiss_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_restaurant-elm-jzsef-g-kiss_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_restaurant-elm-jzsef-g-kiss_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_restaurant-elm-jzsef-g-kiss_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-restaurant-elm-jozsef-g-kiss/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "József G Kiss, 요제프 G 키시",
+        "Restaurant Elm, 레스토랑 엘름",
+        "Linda Linko, 린다 린코",
+        "Helsinki, 헬싱키",
+        "시아노타입",
+        "브랜드 아이덴티티",
+        "레스토랑 브랜딩"
+      ]
+    },
+    {
+      "id": "293064a4",
+      "date": "2026-09-18",
+      "category": "📣 마케팅",
+      "title_ko": "자취 부엌부터 미슐랭 조리대까지 — 푸드 크리에이터 6개 카테고리 지도",
+      "summary_ko": "<스트릿 레스토랑 파이터>부터 피자설기 바이럴까지, 푸드 콘텐츠는 라이프스타일을 움직이는 메가 트렌드의 한 축입니다. 고구마팜은 지금 시선을 모으는 푸드 채널을 6가지 카테고리로 나눠 각 채널의 특징과 실제 광고 협업 사례를 정리했습니다. 핵심은 '누가 더 유명한가'가 아니라 브랜드 타깃과 크리에이터 성격의 정합성입니다.",
+      "body_ko": "첫 축은 맛집 리뷰다. 이들은 맛 평가에 그치지 않고 분위기·서비스·가격처럼 소비자가 실제로 궁금해하는 디테일을 짚고, 특정 지역이나 가격대에 집중한 큐레이션으로 신뢰를 쌓는다. 서울의 가성비 노포부터 고급 식당까지 다루며 조리 과정과 클로즈업을 세련된 숏폼으로 담아내는 채널(유튜브 33.2만·인스타그램 17.4만)은 '블루리본 서베이' 앰배서더로도 활동해 전문성을 더한다. '63뷔페 파빌리온 용산' 광고에서는 여의도 '파빌리온 더 프리미엄'과 비교해 \"가짓수는 좀 적지만 선택과 집중을 잘한 가성비 뷔페\"라고 설명하며 설득력을 확보했다. 파인다이닝·호텔 뷔페·오마카세를 다루는 프리미엄 리뷰어는 접객과 가심비를 가감 없이 평가하는데, 우래옥 리뷰에서 대긴 갈비보다 그냥 갈비를 추천한 사례나 2박 3일간 직접 묵고 만든 '제주 신라호텔' 영상이 대표적이다. 후자는 \"다 보고 나서 광고인 줄 알았다\"는 반응을 이끌었다. 지방 현지인 맛집과 다찌집을 도는 아재 감성 채널은 혈당 관리 영양제 '씨커트' 광고에서 평소처럼 먹방을 한 뒤 \"전국에 살찌는 음식을 먹고 다니는 제가 혈당을 유지하는 비법\"이라며 제품을 붙였다.\n\n두 번째는 1인 가구의 식비 고민을 덜어주는 자취 요리다. '자취요리신'은 편의점·마트의 흔한 재료로 식당 맛을 내는 레시피를 쇼츠로 풀며, 'The더건강한 소스 닭가슴살' 협업에서 누구나 만들 수 있는 레시피를 제안해 호평받았다. '4만 원대 일주일 반찬 8가지', '5분 컷 밥 차리기' 같은 소재를 다루는 채널은 가정집 배경의 깔끔한 영상이 강점으로, 로봇청소기 브랜드 '드리미'와 협업해 요리·주방 밖 가족·집 카테고리로도 확장 가능성을 보였다. 세 번째는 외국인의 시선으로 K-푸드를 재조명하는 유형이다. 여러 국적의 패널이 한국 식문화를 체험하는 채널에서는 백악관 셰프 출신 chef Andre Rush 영상이 높은 조회수를 기록했고, 편의점 꿀조합 먹방 흐름에서 '꼬기다' 닭가슴살을 자연스럽게 노출했다. 체코 거주자 알렝꼬는 한식을 만들어 현지 이웃과 나누는 브이로그에 '홍삼정'을 녹였고, 이탈리아 미슐랭 셰프 출신 파브리는 '닥터오트커' 냉동 피자에 배·루꼴라·아몬드를 곁들이는 레시피를 제안했다.\n\n네 번째는 운동인 채널로, 건강함과 일탈 두 축을 오간다. 지피티는 '24시간 동안 77777칼로리 챌린지' 같은 치팅데이 먹방으로 대리만족을 주고, '기영이 숯불 두 마리 치킨' 광고에서 \"닭가슴살만 먹다 치팅 때는 닭다리살이 당긴다\"는 멘트로 공감을 끌어냈다. IFBB 프로 보디빌더 황형구는 야생적인 먹방과 순박한 일상의 반전 매력을 무기로, '정직한 형제들' 아르기닌·크레아틴 협업에서는 운동복 대신 요리복을 입는 콘셉트를 택했다. 다이어트 식단 숏폼을 올리는 크리에이터는 '초간단 연어김밥인데 단백질 40g'처럼 운동인을 후킹하는 문구를 활용하며 자체 브랜드 '귀하닭 닭가슴살'을 실사용 후기로 전달했다. 다섯 번째는 단일 카테고리를 집요하게 파는 덕후형이다. 짬뽕·중화요리 전문 채널은 시그니처 멘트로 중독성 있는 숏폼을 만들고 중식당 '북경' 광고에서 구체적인 식감·퀄리티 평가로 방문 의사를 끌어냈다. 햄버거만 파는 채널은 '버거 맵'으로 신뢰를 얻어 버거킹 '크리스피 클래식' 런칭 리뷰가 댓글 리뷰의 장이 됐고, 빵튜브 뽀니는 '이마트24'와 쑥·흑임자를 쓴 할매 입맛 콜라보 디저트를 직접 기획해 출시했다.\n\n마지막은 셰프 채널이다. 전문 기술을 대중의 언어로 풀고 따라 할 수 있는 레시피로 고퀄리티 요리의 접근성을 낮춘다. 한 셰프 채널(유튜브 39.5만·인스타그램 15.1만)은 접근성 좋은 재료에서 파인다이닝 수준까지 스펙트럼을 넓히고 동료 셰프 인터뷰로 요리 철학을 전했으며, 프리미엄 블렌더 '블렌텍' 광고에서는 로메스코 소스와 피스타치오 블라스트 시연으로 분쇄 성능을 증명했다. 넷플릭스 <흑백요리사2>로 팬덤을 만든 아기 맹수 김시현 셰프(유튜브 10.9만·인스타그램 14.9만)는 원재료의 맛을 살리는 조리법을 지향하며, 중식마녀 셰프와의 콜라보에서 '설로인'을 두고 \"다이닝에서 많이 쓰는 브랜드\"라고 언급해 신뢰도를 보탰다. 스펙트럼이 넓어진 만큼, 협업 성패는 타깃과 크리에이터의 결을 얼마나 정확히 읽는지에 달려 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/08/고구마팜푸드-크리에이터-리스트업_260814_2.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/고구마팜푸드-크리에이터-리스트업_260814_2.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%eb%a7%9b%ec%a7%91%eb%9f%ac%eb%b2%84%c2%b7%ec%9e%90%ec%b7%a8%ec%83%9d%c2%b7%eb%8b%a4%ec%9d%b4%ec%96%b4%ed%84%b0-%eb%8b%a4%ec%96%91%ed%95%9c-%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Burger King",
+        "버거킹",
+        "푸드 크리에이터",
+        "인플루언서 마케팅",
+        "숏폼 먹방",
+        "K-푸드",
+        "브랜드 협업"
+      ]
+    },
+    {
+      "id": "93c0d0b0",
+      "date": "2026-09-18",
+      "category": "🎯 브랜딩",
+      "title_ko": "염소 그림을 지우고 글자만 남겼다 — Paprika Design이 Digigoat에 적용한 미니멀 타이포 리브랜딩",
+      "summary_ko": "스튜디오 Paprika Design이 테크 브랜드 Digigoat의 비주얼 아이덴티티를 복잡한 염소 일러스트에서 고대비 기하학 워드마크로 교체했다. 알파벳 O의 중앙을 납작한 마이너스 선으로 처리해 염소 눈동자를 은유하고, 흑백 대비만으로 브랜드의 성격을 드러낸다. 장식을 걷어낸 타입 폼과 그리드, 무잉크 debossing 명함까지 하나의 규칙으로 정렬된 사례다.",
+      "body_ko": "Digigoat 리디자인의 핵심은 '그림을 글자로 바꾸는 것'이었다. 기존의 복잡한 염소 이미지를 걷어내고, 각진 블록체로 조판한 DIGIGOAT 워드마크를 아이덴티티의 중심에 놓았다. Paprika Design은 알파벳 O의 가운데를 납작한 마이너스 라인으로 비워, 동물을 직접 그리지 않고도 염소의 눈동자를 암시하는 장치를 심었다. 마크는 굵은 흑백 면으로 구성돼 시각 대비가 분명하고, 세밀한 그리드 라인은 둥근 글자 형태가 정확한 가이드라인 위에 놓여 있음을 보여준다.\n\n비주얼 시스템은 부가적인 장식을 모두 잘라내고 순수한 타입 폼에만 집중한다. 그 결과 어두운 배경과 밝은 배경 어디에서도 각 글자의 윤곽이 또렷하게 유지되며, 브랜딩 언어 전체가 강하고 직설적인 인상을 준다.\n\n오프라인 응용물에서는 두꺼운 백색 카드지가 무대가 된다. 명함 그리드에는 잉크를 전혀 쓰지 않은 중앙 debossing 마크만 찍히고, 작은 연락처 텍스트가 카드 상단 모서리에 정돈돼 배치된다. 스튜디오 창유리에는 어두운 실내를 배경으로 흰색 워드마크가 걸려, 검은 면과 흰 글자의 선명한 대비가 아이덴티티의 인상을 강화한다. 각 아이템은 스케일 대비와 종이의 거친 질감에 기대며, 단순한 인쇄 세팅이 오히려 카드의 실제 텍스처와 날카로운 재단면을 부각시킨다.\n\n이 프로젝트는 단순한 타입 선택이 테크 브랜드를 어떻게 바꾸는지 보여준다. 문자 그대로의 동물 드로잉에서 정제된 심볼로 이동하면서 브랜드는 현대적인 디지털 인상을 얻었고, 시스템 전체는 단순한 타이포그래피와 명확한 그리드, 평범한 종이 카드만으로 완결된다. 브랜드 업데이트를 준비하는 디자인 팀에게 최소한의 디테일이 어떻게 명확한 아이덴티티 가치를 만드는지 참고할 만한 레퍼런스다. 전체 케이스 스터디는 Paprika Design의 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_0.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_3.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/digigoat_4.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/digigoat-visual-identity-redesign-and-branding/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Digigoat",
+        "디지고트",
+        "Paprika Design",
+        "파프리카 디자인",
+        "Behance",
+        "비핸스",
+        "비주얼 아이덴티티",
+        "워드마크",
+        "미니멀 타이포그래피"
+      ]
+    },
+    {
+      "id": "65746908",
+      "date": "2026-09-18",
+      "category": "🎨 디자인",
+      "title_ko": "퍼포먼스 마케팅을 '정밀 계측 장비'처럼 만든 브랜딩 — Victor Berriel의 Uncommon 아이덴티티",
+      "summary_ko": "디자이너 Victor Berriel이 DTC 브랜드 전문 퍼포먼스 에이전시 Uncommon의 브랜드 아이덴티티를 공개했다. 기업용 그라데이션과 둥근 카드로 대표되는 마케팅 업계의 관습을 뒤집고, 옵시디언 블랙과 안전 오렌지, 기술 계측 그래픽으로 '고정밀 기술 운용자'의 시각 언어를 구축했다.",
+      "body_ko": "퍼포먼스 마케팅 에이전시의 디자인은 대개 예측 가능한 클리셰에 기댄다. 무균실 같은 코퍼레이트 그라데이션, 친근한 라운드 카드, 스톡 대시보드 와이어프레임이 그것이다. 대규모로 운영되는 DTC(direct-to-consumer) 브랜드를 위한 퍼포먼스 에이전시 Uncommon을 위해, Victor Berriel은 이 관습을 완전히 역전시켰다. 깊은 옵시디언 블랙과 거친 슬레이트를 기반으로 하고, 시인성 높은 세이프티 오렌지를 계산된 지점에만 터뜨린다. 아이덴티티의 중심에는 전용 워드마크가 있는데, 가운데 글자들을 가로지르는 각진 지그재그 리거처가 연속적인 신호 흐름과 알고리즘적 정밀성을 암시한다.\n\n타이포그래피 위계는 물리적 산출물과 디지털 인터페이스 전반을 엄격하게 통제한다. Berriel은 Pangram Pangram의 범용 그로테스크 Neue Montreal을 강한 디스플레이 헤드라인에, 레트로-디지털 비트맵 서체 NeueBit을 기술 계측 메타데이터에 배치했다. GPS 좌표, 레지스트레이션 크로스헤어, 시스템 상태 배지, 스캔 가능한 바코드 스트립은 수동적인 장식이 아니라 그래픽 구조의 주역으로 기능한다. 이 체계적 프레이밍은 분석 대시보드, 반응형 웹 뷰, 웨어러블 인터페이스로 그대로 이어지며 복잡한 전환 지표와 퍼포먼스 데이터셋을 타협 없는 명료함으로 전달한다.\n\n인쇄물과 의류 컬래터럴은 이 아이덴티티를 물성의 차원에 붙들어 둔다. 에디토리얼 스위트는 종이 질감이 살아 있는 밀도 높은 무광 블랙 슬립케이스와 스폿 오렌지 테크니컬 스티커로 구성되며, 픽셀 디더링 그라데이션 책등을 가진 두 권의 책을 담는다. 인더스트리얼 오렌지 코튼 초어 재킷에는 주 워드마크를 키네틱하게 반복 실크스크린해 '운용자'의 태도를 강화했다. 브루탈리즘적 절제와 고대비 기능성 에너지를 결합한 이 시스템은, 규율 있는 아트 디렉션이 퍼포먼스 마케팅을 어떻게 권위 있는 창작 선언으로 바꿔놓는지 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_uncommon-victor-berriel.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_uncommon-victor-berriel.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uncommon-victor-berriel_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uncommon-victor-berriel_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uncommon-victor-berriel_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uncommon-victor-berriel_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-uncommon-victor-berriel/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Victor Berriel, 빅터 베리엘",
+        "Uncommon, 언커먼",
+        "Neue Montreal, 뉴 몬트리올",
+        "NeueBit, 뉴빗",
+        "Pangram Pangram, 팬그램 팬그램",
+        "브랜드 아이덴티티",
+        "테크니컬 그래픽",
+        "DTC 퍼포먼스 마케팅"
+      ]
+    },
+    {
+      "id": "237fa591",
+      "date": "2026-09-17",
+      "category": "📣 마케팅",
+      "title_ko": "간판 글자를 찍으면 누끼가 따진다 — 앱스토어 1위로 직행한 바이럴 앱·웹 5選",
+      "summary_ko": "타이포 아카이빙 앱 'SNIP'과 방문 지역 기록 앱 '발자취'가 각각 앱스토어 그래픽·디자인, 라이프스타일 무료 차트 1위에 올랐습니다. 기니피그와 함께 일하는 '기니어스', 데스크탑 펫 '돌돌이', 아사히의 '민티아 마이 라벨 메이커'까지 최근 바이럴된 서비스들의 공통점은 거창한 발명이 아니라 이미 하던 행동의 아쉬움을 정확히 짚었다는 점입니다.",
+      "body_ko": "'SNIP'은 길에서 눈에 띈 글자를 수집하는 사람들을 위한 타이포 아카이빙 앱입니다. 간판이나 현수막의 글자를 촬영하면 자동으로 타이포의 누끼가 따지고, 어떤 글자인지 입력해 두면 라이브러리에 아카이빙됩니다. 한글·영어·일본어·중국어는 물론 스티커까지 저장할 수 있고, 모아둔 글자로 콜라주 이미지를 만들 수도 있습니다. 이 앱을 소개한 릴스는 약 58만 회 이상 조회수를 기록했고 앱스토어 그래픽 및 디자인 앱 무료 차트 1위에 올랐습니다. 반응의 이유는 명확합니다. 사진으로 저장한 레퍼런스는 다시 꺼내 활용하기 어렵고 원하는 부분만 담기도 쉽지 않은데, SNIP은 디자이너들이 이미 해오던 수집 습관을 그대로 가져와 그 불편만 해소했습니다. 앱 리뷰에는 \"왜 이제야 나왔는지 모를 정도로 최고의 어플이다. 텍스트를 아카이빙할 수 있는 어플은 여태 없었다\"는 평이 남았습니다.\n\n라이프로깅 영역에서는 '발자취'가 눈에 띕니다. \"오늘부터 걸어온 길이 나만의 지도가 됩니다\"라는 메시지를 중심으로, 걸은 거리·경로·시간을 저장하면 방문한 지역이 색으로 채워지는 방문 지역 기록 앱입니다. 지역은 동 단위까지 세분화되어 있고, 색은 그 지역에서 찍은 대표 사진을 기준으로 정해집니다. 스레드에서 주목받기 시작해 앱스토어 라이프스타일 앱 무료 차트 1위까지 올랐습니다. 가본 곳뿐 아니라 가보지 않은 지역까지 한눈에 보인다는 점이 핵심으로, 추억을 아카이빙하는 동시에 비어 있는 지도가 다음 행선지에 대한 동기로 이어집니다.\n\n혼자 일하는 시간을 채우는 서비스도 있습니다. '기니어스'는 각자 할 일이 있는 기니피그와 온라인 모임을 만들어 함께 일하는 사이트입니다. 회의가 열리면 각기 다른 일을 하는 기니피그의 영상이 보이고, 채팅으로 대화나 응원을 주고받을 수 있습니다. 줌과 비슷한 화면 구성에 가끔 다른 일을 한다며 자리를 비우는 연출까지 더해져 누군가와 함께한다는 감각을 만듭니다. '데스크탑 펫 돌돌이'는 화면 한구석에서 내 모션을 따라 움직입니다. 키보드를 치면 같이 키보드를 치고, 3분간 입력이 없으면 커피를 마시며, 뽀모도로 타이머의 쉬는 시간에는 춤을 춥니다. 기니어스가 타인과의 공존으로 할 일을 완수하게 만든다면, 돌돌이는 내 행동을 그대로 반사해 즉각적인 피드백을 준다는 점에서 동기부여 방식이 다릅니다.\n\n브랜드 사례로는 일본 주류·음료 브랜드 아사히의 '민티아 마이 라벨 메이커'가 있습니다. 사이트에서 민티아와 민티아 브리즈 타입 중 하나를 고른 뒤 배경, 아바타, 텍스트나 스탬프를 넣어 라벨을 꾸미고, 이를 프린트해 제품에 붙이면 패키지 커스텀이 완성됩니다. 후기를 보면 최애 캐릭터나 연예인으로 꾸미는 경우가 많은데, 제품을 자신의 취향대로 휴대하게 만들면서 지속 사용과 애착으로 이어지는 구조입니다. 이 서비스들은 모두 거창한 발명이 아니라, 사람들이 이미 하고 있던 행동과 느끼던 아쉬움에서 한 걸음 더 나아간 결과입니다. 사용해야 할 순간이 일상 속에 명확히 존재했기에 그 지점에 정확히 맞아떨어질 수 있었습니다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/08/260810-1.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/260810-1.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-42.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-1-3.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-2-3.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/08/image-3-3.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%ec%95%b1%ec%8a%a4%ed%86%a0%ec%96%b4-1%ec%9c%84%ec%97%90-%ea%bb%91%ec%b6%a9-%ec%98%ac%eb%9e%90%eb%8b%a4%ea%b3%a0-%ec%b5%9c%ea%b7%bc-%eb%b0%94%ec%9d%b4%eb%9f%b4%eb%90%9c-%ec%95%b1%ec%9b%b9/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "SNIP, 스닙",
+        "발자취",
+        "기니어스",
+        "Asahi, 아사히",
+        "MINTIA, 민티아",
+        "라이프로깅",
+        "타이포그래피 아카이빙"
+      ]
+    },
+    {
+      "id": "294d88b3",
+      "date": "2026-09-17",
+      "category": "🎯 브랜딩",
+      "title_ko": "지속가능성을 광고 문구가 아닌 공방의 현실에서 꺼내오다 — Estúdio Lippi가 만든 CASA&CO.의 브랜드 아이덴티티",
+      "summary_ko": "브라질 크리에이티브 스튜디오 Estúdio Lippi가 가구 브랜드 CASA&CO.의 통합 브랜드 아이덴티티를 완성했다. 현대 럭셔리 인테리어를 지배하는 무채색 팔레트를 거부하고 의도적인 색의 온기를 전 접점에 도입했으며, 대문자 워드마크와 촉각적인 인쇄물로 '수십 년을 견디는 가구'라는 브랜드의 태도를 시각화했다.",
+      "body_ko": "Estúdio Lippi는 의식 있는 삶을 지향하는 독립 가구 스튜디오 CASA&CO.를 위해 포괄적인 브랜드 아이덴티티를 구축했다. Kauan Lippi와 Ronyery Borges가 크리에이티브 디렉션을 맡은 이 프로젝트는 수십 년을 견디도록 만들어진 제품을 중심에 둔 정직한 비주얼 시스템을 제안한다. CASA&CO.는 책임 있는 방식으로 조달한 경질목재와 저부하 직조 패브릭으로 주거용 테이블, 좌식 가구, 수납 가구를 만든다. 스튜디오는 환경적 책임을 홍보용 수사로 다루는 대신, 그래픽 디자인 자체를 공방의 현실에 직접 뿌리내리게 했다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_casaco-estdio-lippi.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_casaco-estdio-lippi.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_casaco-estdio-lippi_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_casaco-estdio-lippi_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_casaco-estdio-lippi_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_casaco-estdio-lippi_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-casaco-estudio-lippi/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Estúdio Lippi",
+        "에스투디오 리피",
+        "CASA&CO.",
+        "카사앤코",
+        "브랜드 아이덴티티",
+        "지속가능한 가구",
+        "타이포그래피"
+      ]
+    },
+    {
+      "id": "95c42a04",
+      "date": "2026-09-17",
+      "category": "🎨 디자인",
+      "title_ko": "데이터를 화물처럼 쌓아 올린 타이포그래피 — 베를린 디자이너 Kseniya Artman의 'SL24' 아이덴티티",
+      "summary_ko": "베를린 기반 디자이너 Kseniya Artman이 격년 전시 'Synthetic Logistics 2024(SL24)'를 위해 브루탈리스트 타이포그래피 시스템을 만들었다. 12컬럼 스위스 그리드 위에 초대형 콘덴스드 산세리프와 화물 텔레메트리 정보를 충돌시키고, 형광 세이프티 오렌지로 경고 데이터를 분리해낸다. 화면 디자인의 무게 없음에 맞서 데이터에 물리적 질량을 되돌려주는 접근이다.",
+      "body_ko": "'SL28'이 아니라 'SL24'. 시각 엔지니어링과 데이터 아키텍처를 다루는 격년 전시 Synthetic Logistics 2024를 위해, 베를린 기반 디자이너 Kseniya Artman이 기념비적인 브루탈리스트 타이포그래피 시스템을 구축했다. 이 컨셉추얼 아이덴티티는 동시대 화면 디자인이 지닌 무게 없음에 정면으로 맞서며, 원자료(raw data)를 구조 역학과 운동 장력의 지배를 받는 물리적 화물로 취급한다. Artman은 전시장을 거대한 화물 허브로 상정했고, 레터폼은 수동적인 본문 텍스트가 아니라 중장비처럼 기능한다. 임상적 브루탈리즘이라 부를 만한 비타협적 미감을 통해, 이 그래픽 시스템은 복합운송 터미널의 시각 언어를 무기로 삼아 복잡한 알고리즘 정보 흐름에 만져지는 질량과 구조적 중력을 되돌려준다.\n\n시각적 긴장은 스케일 격차와 경직된 그리드 정렬에서 나온다. 정밀한 12컬럼 스위스 그리드를 기반으로, 거대하고 압축된 산세리프 글리프가 미세한 기술 텔레메트리 정보와 나란히 배치된다. 영문·숫자 인벤토리 코드, 스캐닝 매트릭스, 바코드 모듈, 방향 지시 마커는 정밀한 그래픽 장식으로 작동한다. 초대형 숫자는 외곽 마진을 직접 밀어붙이며 지배적인 초점을 만들고, 이는 촘촘한 표 형식 메타데이터 블록과 대비된다. 두꺼운 수직 스트로크와 헤어라인 좌표축이 의도적으로 충돌하며 건축적 리듬을 만들어, 기술 명세와 화물 명세서를 먼 거리에서도 즉각 시선을 붙드는 디스플레이 포스터로 바꿔놓는다.\n\n색은 철저히 기능적으로 통제된다. 딥 그라파이트가 배경의 공백을 흡수하고, 차가운 스틸 그레이와 생콘크리트 톤이 물리적 밀도를 부여하며, 형광 세이프티 오렌지는 중요한 데이터 경고를 광학적으로 분리하는 역할을 한다. Adobe Illustrator, InDesign, Photoshop으로 제작된 이 아이덴티티는 실크스크린 선언문, 건축적 모노리스, 디지털 터미널 인터페이스까지 매끄럽게 옮겨간다. 이러한 사변적 시각 엔지니어링을 통해 전시용 소모 인쇄물은 오래 남는 인공물로 전환되며, 포렌식 정보 디자인과 중공업 기호학이 결합해 강력한 동시대 그래픽 목소리를 만들어낼 수 있음을 보여준다. 전체 프로젝트는 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_sl24-brutalist-data-logistics-cyber-typography-kseniya-artman_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brutalist-typography-sl24-kseniya-artman/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Kseniya Artman, 크세니야 아르트만",
+        "Synthetic Logistics 2024, 신세틱 로지스틱스 2024",
+        "Abduzeedo, 앱두지도",
+        "Behance, 비핸스",
+        "브루탈리스트 타이포그래피",
+        "스위스 그리드",
+        "정보 디자인"
+      ]
+    },
+    {
+      "id": "f96d1f14",
+      "date": "2026-09-16",
+      "category": "📣 마케팅",
+      "title_ko": "올여름 SNS를 점령한 소재 11가지 — 오픈토삭스부터 레몬코어까지, 브랜드가 바로 써먹을 트렌드 지도",
+      "summary_ko": "고구마팜이 지금 SNS에서 반응을 얻고 있는 여름 트렌드 소재를 정리했다. 오픈토삭스·젤리슈즈·네트백처럼 직접 만들고 꾸미는 DIY형 아이템과, 능소화·해파리·크림소다·레몬코어 같은 컬러·모티프 소재가 나란히 떠올랐다. 계절감을 브랜드 방식으로 재해석해 굿즈와 참여형 콘텐츠로 연결하는 것이 관건이다.",
+      "body_ko": "여름 시즌 마케팅에서 중요한 건 '지금' 반응하는 소재를 고르는 일이다. 올여름 SNS에서 두드러진 흐름은 직접 만들고 꾸미는 참여형 아이템이다. 발가락이 드러나는 오픈토삭스는 미우미우 2025 S/S 컬렉션에서 등장한 뒤 무지에서 출시되며 일상 레이어드 아이템으로 확산됐고, 최근에는 기존 양말 앞부분을 잘라 만드는 리폼 릴스까지 나왔다. 젤리슈즈는 파츠와 비즈로 자신만의 스타일을 완성하는 '젤꾸' 문화와 만나 재부상했고, 동대문 '젤꾸 코스' 릴스가 확산되는 가운데 배우 이시영, 〈미운 우리 새끼〉의 린과 백지영도 트렌드에 올라탔다. 네트백 역시 코바늘·끈으로 만드는 숏폼과 도안 공유 게시물이 주목받는다. 팔뚝에 착용하는 메탈 액세서리 암커프는 실버·스틸 특유의 차가운 질감이 여름 무드와 맞물리며, 철사나 메탈 와이어로 만드는 DIY 콘텐츠가 함께 퍼졌다.\n\n컬러와 모티프 소재도 강세다. 주황빛 능소화는 벽돌담·한옥과 어우러지는 '여름 인증샷 명소'로 자리 잡아 촬영 팁과 전국 명소 콘텐츠가 높은 조회수를 기록했고, 키링·끈갈피·비즈 화분 같은 굿즈로도 확장됐다. 특히 더위와 태풍이 반복되는 여름에 만개해 '하늘을 업신여기는 꽃'이라 설명하는 게시글이 크게 공유되며, 생김새를 넘어 의미와 이야기까지 소비됐다는 점이 눈에 띈다. 해파리는 투명한 색감과 은은한 질감으로 디자인 모티프가 됐다. 다이소가 '썸머 글로시 해파리 시리즈'를, 카카오프렌즈가 해파리 콘셉트 굿즈를 선보였고, 국립수산과학원이 해파리 신고 참여자에게 증정한 무드등은 SNS에서 1만 회 이상 공유됐다. 크림소다는 높은 채도와 일본 레트로 디저트 감성을 앞세워 다이소 '크림소다 시리즈', 크림소다 램프·양우산 등으로 번졌다.\n\n음악과 IP가 밀어 올린 키워드도 있다. 레몬코어는 에스파와 하츠투하츠가 연이어 레몬 콘셉트 신곡과 프로모션을 선보이며 여름 대표 키워드로 떠올랐다. 에스파 닝닝이 'Lemonade' 메이크업에서 보여준 레몬색 언더 아이라이너와 섀도우가 화제를 모았고, 하츠투하츠는 'Lemon Tang' 발매와 함께 이벤트·팝업을 진행했다. 캐릭터 분야에서는 기존 IP에 그을린 피부를 입히는 태닝 캐릭터가 확산됐다. 외형을 크게 바꾸지 않고 컬러만 더해 계절감을 내는 방식으로, 한컴타자와 협업한 포토이즘은 태닝한 캐릭터를 프레임에 담았다. 선글라스를 벗었을 때 안경 자국만 하얗게 남은 디테일처럼 작은 포인트를 얹는 것도 방법이다. 일본에서는 우산 끝으로 바닥을 짚으면 발자국이 남는 우산캡 가챠가 인기를 끌며, 작지만 브랜드 개성을 담기 좋은 굿즈 사례로 언급됐다.\n\n가장 검증된 소재는 여전히 제철 과일이다. 수박, 토마토, 복숭아, 청사과는 선명한 색감으로 계절을 직관적으로 표현해 패브릭·문구·생활용품 디자인에 두루 쓰인다. 생과일 주스로 알려진 이디야는 의류 브랜드 프룻오브더룸과 그래픽 티셔츠를 내놓았고, 〈토마토 컵라면〉·〈유쾌한 워터멜론〉의 저자 차정은과 '제철 과일 백일장'을 열어 시와 삼행시로 참여를 이끌어냈다. 공통점은 명확하다. 여름을 상징하는 컬러와 형태, 스토리를 브랜드만의 방식으로 재해석하고 굿즈·참여형 콘텐츠·공간 경험으로 연결할 때 소비자는 계절과 함께 브랜드를 떠올린다. DIY 키트, 한정 도안, 팝업 커스터마이징 존, 가챠형 랜덤 굿즈는 모두 그 접점을 만드는 장치다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜여름-트렌드_260722.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜여름-트렌드_260722.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-87-2048x788.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-88-2048x766.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%ec%98%a4%ed%94%88%ed%86%a0%ec%82%ad%ec%8a%a4%c2%b7%ec%95%94%ec%bb%a4%ed%94%84%c2%b7%eb%84%a4%ed%8a%b8%eb%b0%b1-%eb%8b%b9%ec%9e%a5-%ec%8d%a8%eb%a8%b9%ec%9d%84-%ec%88%98-%ec%9e%88%eb%8a%94/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Miu Miu",
+        "미우미우",
+        "Daiso",
+        "다이소",
+        "aespa",
+        "에스파",
+        "레몬코어",
+        "여름 시즌마케팅",
+        "DIY 굿즈"
+      ]
+    },
+    {
+      "id": "88f5910d",
+      "date": "2026-09-16",
+      "category": "🎯 브랜딩",
+      "title_ko": "국경 없는 돈의 얼굴 — 조셉 오마스가 설계한 핀테크 브랜드 MYRO",
+      "summary_ko": "디자이너 Joseph Omas가 국제 송금 핀테크 플랫폼 MYRO의 비주얼 아이덴티티를 공개했다. '자유의 은행(the bank of the free)'이라는 전략 아래, 현금 대신 개인의 거침없는 움직임을 시각화한 것이 핵심이다. 굵은 디스플레이 타이포그래피와 세로형 매트 데빗카드가 디지털과 물리적 경험을 하나로 잇는다.",
+      "body_ko": "MYRO는 해외 거주 크리에이터와 독립 창업자, 원격 근무자를 위한 국제 결제 플랫폼이다. 복잡한 국경 간 송금 절차와 전통 금융기관의 경직된 규정, 높은 이체 수수료가 이들의 일상적인 장벽이었다. Joseph Omas는 이 문제의식을 브랜드 전략의 출발점으로 삼아 플랫폼을 '자유의 은행'으로 포지셔닝했고, 자유라는 메타포가 모든 크리에이티브 결정을 이끄는 중심축이 됐다. 그래서 이 아이덴티티는 돈다발을 보여주지 않는다. 대신 제약 없는 개인의 추진력을 시각적으로 축하하며, 사용자 접점 전반에서 불필요한 시각 요소를 걷어냈다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_myro-branding-joseph-omas.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_myro-branding-joseph-omas.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_myro-branding-joseph-omas_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_myro-branding-joseph-omas_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_myro-branding-joseph-omas_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_myro-branding-joseph-omas_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/branding-design-myro-identity-joseph-omas/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "MYRO",
+        "미로",
+        "Joseph Omas",
+        "조셉 오마스",
+        "Adediji Zaccheaus",
+        "핀테크 브랜딩",
+        "비주얼 아이덴티티"
+      ]
+    },
+    {
+      "id": "13c073c0",
+      "date": "2026-09-16",
+      "category": "🎨 디자인",
+      "title_ko": "글자를 손으로 다 그렸다 — 브라질 스튜디오 드라마가 만든 '거친 정체성'",
+      "summary_ko": "브라질 그래픽 디자인 스튜디오 Estúdio Drama가 2025년 자체 브랜드 아이덴티티를 완성했다. 기성 디스플레이 폰트 대신 로고타입 전체를 글자 하나하나 손으로 그렸고, 여기에 세 가지 서체 조합과 날것의 인물 일러스트, 강렬한 버밀리언 레드 팔레트를 얹었다.",
+      "body_ko": "Estúdio Drama는 2025년 자사의 종합 브랜드 아이덴티티를 직접 설계하며 타협 없는 본능적 창작 태도를 드러냈다. 핵심은 손으로 그린 로고타입이다. 기성 디지털 디스플레이 폰트를 가져다 쓰는 대신 주 로고타입 전체를 글리프 단위로 직접 드로잉했고, 각 글자는 서로 다른 해부학적 긴장감과 변화하는 획 두께, 날카로운 터미널을 지닌다. 이 촉각적 기준점이 매끈한 기업형 에이전시 브랜딩과 스튜디오를 분리시킨다. 아이덴티티는 마찰을 미적 결함이 아니라 창작 자산으로 다룬다.\n\n손으로 만든 코어 마크를 받치는 것은 정교한 타이포그래피 3종 구조다. 실용적인 콘덴스드 그로테스크, 표현적인 세리프 액센트, 정갈한 지오메트릭 모노 서브헤드가 짝을 이루며 개성 강한 서체 세 개가 균형을 잡는다. 브로드시트 형식의 에디토리얼 포스터, 퍼블리케이션 그리드, 프로모션 공지물 전반에서 이 대비가 시각적 리듬을 만든다. 조밀한 정보 블록과 느슨한 헤드라인 스케일 변화가 맞부딪히고, 절제된 여백이 복잡한 구성 속에서도 가독성을 지키며 독자의 시선을 이끈다. 다층 위계 덕분에 아이덴티티는 임상적 구조와 날것의 시각적 혼돈 사이를 자유롭게 오간다.\n\n두 번째 시각 레이어는 인간적 감각을 불어넣는 구상 일러스트다. 아웃라인으로 처리된 인물, 만화적 표정의 얼굴, 제스처 라인 스케치가 인쇄물과 디지털 접점에 즉흥성을 더한다. 강렬한 버밀리언 레드, 표백하지 않은 크림, 깊은 카본 블랙으로 구성된 팔레트와 결합해 아이덴티티는 굿즈, 두꺼운 토트백, 실크스크린 스튜디오 의류, 에디토리얼 뉴스레터, 리테일 스토어프론트 디스플레이까지 확장된다. 일러스트레이터·인디자인·포토샵으로 진행된 프로덕션은 종이 재질과 물리적 매체가 달라져도 선 두께와 정합, 잉크 재현을 일정하게 유지한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_identidade-visual-estdio-drama-estdio-drama.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_identidade-visual-estdio-drama-estdio-drama.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_identidade-visual-estdio-drama-estdio-drama_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_identidade-visual-estdio-drama-estdio-drama_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_identidade-visual-estdio-drama-estdio-drama_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_identidade-visual-estdio-drama-estdio-drama_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-estudio-drama-graphic-system/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Estúdio Drama",
+        "에스투디오 드라마",
+        "Abduzeedo",
+        "압두지두",
+        "브랜드 아이덴티티",
+        "핸드드로잉 로고타입",
+        "타이포그래피 시스템"
+      ]
+    },
+    {
+      "id": "78f88257",
+      "date": "2026-09-15",
+      "category": "📣 마케팅",
+      "title_ko": "10분 대화, 2초 영상, 1회성 감튀 모임 — 요즘 만남은 가벼워진 게 아니라 잘게 쪼개졌다",
+      "summary_ko": "로테이션 소개팅, 셋로그 소개팅, 숏셜링까지 MZ세대의 만남 포맷이 짧고 가벼운 단위로 재편되고 있다. 관계를 거부해서가 아니라 감정 소모를 줄이고 취향과 생활 리듬을 먼저 확인하려는 태도 때문이다. 브랜드에게는 '사람을 모으는 법'이 아니라 '부담 없이 마주치게 하는 법'의 힌트가 된다.",
+      "body_ko": "트렌드모니터의 2025년 인간관계·연애관 조사에 따르면 응답자 다수는 소수의 인간관계에 집중하는 것을 선호하고, 사람들과 어울리기보다 개인 시간을 더 갖고 싶어 하는 경향도 커졌다. 동시에 20대는 다른 연령대보다 인간관계를 넓히려는 노력이 상대적으로 높게 나타났다. '사람은 만나고 싶지만 감정 소모는 줄이고 싶다'는 양가적 태도가 완전한 자만추도, 완전한 앱만추도 아닌 중간 지대의 만남 포맷을 키우고 있다.\n\n로테이션 소개팅은 남녀 여러 명이 한자리에 모여 한 사람당 10~15분씩 대화한 뒤 다음 상대로 넘어가고, 마지막에 서로 호감이 확인되면 연락처를 교환하는 방식이다. 최근에는 솔로 파티, 템플 스테이, 산책, 원데이 클래스 같은 콘셉트가 결합되며 어색함을 줄이는 방향으로 확장되고 있다. 핵심은 효율이다. 몇 시간을 버티거나 소개자 눈치를 볼 필요 없이 시스템이 거절을 대신 처리해 준다. 셋로그 소개팅은 여기서 한 발 더 나아간다. 5:5 셋로그 방에서 3일간 하루 여러 번 2초짜리 일상 영상을 올리고 마지막 날 상대를 선택하는 '3일팅'이 대표적인데, 2초는 너무 짧아 꾸미기 어렵기 때문에 오히려 기상 시간·이동·식사·루틴 같은 생활감이 드러난다. 구정우 성균관대 사회학과 교수는 젊은 세대가 외적 조건보다 취향과 생활 방식이 비슷한 상대를 찾으려는 경향이 강해지면서 일상을 미리 확인할 수 있는 플랫폼이 만남의 도구로 쓰인다고 분석했다. 매칭의 기준이 프로필에서 라이프스타일로 옮겨가고 있다는 뜻이다.\n\n러닝 크루, 독서 모임, 전시 동행, 와인 모임 같은 취미 기반 소셜링도 달라진 맥락에서 다시 읽힌다. '친구 만들러 오세요'는 부담스럽지만 '토요일 아침에 5km 뛰고 커피 마셔요'는 가볍게 느껴진다. 할 일이 정해져 있으니 자기소개 없이도 대화 주제가 생기고, 같은 활동을 수행하는 과정 자체가 아이스브레이킹이 된다. 더 짧고 가벼운 형태가 숏셜링이다. '숏+소셜링'의 합성어로 친목보다 콘셉트가 중요하고, 일회성 참여 비중이 높으며, 짧게 참여하고 끝난다. 래퍼 이영지와 나영석 PD의 기획으로 화제를 모은 '경찰과 도둑', 당근을 통해 유행한 '감튀 모임'처럼 끝이 정해져 있다는 점이 관계 유지 부담을 지우고 참여 장벽을 낮춘다.\n\n마케터와 기획자가 볼 지점은 '어떻게 사람을 모을까'가 아니라 '어떻게 부담 없이 마주치게 할까'다. '사람 만나러 오세요' 대신 '같이 뛰어요', '같이 먹어요'처럼 행동을 제안하고, 취향은 넓되 행동은 좁게 설계할수록 시작이 쉬워진다. 참여자 확인·운영자 존재·신고 및 차단 기능·연락처 공개 선택권 같은 안전장치는 '재밌어 보여서 가고 싶다'를 '안전해 보여서 갈 수 있다'로 바꾼다. '오늘 한 번만 참여 가능', '모임 후 단톡방 없음' 같은 퇴장 조건이 오히려 입장을 부르고, '어제 감튀 모임 다녀왔어'처럼 한 문장으로 설명되는 경험이 확산을 만든다. MZ세대의 만남은 가벼워진 것이 아니라 진입 단계가 잘게 쪼개졌고, 그 안에는 안전·효율·취향·생활감이라는 기준이 숨어 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜MZ세대-만남-트렌드_260714.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜MZ세대-만남-트렌드_260714.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-62.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-63.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-64.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/image-65.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%ec%85%8b%eb%a1%9c%ea%b7%b8-%ec%86%8c%ea%b0%9c%ed%8c%85-%ec%88%8f%ec%85%9c%eb%a7%81-%ec%9a%94%ec%a6%98-mz%ec%84%b8%eb%8c%80%ea%b0%80-%ea%b4%80%ea%b3%84%eb%a5%bc-%eb%a7%ba%eb%8a%94-%eb%b0%a9%ec%8b%9d/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "숏셜링",
+        "셋로그 소개팅",
+        "로테이션 소개팅",
+        "Karrot",
+        "당근",
+        "라이프스타일 매칭",
+        "커뮤니티 마케팅"
+      ]
+    },
+    {
+      "id": "995f914e",
+      "date": "2026-09-15",
+      "category": "🎯 브랜딩",
+      "title_ko": "\"stay saucy\" — 조용한 미니멀리즘을 거부한 바디케어 패키지",
+      "summary_ko": "브라질 디자이너 Nathalia Ultramar가 Orcaah와 협업해 만든 바디케어 브랜드 Saucy의 패키지 디자인과 브랜드 아이덴티티다. 임상적인 무균 톤과 흔한 골든 탠 클리셰에서 벗어나, 강한 타이포그래피와 고대비 컬러 조합으로 매대에서의 존재감을 설계했다. 네이밍부터 시장 포지셔닝, 버벌 아이덴티티까지 디자이너가 처음부터 직접 구축한 프로젝트다.",
+      "body_ko": "Nathalia Ultramar는 Saucy의 브랜드 네이밍, 시장 포지셔닝, 버벌 아이덴티티를 포함해 브랜드의 모든 국면을 바닥부터 설계했다. \"stay saucy\"라는 태그라인을 중심축으로 삼은 그래픽 언어는 조용한 미니멀리즘 대신 카리스마 있는 타이포그래피, 자신감 있는 비례, 복잡한 리테일 선반에서 시선을 붙잡도록 설계된 색채 팔레트를 택했다. 일상적인 스킨 루틴에 거리낌 없는 자신감을 불어넣는 것이 시각 전략의 목표다.\n\n패키지는 제품 정보를 정돈된 칼럼으로 조직하면서도 유희적인 제품명을 전면에 내세운다. 일반적인 기술 라벨 대신 Soft Spot, Sun Kissed, Butter Than Me 같은 캐릭터 중심의 이름이 붙는다. 원통형 펌프 보틀과 스퀴즈 튜브에는 진한 코코아 브라운, 따뜻한 메리골드 옐로, 부드러운 파스텔 라일락이 고대비로 조합된다. 타이포그래피 위계는 묵직한 디스플레이 워드마크와 절제된 가독성 중심의 산세리프 제품 사양을 균형 있게 배치하고, 굵은 헤드라인을 넉넉한 여백에 놓아 성분 효능·사용 단계·용량으로 이어지는 시각적 리듬을 만든다.\n\n이 시각 시스템은 개별 용기를 넘어 이커머스 레이아웃과 에디토리얼 아트디렉션으로 확장된다. 디지털 제품 목업은 정갈한 타이포그래피 그리드를 보여주고, 스튜디오 사진은 실제 피부 질감과 제품을 바르는 순간을 담는다. Adobe Illustrator, Photoshop, InDesign으로 제작된 이 아이덴티티는 전략적인 패키지 디자인이 바디케어를 루틴한 관리에서 즐거운 셀프케어 경험으로 전환시킬 수 있음을 보여준다. 전체 프로젝트는 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_saucy-nathalia-ultramar.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_saucy-nathalia-ultramar.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_saucy-nathalia-ultramar_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_saucy-nathalia-ultramar_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_saucy-nathalia-ultramar_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_saucy-nathalia-ultramar_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/packaging-design-saucy-nathalia-ultramar/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Nathalia Ultramar, 나탈리아 울트라마르",
+        "Saucy, 사우시",
+        "Orcaah, 오르카",
+        "Behance, 비핸스",
+        "패키지디자인",
+        "브랜드아이덴티티",
+        "타이포그래피"
+      ]
+    },
+    {
+      "id": "14acbde7",
+      "date": "2026-09-15",
+      "category": "🎨 디자인",
+      "title_ko": "타이포그래피 큐레이터가 고른 하루의 한 사이트 — TR Studio, Typewolf 'Site of the Day'에 오르다",
+      "summary_ko": "웹 타이포그래피 레퍼런스 사이트 Typewolf가 2025년 9월 27일자 'Site of the Day'로 TR Studio를 선정했다. Typewolf는 디자이너 Jeremiah Shoaf가 운영하는 독립 타이포그래피 자료 사이트로, 월 35만 명 이상의 순방문자를 모은다. 단순한 웹사이트 소개가 아니라, 어떤 폰트가 실제 화면에서 어떻게 작동하는지를 축적하는 기록이라는 점에서 주목할 만하다.",
+      "body_ko": "Typewolf의 'Site of the Day'는 매일 한 곳의 웹사이트를 골라 그곳에서 쓰인 서체를 함께 기록하는 코너다. 2025년 9월 27일자 선정작은 TR Studio. 이 코너가 쌓아온 방식대로, 선정은 단순한 '예쁜 사이트' 추천에 그치지 않고 화면 위 타이포그래피가 어떤 선택의 결과인지를 드러내는 아카이브 역할을 한다.\n\nTypewolf는 Jeremiah Shoaf가 만든 독립 타이포그래피 리소스다. 사이트는 폰트 이름으로 검색하거나, 전체 폰트·전체 사이트·인기 순위 목록을 훑어보는 방식으로 탐색할 수 있게 구성돼 있다. 구글에 'typewolf'와 폰트 이름을 함께 검색하면 해당 서체가 실제로 쓰인 사례로 바로 연결되는 구조여서, 폰트 선택 단계의 디자이너들이 레퍼런스를 찾는 경로로 자리 잡았다.\n\n운영 규모도 작지 않다. Typewolf는 월 35만 명이 넘는 순방문자를 기록하며, 운영자는 사이트 유지에 비용과 시간이 많이 든다고 밝히고 있다. 독립 프로젝트로서 지속 가능성을 확보하기 위해 이용자 후원을 받고 있다는 점도 함께 안내된다. 특정 기업이나 파운드리에 속하지 않은 개인 큐레이션이 업계 표준 레퍼런스처럼 기능하고 있다는 사실 자체가, 지금 디자인 씬에서 타이포그래피 정보가 어떻게 유통되는지를 보여준다.",
+      "image_url": "https://www.typewolf.com/assets/img/sotd/2025-09-27-2x.png",
+      "images": [
+        "https://www.typewolf.com/assets/img/sotd/2025-09-27-2x.png",
+        "https://www.typewolf.com/assets/img/sotd/2025-09-27-big-2x.jpg",
+        "https://www.typewolf.com/assets/img/sweatshirt-2x.jpg"
+      ],
+      "source": "Typewolf",
+      "url": "https://www.typewolf.com/site-of-the-day/tr-studio",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Typewolf",
+        "타입울프",
+        "TR Studio",
+        "TR 스튜디오",
+        "Jeremiah Shoaf",
+        "제레미아 쇼프",
+        "웹타이포그래피"
+      ]
+    },
+    {
+      "id": "aae41570",
+      "date": "2026-09-14",
+      "category": "📣 마케팅",
+      "title_ko": "구독자 수보다 'IP 적합도' — 덕후 마음을 여는 크리에이터 15인 큐레이션",
+      "summary_ko": "고구마팜이 게임·웹툰·캐릭터·애니메이션 등 장르별 IP 협업 크리에이터 15인을 정리했다. 핵심 기준은 화제성이나 구독자 규모가 아니라 IP 세계관을 이해하고 광고 콘텐츠까지 팬덤이 즐길 수 있게 만드는 '적합도'다. 브랜드와 팬덤 사이를 잇는 설득력 있는 연결고리가 무엇인지 보여주는 사례집이다.",
+      "body_ko": "IP 협업 크리에이터 선정 기준이 달라지고 있다. 단순히 구독자 수가 많은 채널보다, 해당 IP의 세계관을 충분히 이해하고 광고 콘텐츠마저 팬덤이 즐길 수 있는 형태로 만들어내는 'IP 렐러번스'가 중요해졌다. 고구마팜은 이 기준에 부합하는 크리에이터 15인을 게임, 웹툰, 캐릭터, 애니메이션 등 장르별로 소개했다.\n\n게임 영역에서는 전 오버워치 프로게이머 출신 '명예훈장'이 메이플스토리 보스 공략과 큐브·강화 콘텐츠로 두터운 팬덤을 확보했다. 넥슨 크리에이터즈 후원 시스템은 오픈 3일 만에 약 2억 원의 후원액을 달성했다. '아오니'는 모여봐요 동물의 숲 섬 꾸미기와 인테리어로 100만 회 이상 조회수를 기록했고, 코엑스 아쿠아리움 협업에서는 캐릭터 '죠니'의 표류나 스탬프 랠리처럼 유저만 아는 디테일을 브이로그에 녹여 88만 회를 이끌어냈다. '지존조세'는 게임의 허점과 과금 구조를 재치 있게 짚는 리뷰로 신작 런칭 캠페인에 강점을 보이며, 삼성 갤럭시와 지스타 현장 브이로그를 진행했다.\n\n웹툰 쪽은 취향 세분화가 뚜렷하다. '김리웹'은 로맨스 판타지 등 여성향 IP의 감정선을 분석하며 카카오페이지, 네이버웹툰, 봄툰, 리디와 협업했고, '웹소남'은 남성향 장르 큐레이션과 함께 녹스 앱플레이어, AI 번역 플랫폼 툰심 같은 기술 서비스까지 다룬다. '만화선배'는 숏폼 평균 조회수 40만 회 이상, 티어표 기반 큐레이션으로 정주행을 유도한다.\n\n캐릭터·실사화 영역도 확장 중이다. '키덜트빈'은 산리오·치이카와·짱구 굿즈 언박싱으로 1020 여성층과 키덜트족을 겨냥하고, '레고도사꾸삐'는 40년 만에 재출시된 50만 원대 '사자 기사의 성' 리뷰와 '레고 방 탈출' 같은 기획으로 전문성을 증명했다. '두루미와거북이삼천갑자'는 캐릭터 굿즈를 데스크테리어로 풀어내 롬앤×미피 협업을 연출했고, '포켓피디아'는 무신사 협업에서 리액티파이 러닝 의상을 '게임 속 장비'로 설정해 광고를 콘텐츠로 전환했다. 서브컬처 전반을 다루는 '쑨디'는 덕질 생태계 자체를 소재로 삼는다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜장르별-크리에이터-리스트업_260624.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/07/고구마팜장르별-크리에이터-리스트업_260624.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/05/image-32.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/05/image-33-2048x1142.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/05/image-35.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/05/Group-25.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%ea%b2%8c%ec%9e%84%c2%b7%ec%9b%b9%ed%88%b0%c2%b7%ec%95%a0%eb%8b%88%eb%a9%94%ec%9d%b4%ec%85%98%ea%b9%8c%ec%a7%80-%eb%8d%95%ed%9b%84%eb%93%a4%ec%9d%98-%eb%a7%88%ec%9d%8c%ec%9d%84-%ec%a0%80%ea%b2%a9/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "고구마팜",
+        "IP 협업",
+        "크리에이터 마케팅",
+        "MapleStory, 메이플스토리",
+        "Nintendo, 닌텐도",
+        "MUSINSA, 무신사",
+        "LEGO, 레고"
+      ]
+    },
+    {
+      "id": "4cbeb0ba",
+      "date": "2026-09-14",
+      "category": "🎯 브랜딩",
+      "title_ko": "낡은 모텔 간판에서 꺼내온 커피 브랜드 — Studio Miles의 'Jack's Coffee Club'",
+      "summary_ko": "Studio Miles가 빈티지 미국 로드트립 감성을 기반으로 만든 아티저널 커피 브랜딩 'Jack's Coffee Club'을 공개했다. 클래식 모텔과 옛 도로의 시각 언어를 다크 커피 브라운, 크림 폼, 크레마 옐로, 세이지 그린의 팔레트로 번역했다. 빠른 커피 캡슐 대신 느린 드립 루틴을 브랜드의 핵심 서사로 삼은 점이 특징이다.",
+      "body_ko": "Jack's Coffee Club은 Studio Miles가 진행한 아티저널 커피 브랜딩 프로젝트로, 빈티지한 미국 로드트립 미학에서 출발했다. 비주얼 아이덴티티는 클래식 모텔과 오래된 개방형 도로의 이미지를 참조하며, 브랜딩의 중심에는 다크 커피 브라운, 크림 폼, 크레마 옐로, 세이지 그린으로 구성된 따뜻한 컬러 세트가 자리한다. 스튜디오는 레트로한 다이아몬드형 키택을 느린 드립 과정을 묘사한 단순한 라인 아트 드로잉과 짝지었다. 로고 세트는 스크립트 워드마크, 원형 배지 스탬프, 깔끔한 머그 아이콘으로 구성되며, 각 그래픽 요소가 개인적이면서도 단단한 노스탤지어 무드를 만든다. 밝은 컬러 스와치는 브랜드 시스템을 실제 재료의 감각 위에 고정시키고, 전체 팔레트는 깊게 로스팅된 원두와 신선한 우유 거품을 반영한다.\n\n실물 굿즈는 이 커피 브랜딩을 일상의 도구로 옮긴다. 인쇄된 스티커 시트에는 커스텀 종이컵과 원두 봉투에 쓰이는 아홉 가지 로고 변형이 담겼고, 스탬프 처리된 세라믹 코스터에는 진한 잉크 질감의 손그림 캐릭터 아트가 들어간다. 따뜻한 톤의 원목 선반, 유리 드리퍼, 황동 시계는 집에서 이루어지는 느린 푸어오버 루틴을 기념하는 장치다. 무지의 브라운 페이퍼 면과 정갈한 산세리프 텍스트가 모든 아이템에 정직한 공예적 가치를 부여한다. 인쇄 실행은 종이의 거친 질감과 명확한 형태에 집중했고, 그 결과 각 라벨은 매일의 커피 의식을 위한 오래 남는 엠블럼처럼 읽힌다.\n\n프로젝트는 커피를 즐기는 사람들에게 속도를 늦추고 매일의 추출 습관을 즐기라고 권한다. 빠른 커피 팟에서 멀어지는 방식을 택함으로써, 브랜딩은 제품과 만드는 사람, 그리고 아침의 루틴 사이에 실질적인 유대를 만든다. 빈티지 모텔 스타일과 현대 스페셜티 커피 문화를 연결한 이 비주얼 시스템은 식음료 아이덴티티 프로젝트를 위한 따뜻한 시각 언어를 제안한다. 전체 브랜드 아이덴티티 케이스 스터디는 Studio Miles의 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_0.gif",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_0.gif",
+        "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_3.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/jacks-coffee-club_4.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/jacks-coffee-club-branding-and-vintage-packaging/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Studio Miles",
+        "스튜디오 마일스",
+        "Jack's Coffee Club",
+        "잭스 커피 클럽",
+        "Behance",
+        "비핸스",
+        "빈티지 브랜딩",
+        "패키지 디자인",
+        "스페셜티 커피"
+      ]
+    },
+    {
+      "id": "610594b2",
+      "date": "2026-09-14",
+      "category": "🎨 디자인",
+      "title_ko": "슬리퍼를 닮은 세리프가 지면을 붙든다 — TypeType Foundry의 TT Nooks Serif 2.000",
+      "summary_ko": "TypeType Foundry가 디스플레이 세리프 서체 TT Nooks Serif를 버전 2.000으로 개편해 선보였다. 날카로운 '슬리퍼형' 비대칭 세리프와 넓은 비례, 높은 획 대비가 특징이며, 7종 웨이트와 가변 폰트, 스타일당 904자 글리프를 지원한다.",
+      "body_ko": "TypeType Foundry가 TT Nooks Serif의 레터폼을 전면 재작업해 버전 2.000을 공개했다. 이 서체는 날카롭고 위엄 있는 자세를 가진 모던 세리프로, 높은 획 대비가 모든 글리프 아웃라인에 뚜렷한 시각적 긴장을 만든다. 넓은 비례는 지면 위에서 강한 존재감을 주고, 납작하고 각진 곡선은 둥근 보울에 기하학적 질서를 더한다. 파운드리는 비대칭 세리프를 작은 슬리퍼처럼 보이도록 다듬었는데, 이 독특한 터미널이 각 글자의 베이스라인을 단단히 고정한다. 날카로운 브래킷은 검은 획의 무게와 열린 흰 카운터 사이의 균형을 잡아, 현대 에디토리얼 세리프들 사이에서 뚜렷이 구분되는 인상을 만든다.\n\n업데이트 버전은 7종의 정체 웨이트와 빠른 가변 폰트를 포함한다. 라이트부터 헤비 블랙 디스플레이 스타일까지 웨이트가 매끄럽게 이어지며, 고른 스템 폭이 다양한 크기에서 패밀리의 균형을 유지한다. 글리프 세트는 스타일당 904자로 확장됐고, 다이아몬드 형태의 문장부호와 대체 글리프를 제공하는 OpenType 기능이 더해졌다. 스타일리스틱 세트는 Q, a, g, y 같은 글자의 대체 형태를 지원한다. 작은 캡션부터 거대한 헤드라인까지 무리 없이 적용되며, 넓은 글자 폭은 밀도 높은 에디토리얼 지면에서도 가독성을 지킨다. 인쇄와 디지털을 아우르는 정교한 스케일 제어가 가능하고, 230개 이상의 언어를 지원한다.\n\n스페시멘은 이 패밀리의 활용 범위를 보여준다. 북 스프레드에서는 고대 석조 조각 사진 주위로 정갈한 본문이 배치되고, 흰 종이 위 깊은 검정 잉크와 선명한 여백이 유물 사진을 조용한 질서로 감싼다. 가죽 카페 메뉴판이나 커피 백 같은 실물 굿즈에서도 레터폼이 중심을 잡으며, 리테일 백에서는 굵은 헤드라인이 명확한 구조를 세운다. 날카로운 세리프는 거친 종이와 평면 스크린 모두에서 깔끔하게 재현된다. 전체 프로젝트는 TypeType Foundry의 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_tt-nooks-serif-typetype-foundry.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_tt-nooks-serif-typetype-foundry.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tt-nooks-serif-typetype-foundry_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tt-nooks-serif-typetype-foundry_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tt-nooks-serif-typetype-foundry_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_tt-nooks-serif-typetype-foundry_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/typography-design-tt-nooks-serif-typetype-foundry/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "TypeType Foundry",
+        "타입타입 파운드리",
+        "TT Nooks Serif",
+        "TT 눅스 세리프",
+        "Behance",
+        "비핸스",
+        "가변폰트",
+        "에디토리얼 타이포그래피"
+      ]
+    },
+    {
+      "id": "fc41fbdd",
+      "date": "2026-09-13",
+      "category": "📣 마케팅",
+      "title_ko": "6월의 타임라인은 밈이 지배한다 — '니가 좋아'부터 '디오 주간'까지, 브랜드가 올라탈 5개의 파도",
+      "summary_ko": "영화 <와일드 씽> 속 오정세의 솔로곡 '니가 좋아' 뮤직비디오가 조회수 251만 회를 돌파하며 립싱크 챌린지로 번졌고, 이디야와 투썸플레이스가 곧바로 제품 홍보에 활용했다. 여기에 리센느 미나미의 '파라파라/오이데', 미야오 '띠로리' 클래식 리믹스, 매년 6월 돌아오는 '디오 주간', 그리고 '천연 위고비'까지 SNS가 새로운 밈으로 달아올랐다. 핵심은 밈을 따라 하는 것이 아니라 브랜드의 언어로 번역하는 방식이다.",
+      "body_ko": "가장 뜨거운 건 6월 개봉 영화 <와일드 씽>에서 출발한 '니가 좋아'다. 배우 오정세가 연기한 최성곤 캐릭터의 솔로곡 뮤직비디오는 공개 후 조회수 251만 회를 넘겼다. 진지한 듯 과하고, 촌스러운 듯 세련된 분위기가 공존하는 데다 멜로디의 중독성이 강해 \"수능 금지곡\"이라는 반응까지 나왔다. 이후 노래에 맞춰 립싱크하는 챌린지가 SNS로 빠르게 퍼졌고 다수의 연예인이 참여했다. 이디야는 수박 주스의 '수박 100%'를, 투썸플레이스는 아박가토의 '달콤하고 쌉쌀한 맛'을 가사에 녹여 홍보했다. 제품명이나 서비스를 노랫말에 끼워 넣기 쉬운 구조라 브랜드 애정을 유쾌하게 드러내기에 적합하다.\n\n리센느 미나미는 '거제야호~'에 이어 또 하나의 밈을 만들었다. 멤버 원이의 유튜브 콘텐츠에서 원이가 물고기를 잡는 동안 뒤에 있던 미나미가 \"난 파라파라나 추고 있어야겠다\"며 춤을 추기 시작한 장면이 화제가 됐다. 파라파라는 일본에서 유행하던 춤으로 무심한 표정과 반복되는 손동작이 특징이다. 이어 물고기를 향해 \"오이데(이리와)~\"를 외치는 모습이 웃음을 자아내며 확산됐다. '오이데~'는 사람은 물론 음식이나 상품까지 무엇이든 불러 모으고 싶을 때 쓰기 좋다. 실제로 한 아르바이트생은 \"손님~ 오이데~\" 문구와 함께 파라파라 춤을 추는 릴스를 올려 관심을 모았다.\n\n리믹스 밈의 흐름도 이어진다. 지난달 모든 노래를 싸이의 '강남스타일'로 바꾸는 콘텐츠가 화제였다면, 이번엔 아이돌 그룹 미야오의 '띠로리'다. 바흐의 곡을 샘플링한 원곡을 두고 한 크리에이터가 \"바흐 대신 베토벤이 나섰다면?\"이라는 자막과 함께 베토벤, 모차르트, 비발디 등 다른 클래식으로 리믹스한 영상을 올렸다. \"비발디 버전은 진짜 원곡 같다\"는 댓글이 이어졌다. 브랜드는 대표 슬로건이나 광고 음악을 다른 장르로 편곡하거나, 소비자가 직접 자신만의 버전을 만드는 참여형 콘텐츠를 기획할 수 있다. '협업 제안' 자체가 콘텐츠가 되기도 하는데, 강남스타일 리믹스를 유행시킨 크리에이터는 실제로 브랜드의 러브콜을 받았다.\n\n매년 6월이면 돌아오는 '디오 주간'은 엑소 디오가 2017년 발매 앨범 속 주간 일기에 남긴 기록에서 비롯됐다. 6월 15일 \"고된 하루\", 16일 \"정신적 스트레스\", 17일 \"긴 하루\" 같은 짧고 담백한 문장이 현실 공감을 부르며 \"디오주간 버티기 챌린지\" 같은 게시물이 연례행사처럼 자리 잡았다. 커피, 에너지음료, 배달앱, 업무 툴처럼 피곤한 일상과 맞닿은 브랜드라면 날짜별 반응 콘텐츠로 녹이기 좋다. 한편 '천연 위고비'는 우창윤 내과 의사가 소개한 계란·올리브오일·후추 조합 식단에서 출발했다. 포만감에 도움이 될 수 있다는 언급과 함께 후기 콘텐츠가 쏟아졌지만, 사람들이 치즈와 빵을 더하며 놀이 콘텐츠로 변했고 결국 치킨·피자·디저트까지 붙는 유행어가 됐다. 중식당 니뽕내뽕은 삶은 계란을 넣은 짬뽕에 이 키워드를 붙여 홍보했다. 다만 실제 건강 효과를 강조하기보다 패러디의 유쾌함에 집중하는 편이 안전하다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/06/260623.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/260623.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/image-43.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/image-44.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/image-45-2048x573.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/image-46.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%eb%94%94%ec%98%a4-%ec%a3%bc%ea%b0%84-%eb%8b%88%ea%b0%80-%ec%a2%8b%ec%95%84-%ec%a7%80%ea%b8%88-%eb%8b%b9%ec%9e%a5-%ec%8d%a8%ec%95%bc%ed%95%98%eb%8a%94-%ec%b5%9c%ec%8b%a0-%ec%9c%a0%ed%96%89-%eb%b0%88/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Ediya, 이디야",
+        "A Twosome Place, 투썸플레이스",
+        "EXO, 엑소",
+        "MEOVV, 미야오",
+        "Wegovy, 위고비",
+        "밈 마케팅",
+        "챌린지 콘텐츠"
+      ]
+    },
+    {
+      "id": "09b7fe34",
+      "date": "2026-09-13",
+      "category": "🎯 브랜딩",
+      "title_ko": "\"완벽 말고 진짜\" — 카이로 디자이너가 만든 커피 브랜드 Chaos의 촉각적 아이덴티티",
+      "summary_ko": "카이로 기반 그래픽 디자이너 Youssef Abdelhamid가 스페셜티 커피 로스터 Chaos의 브랜드 아이덴티티를 완성했다. 통통한 Moresugar 서체와 리놀륨 판화 스타일 아이콘을 결합해, 북유럽식 미니멀리즘에 기울어온 스페셜티 커피 브랜딩의 관성을 정면으로 비껴갔다. \"We don't do perfect. We do real\"라는 매니페스토가 패키지부터 유니폼까지 전 접점을 관통한다.",
+      "body_ko": "스페셜티 커피 브랜딩은 오랫동안 절제된 스칸디나비아식 미니멀리즘이나 실험실처럼 차가운 클리니컬 톤으로 수렴해왔다. 젊은 층을 겨냥한 로스터 Chaos는 기업적 경직성 대신 즉흥성을 기념하겠다는 전제에서 출발했고, Youssef Abdelhamid는 이를 거친 온기와 수공예적 개성에 기반한 시각 체계로 번역했다. 매일의 카페인 의식을 격식 없는 촉각적 대화로 바꾸는 것이 핵심이다.\n\n시스템의 중심에는 Moresugar로 구현한 풍만한 디스플레이 워드마크가 있다. 불룩한 카운터, 과장된 획 대비, 부드럽게 말린 터미널이 상업적 절제의 관습을 거스르며 즉각적인 친근함을 만든다. 여기에 기하학적 모노스페이스 서체 Monoblock이 대위법처럼 붙는다. 로스팅 데이터, 재배 고도, 테이스팅 노트, 매장 메뉴보드 등 정보성 영역을 맡아 표현적인 헤드라인에 실용적 질서를 부여한다.\n\n타이포그래피를 보완하는 것은 모노라인으로 그린 소박한 리놀륨 판화 아이콘들이다. 긴 손잡이의 전통 체즈베, 반으로 쪼개진 원두, 아침 크루아상, 테이크아웃 컵 등 커피를 둘러싼 일상의 장면이 워드마크 옆에 놓인다. 이 거친 질감의 엠블럼들은 두툼한 세라믹 에스프레소 잔, 종이 패키지 실링, 각종 보조물에 적용되며 아이덴티티에 손맛을 더한다.\n\n컬러 팔레트는 깊은 브라운 테라코타와 Moondance 버터밀크 크림의 조합으로, 인공적인 원색 대신 갓 볶은 원두와 가마에서 구운 도자기에서 직접 영감을 끌어왔다. 매트 질감의 커피 파우치에는 세로로 흐르는 타이포그래피와 원두 프로파일이 배치되고, 흰 세라믹 잔에는 더블 에스프레소가 내려지는 아래로 워드마크가 드러난다. 실크스크린 유니폼, 야외용 테이크아웃 컵, 캔버스 토트백까지 — 과감한 타이포그래피 캐릭터 하나가 현대 호스피탈리티 공간을 어떻게 재정의할 수 있는지 보여주는 사례다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_chaos-brand-identity-design-youssef-abdelhamid.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_chaos-brand-identity-design-youssef-abdelhamid.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_chaos-brand-identity-design-youssef-abdelhamid_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_chaos-brand-identity-design-youssef-abdelhamid_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_chaos-brand-identity-design-youssef-abdelhamid_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_chaos-brand-identity-design-youssef-abdelhamid_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-chaos-youssef-abdelhamid/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Youssef Abdelhamid",
+        "유세프 압델하미드",
+        "Chaos",
+        "카오스",
+        "스페셜티커피브랜딩",
+        "타이포그래피 아이덴티티",
+        "리놀컷 일러스트"
+      ]
+    },
+    {
+      "id": "2baf2bcb",
+      "date": "2026-09-13",
+      "category": "🎨 디자인",
+      "title_ko": "스위스 그리드는 아직 죽지 않았다 — Alice Poma와 Studio Feixen이 다시 짠 Kolt 매거진",
+      "summary_ko": "스위스 올텐의 지역 문화 매체 Kolt Magazine이 Alice Poma와 Studio Feixen의 손을 거쳐 새 편집 디자인을 입었다. 정교한 스위스 그리드 위에 과감한 타이포그래피를 얹어, 지역 매체도 충분히 동시대적일 수 있음을 보여준다.",
+      "body_ko": "Kolt Magazine은 스위스 올텐을 기반으로 지역 문화와 예술을 다루는 매체다. Alice Poma는 Studio Feixen과 팀을 이뤄 이 잡지를 다시 설계했고, 깔끔한 그리드와 유희적인 활자를 짝지은 편집 디자인을 만들어냈다. 102호 표지에서는 거대한 블랙 마스트헤드가 상단 재단선을 가로지르고, 그 바로 아래 여섯 개의 정연한 칼럼이 주요 기사를 나열한다. 묵직한 검정 도형과 회색 패널이 부드러운 터쿼이즈 톤을 감싼다.\n\n내지는 지역의 삶을 담은 사진 에세이로 채워진다. 올텐의 곡물 저장고 Silo Hammermühle를 다룬 기사에서는 높다란 콘크리트 사일로가 정갈한 스펙 박스와 나란히 놓이고, 아트 딜러 Brigitte Itel을 다룬 스프레드에서는 인물 사진이 빽빽한 텍스트 칼럼과 마주 본다. 레이아웃은 예리한 스위스 그리드 시스템에 기대며, 칼럼은 스프레드마다 2단·4단·6단을 오간다. 거대한 헤드라인이 압축된 본문 위에 얹히고, 러닝 폴리오가 상단 여백에서 호수 정보를 정확히 짚어준다.\n\n엄격한 그리드에 온기를 더하는 건 작은 그래픽 장치들이다. 해외 리포트 섹션에서는 커스텀 투표 동그라미가 단순한 단어와 짝을 이루고, 빠른 사선이 용어와 달러 기호를 지운다. 넉넉한 여백이 밀도 높은 칼럼을 감싸 긴 인터뷰 사이에 호흡할 여지를 만든다.\n\n물성 선택도 이 디자인을 인쇄물로 단단히 붙잡는다. 밝은 비코팅 용지를 쓰고, 짙은 블랙 잉크가 풀블리드 사진에 깊은 대비를 부여한다. 작은 캡션과 칼럼 괘선은 모든 페이지에서 선명함을 유지하며, 가벼운 판형과 중철 제본 덕분에 지면은 평평하게 펼쳐진다. Alice Poma와 Studio Feixen은 지역 인쇄물이 어떻게 신선함을 유지할 수 있는지, 스위스적 정교함과 활달한 그래픽 위트를 나란히 놓아 증명한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_kolt-magazine-alice-poma.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_kolt-magazine-alice-poma.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kolt-magazine-alice-poma_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kolt-magazine-alice-poma_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kolt-magazine-alice-poma_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_kolt-magazine-alice-poma_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/editorial-design-kolt-magazine-alice-poma-studio-feixen/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Kolt Magazine, 콜트 매거진",
+        "Alice Poma, 알리스 포마",
+        "Studio Feixen, 스튜디오 파이젠",
+        "에디토리얼 디자인",
+        "스위스 그리드",
+        "타이포그래피",
+        "인쇄 물성"
+      ]
+    },
+    {
+      "id": "7b73569c",
+      "date": "2026-09-12",
+      "category": "📣 마케팅",
+      "title_ko": "이제 굿즈는 '꾸미는 재료'다 — 히퍼·태닝스티커·메지루시, 품절 대란 아이템 10선",
+      "summary_ko": "유명 브랜드 제품이 아닌데도 SNS에서 품절 대란을 일으키는 비공식 굿즈들이 트렌드 중심에 섰다. 워리스톤, 태닝 스티커, 트러블 패치, 생일 스트랩, 단추, 메지루시, 미니북 키링, 홀더, 히퍼까지 공통점은 '직접 꾸미고 고르는' 커스텀 요소다. 고구마팜은 일상의 작은 부분까지 취향으로 채우려는 소비자가 굿즈 트렌드를 직접 만들고 있다고 짚었다.",
+      "body_ko": "지금 SNS에서 뜨는 굿즈의 첫 번째 축은 '감각'이다. 오목한 홈을 엄지로 문지르며 마음을 가라앉히는 수공예품 워리스톤은 영롱한 외형과 매끄러운 촉감으로 시각·촉각을 동시에 만족시키는 힐링템으로 주목받는다. 최근에는 조약돌 형태를 넘어 좋아하는 캐릭터나 반려동물 모양으로 제작되며 애착 아이템이 됐다. 제작 방식이 단순해 커스텀 굿즈 기획에 활용하기 좋다는 점도 강점이다. 해외 틱톡에서 바캉스 필수템이 된 태닝 스티커는 하트·별·레터링 모양을 피부에 붙인 뒤 그 부분만 타지 않게 해 자국을 남기는 아이템으로, 여름 바캉스·페스티벌 시즌 오프라인 이벤트 굿즈로 제안된다.\n\n두 번째 축은 '꾸미기'다. Y2K 트렌드와 함께 유선 이어폰이 패션 아이템으로 부상하면서 '이꾸(이어폰 꾸미기)'가 확산됐다. 초기의 비즈·리본 엮기에서 나아가 이어폰 헤드에 스티커와 비즈를 붙여 피어싱처럼 연출하거나, 줄에 끼웠다 뺄 수 있는 참·미니 펜던트 같은 전용 액세서리까지 등장했다. 상처를 가리던 의료용품도 뒤집혔다. 별·하트·나비 모양 트러블 패치를 셀카 인증템으로 안착시킨 스타페이스는 커스텀 팩을 꾸준히 발매 중이고, 미국 Z세대가 주목하는 Benjie는 밴드에 감각적인 컬러와 그래픽을 더했다. '뾰.꾸(뾰루지 꾸미기)'라는 말이 나올 정도다. 단추도 옷의 재료를 넘어 디자인 요소가 됐다. 동대문 부자재 상가나 빈티지 마켓에서 구해 헤어핀·키링·반지·폰케이스를 꾸미거나 캘린더를 채우는 콘텐츠까지 나왔고, 액세서리 브랜드 뉴뉴는 단추 핸드메이드 기획전을 열었다.\n\n세 번째 축은 '의미와 실용'이다. 1월 1일부터 12월 31일까지의 날짜 파츠에 미피, 산리오 등 캐릭터를 결합한 생일 스트랩은 엑스에서 일본 여행 굿즈로 바이럴됐다. 내 생일이나 기념일을 고를 수 있다는 점이 핵심이라 부담 없는 선물로도 통한다. 작은 피규어 펜던트에 신축성 링이 달린 메지루시는 우산 손잡이·물병·텀블러에 끼워 표식을 남기는 용도로 일본에서 일상 소품으로 자리 잡았다. 미니북 키링은 실제 책 디테일을 손바닥보다 작게 축소한 형태로, 최강록의 <식덕후>는 촬영지 지도와 직접 찍은 필름 사진을 담아 출시했고 디자인 스튜디오 오이뮤는 카카오페이와 협업해 기초 금융 지식을 담았다. 브랜드 스토리를 넉넉히 담으면서 고객이 매일 가방에 달고 다닌다는 점이 매력이다.\n\n마지막은 '휴대 방식 자체가 취향'인 아이템들이다. 유선 이어폰 홀더와 립밤 홀더는 가방 속을 뒤적이는 번거로움을 덜면서 룩의 포인트가 된다. 립밤 홀더는 커다란 리본이나 날개 모양, 립밤 전체를 감싸는 유니크한 형태가 유행 중이다. 기기 모서리에 붙어 빼꼼 고개를 내미는 피규어 액세서리 '히퍼'는 가챠로 출시되며 산리오·몬치치·이라스토야 등 히퍼깡 콘텐츠를 만들어냈고, 편의점 CU가 일러스트레이터 핑루 작가의 '감자숭이' IP로 선보인 히퍼 굿즈는 품절 대란을 일으켰다. 이 모든 흐름의 공통분모는 직접 꾸미고 조합하는 커스텀이며, 평범한 일상용품이 나를 표현하는 수단으로 진화하고 있다는 점이다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/06/260617-01.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/260617-01.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_20_6.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_24_3.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_52_2.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_53_2.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%ed%9e%88%ed%8d%bc%c2%b7%ed%83%9c%eb%8b%9d%ec%8a%a4%ed%8b%b0%ec%bb%a4%c2%b7%eb%a9%94%ec%a7%80%eb%a3%a8%ec%8b%9c-%ea%b5%bf%ec%a6%88-%ea%b8%b0%ed%9a%8d-%ec%a4%91%ec%9d%b4%eb%9d%bc%eb%a9%b4-%eb%b4%90/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "히퍼, Hipper",
+        "메지루시, Mejirushi",
+        "Starface, 스타페이스",
+        "OIMU, 오이뮤",
+        "CU, 씨유",
+        "굿즈기획",
+        "커스텀굿즈"
+      ]
+    },
+    {
+      "id": "3a5b02c4",
+      "date": "2026-09-12",
+      "category": "🎯 브랜딩",
+      "title_ko": "물류 브랜딩에서 '파란색'을 지웠다 — ZEKOSHIP이 택한 옵시디언 블랙 × 일렉트릭 시안",
+      "summary_ko": "디자이너 Rokeya Akter가 국제 화물 운송·물류 관리 기업 ZEKOSHIP의 브랜드 아이덴티티를 공개했다. 'Take Control. Manage Shipping'이라는 핵심 에토스 아래, Z 이니셜과 사선 이동 궤적을 결합한 기하학적 모노그램과 관습적인 물류 블루를 벗어난 고대비 컬러 체계를 구축했다.",
+      "body_ko": "글로벌 물류 산업은 즉각적인 시각적 권위와 운영의 명료함을 동시에 요구한다. 국제 공급망 전반에서 화물 운송 주선과 운송 관리 서비스를 제공하는 ZEKOSHIP을 위해, 디자이너 Rokeya Akter는 속도·구조·체계적 통제를 기반으로 한 통합 브랜드 아이덴티티를 개발했다. 'Take Control. Manage Shipping'이라는 핵심 에토스를 중심에 둔 이 비주얼 프레임워크는, 복잡한 복합운송 화물 조율 과정을 창고 현장부터 기업용 선적 명세서까지 아우르는 기민한 기하학적 디자인 언어로 번역한다.\n\n아이덴티티의 중심에는 이니셜 Z와 역동적인 사선 이동 궤적을 결합한 기하학적 모노그램이 자리한다. 이 마크는 기업의 권위를 드러내는 시그니파이어인 동시에 확장 가능한 그래픽 장치로 기능하며, 레이아웃 전반에서 크롭되고 확대·축소되면서 방향성을 지닌 프레이밍 앵글을 만들어낸다. 타이포그래피는 Indian Type Foundry가 디자인한 모더니스트 네오 그로테스크 서체 Satoshi를 축으로 구성됐다. Regular, Medium, Bold 세 가지 웨이트로 운용되는 Satoshi는 정밀한 기계적 비례와 넉넉한 개구부를 통해 패키지 라벨, 건축 사이니지, 디지털 트래킹 인터페이스에 이르기까지 일관된 가독성을 유지한다.\n\n이 아이덴티티가 차별화되는 지점은 소재 간의 충돌과 엄격한 컬러 규율에 있다. 물류 업계의 관습적인 블루에서 벗어나, 컬러 시스템은 딥 옵시디언 블랙(Pantone 419 C)을 고시인성 일렉트릭 시안(Pantone 2995 C), 코랄(Pantone 2026 C), 딥 올리브(Pantone 4485 C)와 짝지었다. 물리적 터치포인트는 이러한 물성의 긴장을 부각한다. 두꺼운 골판지 선적 카톤에는 실크스크린 마크와 바코드 텔레메트리 라벨이 적용되고, 실제 규모의 복합운송용 철제 컨테이너에는 스텐실 기법의 화물 사양 표기가 들어간다. 텍스처가 살아 있는 코튼 명함은 거친 콘크리트와 화산암 위에 놓인다.\n\n여기에 폴리프로필렌 직조 배송 토트백, 고시인성 현장 안전 조끼, 커스텀 프레젠테이션 박스가 더해지면서, 아이덴티티는 글로벌 공급망의 모든 단계에 걸쳐 일관된 인더스트리얼 존재감을 확립한다. 프로젝트 전체는 Rokeya Akter의 Behance에서 확인할 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_zekoship-brand-identity-design-rokeya-akter.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_zekoship-brand-identity-design-rokeya-akter.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_zekoship-brand-identity-design-rokeya-akter_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_zekoship-brand-identity-design-rokeya-akter_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_zekoship-brand-identity-design-rokeya-akter_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_zekoship-brand-identity-design-rokeya-akter_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-zekoship-rokeya-akter/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "ZEKOSHIP",
+        "제코십",
+        "Rokeya Akter",
+        "로케야 악터",
+        "Satoshi",
+        "사토시 서체",
+        "브랜드 아이덴티티",
+        "물류 브랜딩",
+        "컬러 시스템"
+      ]
+    },
+    {
+      "id": "de28d171",
+      "date": "2026-09-12",
+      "category": "🎨 디자인",
+      "title_ko": "로고 밑 끊어진 선 하나가 시스템이 됐다 — Brand Brothers가 만든 툴루즈 음악홀 '르 메트로눔'의 그래픽 문법",
+      "summary_ko": "프랑스 툴루즈의 현대음악 거점 Le Metronum이 2022년 아이덴티티를 리뉴얼하며 Hey Studio가 레터링을, Brand Brothers가 전체 그래픽 시스템을 맡았다. 로고타입 아래 놓인 '끊어진 선'을 핵심 문법으로 추출해, 음의 주파수와 공간의 음향을 닮은 생성형 패턴 엔진으로 확장했다. 시즌당 100회가 넘는 이질적인 공연을 하나의 톤으로 묶어내는 유연한 시스템이 핵심이다.",
+      "body_ko": "Le Metronum은 600석 규모의 공연장과 리허설 공간, 녹음실을 갖춘 툴루즈 현대음악의 중심 거점이다. 2022년 이 공연장은 협업 방식으로 아이덴티티를 새로 정비했다. Hey Studio가 주요 레터링 마크를 다시 그렸고, Brand Brothers가 그 위에 얹히는 전체 그래픽 시스템을 개발했다. 스튜디오는 로고타입 아래에 놓인 '끊어진 선(discontinuous line)'에서 시각적 문법의 핵심을 추출했고, 이 선은 음의 주파수와 건축적 음향을 반영하는 생성형 패턴 엔진으로 확장됐다. 여기에 코발트 블루, 레몬 옐로, 딥 레드의 선명한 색면이 결합된다. 서체는 Benoit Bodhuin의 둥근 BallPill과 Formagari의 응축된 Malamocco 두 가지가 축을 잡는다.\n\n포스터는 이 레이아웃 그리드의 구조적 유연성을 가장 잘 보여주는 지점이다. Brand Brothers는 세로 포맷을 모듈형 타이포그래피 밴드로 분할해, 아티스트 라인업과 공연 날짜가 손쉽게 자리를 바꿀 수 있도록 했다. 고대비 기하 도형이 거대한 디스플레이 헤드라인과 부딪히며 거리 벽면에서 강한 시각적 긴장을 만든다. BallPill과 Malamocco가 번갈아 만드는 리듬은 복잡한 페스티벌 라인업도 붐비는 공간 건너편에서 읽히게 한다. 하단 가장자리에는 엄격한 마진 구조가 티켓 정보, 판매처 배지, 파트너 마크 같은 밀도 높은 정보를 정리한다. 실험적 재즈, 헤비 일렉트로닉, 인디 록까지 서로 다른 장르를 담아내면서도 공연장 고유의 성격은 희석되지 않는다.\n\n시스템은 공연장 내부의 물리적 접점으로도 이어진다. 거친 실크스크린 잉크는 시즌 스케줄과 접이식 프로그램 브로슈어에 날것의 질감을 더한다. 끊어진 선 모티프는 홀 복도, 백스테이지 출입문, 멤버 액세스 패스에서 방문객의 동선을 안내한다. 대형 무대 프로젝션은 이 모듈형 기하학을 공연 중 퍼포머 뒤쪽의 리드미컬한 모션으로 번역한다. 정돈된 흑백 타이포그래피는 화려한 포스터 벽과 균형을 이루며 공연장을 실제 프로덕션의 현실에 붙들어 둔다. 문화 브랜딩이 표현력을 잃지 않으면서도 기능적 내비게이션을 유지할 수 있다는 사실을, 티켓과 손목밴드, 디지털 스케줄에 이르는 모든 접점이 증명한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_le-metronum-visual-system-brand-brothers.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_le-metronum-visual-system-brand-brothers.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_le-metronum-visual-system-brand-brothers_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_le-metronum-visual-system-brand-brothers_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_le-metronum-visual-system-brand-brothers_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_le-metronum-visual-system-brand-brothers_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/branding-design-le-metronum-visual-system-brand-brothers/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Brand Brothers, 브랜드 브라더스",
+        "Le Metronum, 르 메트로눔",
+        "Hey Studio, 헤이 스튜디오",
+        "Toulouse, 툴루즈",
+        "비주얼 아이덴티티",
+        "모듈형 그리드",
+        "공연장 브랜딩"
+      ]
+    },
+    {
+      "id": "3eb8809b",
+      "date": "2026-09-11",
+      "category": "📣 마케팅",
+      "title_ko": "\"나 ○○년생 ○○○인데~\" 한 줄이면 끝난다 — 2026년 6월, 브랜드가 바로 써먹는 밈 5선",
+      "summary_ko": "고구마팜이 최근 SNS에서 확산 중인 밈 5가지를 브랜드 활용 팁과 함께 정리했다. 자기소개형 춤 밈, 밀레니얼 vs Gen Z 표현 비교, 직업을 범죄 조직처럼 설명하기, 명소 악플, 스윙스의 \"피곤하고 싶지 않다\"가 핵심이다. 공통점은 길게 설명할 메시지를 한 문장으로 압축해 전달한다는 점이다.",
+      "body_ko": "\"나 ○○년생 ○○○인데~\"는 출생 연도와 직업, 상황을 말한 뒤 음악에 맞춰 춤을 추는 형식의 밈이다. \"나 72년생 앤드류형인데~\" 뒤에 \"우리 학원은 운동회도 해~\" 같은 예상 밖의 말이나 광고 문구가 이어지고, 고개를 숙인 채 좌우로 움직이는 춤으로 마무리된다. \"나 카페 알바생인데~ 팔 아프니까 신메뉴 먹지 마~\"처럼 자신의 상황에 맞춰 자유롭게 변형되며 학생, 자영업자, 선거 후보까지 확산됐다. 실제 사장이나 직원이 직접 등장하는 형식이라 신메뉴·이벤트 소식을 가볍게 전하기에 적합하다.\n\n해외 SNS에서는 같은 제품을 '밀레니얼 방식'과 'Gen Z 방식'으로 비교하는 콘텐츠가 유행 중이다. 밀레니얼은 기능과 설명 중심, Gen Z는 짧은 반응과 솔직한 말투, 이모지 중심이 특징이다. 널핏은 간호사 신발을 밀레니얼 버전에서 \"발을 안전하게 지켜주고 통증을 줄여주는 기능성 신발\"로 설명한 반면, 젠지 버전은 \"귀엽다..💙\", \"폭신폭신☁️\"로 처리했다. 배터리 브랜드 더블에이 역시 젠지 버전을 \"야르\"라는 신조어 하나로 축약했다. 기능과 비주얼을 동시에 보여줄 수 있어 브랜드 활용도가 높다.\n\n직업을 범죄 조직처럼 과장해 설명하는 밈도 확산 중이다. 승무원을 \"백여 명을 금속관에 가둔 뒤 외부 통신을 차단하고 수만 피트 상공에서 감시하는 사람\", 교사를 \"미성년자를 한 공간에 집단 수용한 뒤 정해진 시간마다 이동, 식사, 수면을 강제 통제\"로 표현하는 식이다. 익숙한 직업이 범죄 영화 소개처럼 느껴지는 과장이 웃음 포인트지만, 실제 범죄나 사회적 이슈와 연결되면 부담스러울 수 있어 가벼운 선에서 쓰는 것이 중요하다.\n\n'명소 악플' 밈은 해외 유명 건축물 리뷰가 번역되며 시작됐다. 피라미드에는 \"다 무너져 가고 모래 너무 많음\", 에펠탑에는 \"애매한 높이의 철골 덩어리\"라는 리뷰가 달렸고, RM이 해당 이미지를 SNS에 공유하며 더 화제가 됐다. 배경음악 'Sign of the Times'가 깔리며 황당한 리뷰와 감성적 음악의 조합이 또 다른 웃음 포인트가 된다. 마지막은 빅나티에게 디스당한 스윙스의 해명 라이브에서 나온 \"아, 이런 걸로 피곤하고 싶지 않다\"다. 뷰티 브랜드라면 \"화장 뜨는 걸로\", 식품 브랜드라면 \"오늘 메뉴 고민으로\" 식으로 소비자의 피로감을 대신 말해줄 수 있다. 다만 밈은 유행 속도가 빠른 만큼 흐름에 맞춘 타이밍이 관건이다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/06/260611.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/260611.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_42.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_53_1.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_17.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_43.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%eb%82%98-%ea%b3%a0%ea%b5%ac%eb%a7%88%ed%8c%9c%ec%9d%b8%eb%8d%b0-%ec%9a%94%ec%a6%98-%eb%9c%a8%eb%8a%94-%eb%b0%88-%ea%b0%80%ec%a0%b8%ec%99%94%eb%8b%a4-2026%eb%85%84-6%ec%9b%94-%ec%b5%9c%ec%8b%a0/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "고구마팜, Gogumafarm",
+        "스윙스, Swings",
+        "RM, 알엠",
+        "널핏, Nurfit",
+        "더블에이, Double A",
+        "밈마케팅",
+        "젠지, Gen Z"
+      ]
+    },
+    {
+      "id": "4fa12d79",
+      "date": "2026-09-11",
+      "category": "🎯 브랜딩",
+      "title_ko": "과자 상자에 다리를 달았다 — Backbone Branding이 만든 '작은 찻상' TeaGether",
+      "summary_ko": "예레반 스튜디오 Backbone Branding이 전 세계 티타임 의례를 주제로 한 과자 패키지 TeaGether를 선보였다. 상자 아래에 가느다란 나무 다리를 달아 연회 테이블을 흉내 내고, 뚜껑은 장식 단을 두른 식탁보처럼 덮인다. 지역별 에디션마다 다른 찻주전자·숟가락·직물 문양을 그려 넣어 차 문화의 다양성을 담았다.",
+      "body_ko": "Backbone Branding은 대륙마다 과자 문화는 다르지만 따뜻한 차를 앞에 두고 모여 앉는 습관은 어디서나 같다는 점에서 출발해 TeaGether를 개발했다. 스튜디오는 이 사회적 의례를 조각적인 패키지로 번역했고, 결과물은 미니어처 식탁 가구에 가깝다. 과자 상자는 가느다란 나무 다리 위에 올라앉아 손님을 맞을 준비를 마친 연회 테이블처럼 보이고, 바깥 뚜껑은 장식적인 단 처리가 들어간 식탁보처럼 용기 위로 접혀 덮인다. 크리에이티브 디렉터 Stepan Azaryan과 일러스트레이터 Mariam Stepanyan은 지역 에디션마다 실제 문화적 표식을 그려 넣어, 서로 다른 찻주전자와 조각 숟가락, 지역 직물로 각 차 의식을 구분했다.\n\n상자 내부는 시식의 위계를 만드는 모듈형 칸으로 짜였다. 내부 디바이더는 깔끔한 분배와 유도된 시식 경험을 지원하도록 정리됐고, 과자 하나하나는 기하학적 민속 문양이 인쇄된 전용 종이 슬리브 안에 놓인다. 타이포그래피는 경쾌한 커스텀 스크립트 마크와 절제된 산세리프 보조 서체를 짝지어 읽기 쉽게 유지했다. 베이스 패널에는 정연한 베이스라인 그리드 위로 원재료 목록, 테이스팅 노트, 지역 출처 정보가 정돈돼 있으며, 넉넉한 여백이 섬세한 선 일러스트레이션을 돋보이게 한다.\n\n물성은 이 개념을 오래 남는 소장품으로 바꾼다. 코팅하지 않은 내추럴 판지가 구조의 뼈대를 이루어 손끝에 흙빛 질감을 전하고, 은은한 블라인드 엠보싱이 식탁보의 주름과 가장자리 레이스를 따라가며 매대 위 빛을 잡아낸다. 부드러운 파스텔 색조는 섬세한 잉크 아트워크를 압도하지 않으면서 지역별 과자 종류를 구분한다. 선반을 깎아 만든 나무 다리와 접힌 종이 구조의 결합은 패키지 디자인이 평평한 사각형의 경계를 어떻게 넘어설 수 있는지 보여주며, 일상적인 군것질을 함께 나누는 의례로 바꿔 놓는다. 애니메이터 Sahak Zarbabyan과 사진가 Suren Manvelyan이 이 따뜻한 서사를 모션과 스틸 이미지로 기록했다. 전체 프로젝트는 Behance에서 볼 수 있다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_teagether-backbone-branding.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_teagether-backbone-branding.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_teagether-backbone-branding_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_teagether-backbone-branding_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_teagether-backbone-branding_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_teagether-backbone-branding_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/packaging-design-teagether-backbone-branding/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Backbone Branding, 백본 브랜딩",
+        "TeaGether, 티게더",
+        "Stepan Azaryan, 스테판 아자리안",
+        "Mariam Stepanyan, 마리암 스테파니안",
+        "패키지 디자인",
+        "티타임 의례",
+        "구조 패키징"
+      ]
+    },
+    {
+      "id": "f0f8c438",
+      "date": "2026-09-11",
+      "category": "🎨 디자인",
+      "title_ko": "세리프와 산세리프가 한 골격을 공유한다 — Mash Creative의 2년, Lock 슈퍼패밀리",
+      "summary_ko": "Mark Bloom과 Diana Ovezea가 CoType Foundry를 위해 2년간 개발한 서체 시스템 'Lock'이 공개됐다. 날카로운 쐐기 세리프의 Lock Serif와 장식을 걷어낸 Lock Sans가 동일한 캘리그래픽 골격을 공유하며, 스텐실 버전까지 더해 4개 서브패밀리·6종 웨이트로 구성된다.",
+      "body_ko": "Mash Creative가 CoType Foundry와 함께 선보인 Lock 슈퍼패밀리는 서로 반대편에 선 두 개의 시각적 태도를 하나의 구조로 묶는다. Lock Serif는 날카로운 터미널 브래킷과 존재감 있는 쐐기형 세리프를 쓰고, Lock Sans는 장식을 모두 덜어내 무뚝뚝하고 절제된 글자꼴을 남긴다. 두 서브패밀리는 캘리그래픽 펜 획에 뿌리를 둔 동일한 구조적 골격을 공유한다. 스페시멘 그래픽은 선명한 버밀리온 세리프를 로열블루 산세리프 실루엣 위에 겹쳐 놓아, 두 스타일 간 시각적 무게와 캡 하이트가 정확히 맞물린다는 사실을 보여준다. 이 공유된 비례 덕분에 아트 디렉터는 고전적인 디스플레이 라인과 현대적인 본문 텍스트를 오가면서도 레이아웃의 일관성을 잃지 않는다.\n\n컬렉션은 ExtraLight부터 Black까지 6종 웨이트, 4개의 주요 서브패밀리로 구성된다. 표준 세리프·산세리프 모델 외에 양쪽 계열 모두 전용 스텐실 버전을 갖췄는데, 기계적으로 획을 잘라내는 대신 캘리그래픽 도구의 자연스러운 리듬을 따라가는 각진 브리지를 파냈다. 100부터 900까지 단일 가변 축으로 보간되며, 12개의 스타일 세트가 기능적 유연성을 더한다. 'a'와 'g'의 2층·1층 형태 전환, 대체 'Q'와 'R' 글리프, 원형 숫자 인덱스와 표준 합자를 상황에 맞게 쓸 수 있다.\n\n인쇄물로서의 시스템은 Astrid Stavro가 디자인하고 Future Format이 제작한 전용 스페시멘 북이 증명한다. 이 출판물은 타이포그래피를 수동적인 카탈로그가 아니라 능동적인 편집 주인공으로 다룬다. 빽빽한 생물 분류 체계와 식물학 도표가 거대한 디스플레이 스페시멘 스프레드와 나란히 놓이고, 표지 보드의 블라인드 디보싱은 책을 펼치기 전부터 촉각적 마찰을 만든다. 매끄러운 비코팅지에 스팟 레드와 딥 블루 잉크로 인쇄된 지면은 6종 웨이트 전반의 잉크 홀드아웃과 가독성을 드러낸다. 조밀한 과학 데이터와 표현적인 편집 헤드라인을 같은 권위로 감당할 수 있다는 것이 이 시스템의 결론이다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_lock-superfamily-mash-creative.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_lock-superfamily-mash-creative.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_lock-superfamily-mash-creative_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_lock-superfamily-mash-creative_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_lock-superfamily-mash-creative_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_lock-superfamily-mash-creative_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/typography-design-lock-superfamily-mash-creative/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Mash Creative, 매시 크리에이티브",
+        "CoType Foundry, 코타입 파운드리",
+        "Mark Bloom, 마크 블룸",
+        "Diana Ovezea, 디아나 오베제아",
+        "Astrid Stavro, 아스트리드 스타브로",
+        "가변폰트",
+        "슈퍼패밀리"
+      ]
+    },
+    {
+      "id": "81feff9e",
+      "date": "2026-09-10",
+      "category": "📣 마케팅",
+      "title_ko": "불안을 파우치에 담아 다니는 세대 — Z세대 멘탈 케어, 루틴·아이템·공간·마인드셋 4갈래",
+      "summary_ko": "Business Wire 글로벌 조사에서 Z세대 83%가 번아웃을 경험했다고 답했고, 국내 AI 채용 플랫폼 캐치 조사에서는 Z세대 취준생 62%가 높은 초봉보다 야근·스트레스가 적은 직장을 택했다. 이 흐름 속에서 멘탈 케어는 Z세대에게 일상을 지키는 자기 관리 영역이 됐다. 불안 가방, 다크 샤워, 말랑이, 워리스톤, 쑥뜸방, 템플스테이, 끌어당김의 법칙까지 실천 방식이 루틴·아이템·공간·마인드셋 네 갈래로 확산 중이다.",
+      "body_ko": "루틴형과 아이템형은 '즉시 실행 가능한 안정'에 초점이 있다. 미국 Z세대 사이에서 주목받은 '불안 가방(Anxiety Pouch)'은 아이스팩, 젤리, 향수, 이어폰, 말랑이, 스트레스 볼 등 자신에게 안정감을 주는 물건을 작은 파우치에 모아 다니는 심신 안정 키트다. 불안을 막연한 감정으로 두지 않고 구체적인 도구와 행동으로 관리하려는 태도가 핵심이며, 파우치를 구성하고 꾸미는 과정 자체가 나만의 루틴이 된다. 조명을 끄고 씻으며 시각 자극을 줄이는 '다크 샤워'도 비용이나 준비 없이 익숙한 일상 행동에 작은 변화를 주는 방식으로 확산됐고, SNS에는 '다크 샤워 일주일 후기', '잠들기 전 루틴' 같은 브이로그가 꾸준히 올라온다.\n\n촉각 아이템은 놀이 문화로까지 번졌다. 말랑이와 스퀴시는 눌리는 촉감과 천천히 돌아오는 모습이 주는 안정감 덕에 공부·업무 중 긴장 완화 도구로 쓰이고, '동묘 말랑이 투어'나 리뷰 콘텐츠가 활발하다. CU는 포켓몬 메타몽 말랑 스퀴시 굿즈를, 메가MGC커피는 호빵맨 협업 스퀴시를 선보이며 관심을 끌었다. 클리커와 키캡은 SNL 코리아 '안주미' 캐릭터로 익숙해진 아이템으로, 타건감이라는 촉각적 만족에 커스터마이징의 재미를 더한다. 토니모리 × 포켓몬, 더벤티 × 슈퍼 마리오 키캡 굿즈가 대표적이다. 손가락으로 문지르는 '워리스톤(Worry Stone)'은 클레이나 레진으로 직접 만들어 키링으로 달고 다니는 DIY 굿즈로, 만드는 과정 자체가 힐링 콘텐츠로 소비된다.\n\n공간형은 전통적 휴식 공간의 재해석이다. 중장년층의 공간이라는 이미지가 강했던 쑥뜸방과 사우나는 부기 관리, 컨디션 회복, 디톡스를 기대하는 가성비 웰니스 루틴으로 재조명됐고 '요즘 웰니스 코스', '쑥뜸방 리뷰' 같은 콘텐츠가 공유된다. 오븐에빠진닭은 찜질방 콘셉트의 '핑계정산소' 팝업으로 화제를 모았다. 템플스테이 역시 명상·차담·예불을 통해 디지털 디톡스와 마음 챙김을 동시에 실천하는 경험으로 인식되며, '아무것도 하지 않아도 괜찮다'는 메시지가 성과 중심 일상에 지친 Z세대에게 닿았다. 불교박람회의 위트 있는 굿즈가 오픈런을 부른 것도 같은 맥락이다.\n\n마인드셋형은 정서적 확신에 기댄다. '끌어당김의 법칙'은 목표가 이미 이루어진 것처럼 시각화하고 반복해 되새기는 방식으로, 엑스에서 관련 정리 글이 6천 회 이상 공유됐다. 과학적 근거는 부족하다는 지적도 있지만 불확실한 현실에서 심리적 위안과 동기부여를 준다는 점이 핵심이다. 프레젠띵의 휴대용 거북이 부적 '금부기'가 품절 대란을 일으키고 '액막이 명태'가 꾸준히 굿즈로 등장하는 것도 같은 흐름이다. 사주 또한 미래 예측보다 자신의 성향과 현재 상태를 돌아보는 셀프 분석 도구로, 모바일 앱과 AI 상담을 통해 가볍게 소비된다. 브랜드는 제품 하나를 강조하기보다 파우치 세트, 수면·집중 키트, 체험형 커스터마이징, 공간 경험처럼 '감정 관리 경험'을 조합해 제안할 여지가 크다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/06/고구마팜Z세대-멘탈케어법_260604.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/고구마팜Z세대-멘탈케어법_260604.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_20_2.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_30_2.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/image-17.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/06/Group_22_2.png"
+      ],
+      "source": "고구마팜 트렌드/밈",
+      "url": "https://gogumafarm.kr/%eb%8b%a4%ed%81%ac-%ec%83%a4%ec%9b%8c%c2%b7%ec%9b%8c%eb%a6%ac%ec%8a%a4%ed%86%a4%c2%b7%eb%b6%88%ec%95%88-%ea%b0%80%eb%b0%a9-z%ec%84%b8%eb%8c%80-%eb%a9%98%ed%83%88-%ec%bc%80%ec%96%b4-%ed%8a%b8/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "Gen Z, Z세대",
+        "Anxiety Pouch, 불안 가방",
+        "Worry Stone, 워리스톤",
+        "CU, 씨유",
+        "Temple Stay, 템플스테이",
+        "멘탈케어",
+        "촉각굿즈"
+      ]
+    },
+    {
+      "id": "1a44b72e",
+      "date": "2026-09-10",
+      "category": "🎯 브랜딩",
+      "title_ko": "카페 아이덴티티의 승부처는 로고 하나 — Lune Café & Bakery가 코발트블루와 커스텀 레터링으로 만든 온도",
+      "summary_ko": "그래픽 디자이너 Ashida Hydrose가 Lune Café & Bakery의 브랜드 아이덴티티를 커스텀 워드마크 중심으로 설계했다. 원두 잔이나 밀 이삭 같은 관습적 카페 모티프를 배제하고, 정제된 코발트블루와 따뜻한 뉴트럴 크림을 대비시켜 현대적 인상과 음식의 온기를 동시에 잡았다. 커스텀 타이포그래피 하나가 매장 입구부터 패키지, 디지털 메뉴까지 전체 다이닝 분위기를 결정하는 사례다.",
+      "body_ko": "Lune Café & Bakery의 아이덴티티는 브랜드의 시각적 존재감을 지탱하는 맞춤 워드마크에서 출발한다. 커스텀 레터링은 부드럽고 둥근 곡선과 확신에 찬 기하학적 비례를 결합했고, 개성 있는 터미널 처리와 미묘한 스트로크 테이퍼가 글자꼴을 한층 유연하게 만든다. 그 결과 현대적 호스피탈리티에 맞는 친근한 인상이 완성됐다. Hydrose는 통상적인 카페 모티프에 의존하지 않고, 정제된 코발트블루를 따뜻한 뉴트럴 크림 배경에 얹는 방식으로 집중된 그래픽 시스템을 구축했다. 이 색 조합은 선명한 동시대적 감각과 음식의 온기 사이에서 균형을 잡으며, 매장 입구부터 모든 인쇄물까지 초대하는 듯한 톤을 이어간다.\n\n아이덴티티는 촉각적인 패키지 세트로 확장된다. 테이크아웃 커피컵, 페이스트리 박스, 크라프트 종이백, 델리 랩이 여기에 포함되며 각 포맷은 절제된 그리드 레이아웃을 따른다. 솔리드 컬러 블록 위에 워드마크를 중앙 배치하고, 보조 타이포그래피 요소가 시즌 로스트와 원산지 정보, 갓 구운 페이스트리를 위한 명확한 위계를 만든다. 강한 대비와 넉넉한 여백의 의도적인 조율 덕분에, 제품은 도심 거리를 지나갈 때든 베이커리 카운터 뒤에 진열됐을 때든 즉시 알아볼 수 있다. 미니멀한 라벨과 커스텀 테이프 스트립은 매일의 카페 운영에 필요한 유연성까지 확보한다.\n\n인쇄 패키지를 넘어 이 비주얼 아이덴티티는 디지털 메뉴, 모바일 주문 화면, 매장 건축 사이니지로도 무리 없이 옮겨간다. 비코팅 용지, 재생 판지 섬유, 디보싱 가공은 물리적 접점에 정직하고 촉각적인 성격을 부여한다. Adobe Illustrator와 Photoshop으로 정밀하게 개발된 이 시스템은 커스텀 타이포그래피가 다이닝 공간의 분위기 전체를 어떻게 설계할 수 있는지 보여준다. 모든 리테일 접점이 규율 있는 아트 디렉션으로 아이덴티티를 반복 강화하며, 절제된 비주얼 시스템이 기억에 남는 커뮤니티 공간을 만든다는 사실을 증명한다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_lune-cafe-bakery-logo-ashida-hydrose.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_lune-cafe-bakery-logo-ashida-hydrose.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/brand-identity-design-lune-cafe-bakery-ashida-hydrose/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Lune Café & Bakery, 룬 카페 앤 베이커리",
+        "Ashida Hydrose, 아시다 하이드로즈",
+        "Abduzeedo, 앱더지도",
+        "커스텀 타이포그래피",
+        "패키지 디자인",
+        "브랜드 아이덴티티",
+        "컬러 팔레트"
+      ]
+    },
+    {
+      "id": "5b4d6f23",
+      "date": "2026-09-10",
+      "category": "🎨 디자인",
+      "title_ko": "향은 어떻게 그려지는가 — Lundgren+Lindqvist가 Uniscent에 그은 단 하나의 선",
+      "summary_ko": "스웨덴 스튜디오 Lundgren+Lindqvist가 향기 브랜드 Uniscent의 브랜딩을 새로 다듬었다. U와 S를 하나의 획으로 잇는 유려한 마크는 유리병에서 피어오르는 향의 움직임을 형상화했고, 여기에 실험실 노트를 연상시키는 모노스페이스 서체를 대비시켰다. 원식물을 스캔해 확대한 이미지와 블라인드 디보싱 인쇄물로 촉각적 온기를 더했다.",
+      "body_ko": "Uniscent는 10년 전 스웨덴과 노르웨이에 센트(scent) 작업을 도입한 브랜드다. 향은 공간과 무드를 조용히 조율하는 도구로 기능하며, 브랜드는 인쇄물과 웹을 아우르는 명확한 브랜드 시스템을 필요로 했다. Lundgren+Lindqvist는 중심 마크를 다시 그리는 데서 출발했다. 하나의 획이 U와 S를 잇고, 그 선은 유리병에서 피어올라 코끝으로 부드럽게 이동하는 향의 궤적을 떠올리게 한다. 각 곡선은 경직된 형태 대신 완만한 부유감을 암시하며, 이 유동적인 마크가 시스템 전체의 축이 된다.\n\n스튜디오는 이 마크를 절제된 모노스페이스 서체와 짝지었다. 조향 블렌드 뒤에 놓인 실험실 테스트를 반영한 선택이다. 고정된 글자 폭은 랩 노트와 제품 사양서를 연상시키고, 정돈된 칼럼이 데이터와 최소한의 제품 코드를 함께 정리한다. 타입 스케일은 에디토리얼 그리드 전반에서 촘촘한 행간을 유지하고, 높은 대비는 기술적 정보에 즉각적인 가독성을 부여한다. 넓은 여백이 문서마다 차분한 호흡을 만들고, 압축된 텍스트 블록이 빈 공간 옆에 조용히 놓인다. 레이아웃은 향 작업을 정밀한 화학적 크래프트로 다루며, 모듈 그리드를 통해 엄정한 기준을 드러낸다.\n\n촉각적인 인쇄 소재는 북유럽 브랜드에 온기를 더한다. 원식물을 촬영한 사진을 인쇄한 뒤 스캔해 크게 확대했고, 그 결과 섬유와 씨앗, 줄기의 미세한 질감이 드러난다. 향이 물리적 세계에 속한 것임을 상기시키는 장치다. 인쇄물은 결이 살아 있는 무코팅 중량지를 쓰고, 깊은 블라인드 디보싱이 작은 카드에 손끝의 감각을 남긴다. 봉투에는 유동적인 로고가 검정 잉크로 찍힌다. 실험실 타이포그래피와 촉각적 인쇄 사이의 대비가 시각적 긴장을 만들며, 절제된 브랜딩이 조향의 크래프트를 어떻게 존중할 수 있는지 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_uniscent-visual-identity-lundgrenlindqvist.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_uniscent-visual-identity-lundgrenlindqvist.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uniscent-visual-identity-lundgrenlindqvist_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uniscent-visual-identity-lundgrenlindqvist_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uniscent-visual-identity-lundgrenlindqvist_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_uniscent-visual-identity-lundgrenlindqvist_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/branding-design-uniscent-lundgrenlindqvist/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Lundgren+Lindqvist, 룬드그렌+린드크비스트",
+        "Uniscent, 유니센트",
+        "Abduzeedo, 앱두지도",
+        "브랜드 아이덴티티",
+        "모노스페이스 타이포그래피",
+        "인쇄 후가공",
+        "향기 브랜딩"
+      ]
+    },
     {
       "id": "05b607a9",
       "date": "2026-09-09",

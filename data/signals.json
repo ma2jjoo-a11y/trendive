@@ -1,111 +1,116 @@
 {
-  "updated_at": "2026-10-04 08:30",
+  "updated_at": "2026-10-05 08:48",
   "trends": [
     {
-      "title": "김상혁",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EA%B9%80%EC%83%81%ED%98%81"
+      "title": "나는 solo",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EB%82%98%EB%8A%94%20solo"
     },
     {
-      "title": "날씨",
-      "traffic": 50000,
-      "link": "https://www.google.com/search?q=%EB%82%A0%EC%94%A8"
-    },
-    {
-      "title": "선물",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%84%A0%EB%AC%BC"
-    },
-    {
-      "title": "연금 개혁",
+      "title": "임신",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%97%B0%EA%B8%88%20%EA%B0%9C%ED%98%81"
+      "link": "https://www.google.com/search?q=%EC%9E%84%EC%8B%A0"
     },
     {
-      "title": "하와이 화산 국립공원",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%ED%95%98%EC%99%80%EC%9D%B4%20%ED%99%94%EC%82%B0%20%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+      "title": "100일의 거짓말",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=100%EC%9D%BC%EC%9D%98%20%EA%B1%B0%EC%A7%93%EB%A7%90"
     },
     {
-      "title": "기상",
+      "title": "조현아",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EC%A1%B0%ED%98%84%EC%95%84"
+    },
+    {
+      "title": "초과근무",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EA%B8%B0%EC%83%81"
+      "link": "https://www.google.com/search?q=%EC%B4%88%EA%B3%BC%EA%B7%BC%EB%AC%B4"
     },
     {
-      "title": "namibia vs uae",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=namibia%20vs%20uae"
-    },
-    {
-      "title": "해리 케인",
+      "title": "검사",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%ED%95%B4%EB%A6%AC%20%EC%BC%80%EC%9D%B8"
+      "link": "https://www.google.com/search?q=%EA%B2%80%EC%82%AC"
+    },
+    {
+      "title": "비트코인",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8"
+    },
+    {
+      "title": "금",
+      "traffic": 5000,
+      "link": "https://www.google.com/search?q=%EA%B8%88"
     }
   ],
   "videos": [
     {
+      "title": "LEGO Really Chose That Name 😭",
+      "channel": "DoggyZ",
+      "views": 15811794,
+      "link": "https://www.youtube.com/watch?v=YuFgWB1iso4"
+    },
+    {
       "title": "[동원그룹 2026 브랜드 캠페인] 미래가 필요한 자리에, 답을 만든다",
       "channel": "동원TV",
-      "views": 14455410,
+      "views": 15577203,
       "link": "https://www.youtube.com/watch?v=t_VRIlnnAAM"
-    },
-    {
-      "title": "바다 앞에서 한호흡챌린지?! 이번엔 끝까지 성공할 수 있을까 ㅋㅋㅋ #dahye #한호흡챌린지 #reaction",
-      "channel": "오!연하 Oh!yeonha",
-      "views": 12651345,
-      "link": "https://www.youtube.com/watch?v=9qR-UHAvuOg"
-    },
-    {
-      "title": "Rumi was Scared Than 😂 Roblox Funny Meme #roblox​​ #funny​​ #shorts",
-      "channel": "Rk_offical_cartoon",
-      "views": 12076367,
-      "link": "https://www.youtube.com/watch?v=CKZxA8Ev4O8"
-    },
-    {
-      "title": "minecraft meme",
-      "channel": "JaNomon",
-      "views": 11894858,
-      "link": "https://www.youtube.com/watch?v=w3nUBjrTUxY"
     },
     {
       "title": "Mom my phone? 😂 - Animal Hospital (Anomaly)  Roblox Funny Meme #roblox #funny",
       "channel": "craftdox7",
-      "views": 11815934,
+      "views": 13419220,
       "link": "https://www.youtube.com/watch?v=WNnBSkFiXPk"
     },
     {
-      "title": "Nokia Entered Its Final Form 📱💪",
-      "channel": "Only Memes",
-      "views": 11595434,
-      "link": "https://www.youtube.com/watch?v=wjWzRpvl3FE"
+      "title": "바다 앞에서 한호흡챌린지?! 이번엔 끝까지 성공할 수 있을까 ㅋㅋㅋ #dahye #한호흡챌린지 #reaction",
+      "channel": "오!연하 Oh!yeonha",
+      "views": 13052778,
+      "link": "https://www.youtube.com/watch?v=9qR-UHAvuOg"
+    },
+    {
+      "title": "minecraft meme",
+      "channel": "JaNomon",
+      "views": 12283247,
+      "link": "https://www.youtube.com/watch?v=w3nUBjrTUxY"
+    },
+    {
+      "title": "Rumi was Scared Than 😂 Roblox Funny Meme #roblox​​ #funny​​ #shorts",
+      "channel": "Rk_offical_cartoon",
+      "views": 12166641,
+      "link": "https://www.youtube.com/watch?v=CKZxA8Ev4O8"
     },
     {
       "title": "5 SECOND SWIRL COMPETITION #trulybeauty #shorts #asmr #bodycare #challenge",
       "channel": "Truly Beauty",
-      "views": 10311659,
+      "views": 10809045,
       "link": "https://www.youtube.com/watch?v=LYQNDXmjkbc"
     },
     {
       "title": "Teen Turns $90K Sculpture Into a Meme #art #sculpture #publicart #hilarious #australia",
       "channel": "Stories hub",
-      "views": 7831447,
+      "views": 8061708,
       "link": "https://www.youtube.com/watch?v=RhfwzHZjDck"
     }
   ],
   "news": [
     {
-      "title": "온라인서 옷 사던 1030 성수로 부른다…지그재그도 50개 쇼핑몰 총출동",
-      "link": "https://www.segye.com/newsView/20261004501355?OutUrl=naver",
+      "title": "신세계백화점, 뉴욕 허드슨야드서 12월까지 K-뷰티 팝업 운영",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=312505",
       "source": "네이버뉴스"
     },
     {
-      "title": "비그룸, 7일까지 EQL 성수서 두 번째 남성 뷰티 팝업스토어 운영...현장...",
-      "link": "https://www.itbiznews.com/news/articleView.html?idxno=226362",
+      "title": "성수 팝업 대신 해방촌 골목으로…브랜드가 ‘동네’에 꽂혔다",
+      "link": "https://www.etoday.co.kr/news/view/2631925",
       "source": "네이버뉴스"
     },
     {
-      "title": "견본주택 벗어난 건설사들…'MZ 성지' 성수동서 미래 고객 잡는다",
-      "link": "https://www.news1.kr/realestate/general/6309292",
+      "title": "1030 잡은 무신사 뷰티로 '신제품' 몰린다…월평균 100개 단독 선론칭",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=554035",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "\"전시 보듯 쇼핑\"…무신사 스탠다드 성수 F/W 가보니[TF현장]",
+      "link": "https://news.tf.co.kr/read/economy/2372424.htm",
       "source": "네이버뉴스"
     },
     {
@@ -119,8 +124,8 @@
       "source": "네이버뉴스"
     },
     {
-      "title": "[푸드·다이닝 트렌드] 아웃백, '강남롯데점' 오픈… 브리즈번 콘셉트 ...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=154969",
+      "title": "쓰리시스, 스킨케어 브랜드 '야무' 론칭...AGE20'S, 리브랜딩 본격화",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=770903",
       "source": "네이버뉴스"
     },
     {
@@ -129,28 +134,23 @@
       "source": "네이버뉴스"
     },
     {
+      "title": "견본주택 벗어난 건설사들…'MZ 성지' 성수동서 미래 고객 잡는다",
+      "link": "https://www.news1.kr/realestate/general/6309292",
+      "source": "네이버뉴스"
+    },
+    {
       "title": "트리니티항공, 리브랜딩 맞아 ‘eSIM 동시구매’ 서비스 도입",
       "link": "https://www.kbsm.net/news/view.php?idx=536404",
       "source": "네이버뉴스"
     },
     {
-      "title": "'암살자(들)' 이번엔 '패륜 굿즈' 논란…\"눈 뜨고 볼 수 없다\" 분노",
-      "link": "https://www.hankyung.com/article/202610031981H",
+      "title": "'암살자(들)' '총탄 굿즈' 논란…메가박스, 사과 후 전량 폐기",
+      "link": "http://www.yonhapnewstv.co.kr/news/MYH20261005083256XJ1",
       "source": "네이버뉴스"
     },
     {
-      "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "[SOOP, 토종플랫폼 20년]〈1〉SOOP, 다시 한 번 전면 쇄신…통합 브랜드...",
-      "link": "https://www.etnews.com/20260930000338",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "'트릭컬 리바이브', 日 출시 1주년 맞아 매출 최상위권 등극",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61079",
+      "title": "‘암살자(들)’, 이번엔 ‘총탄 자국 굿즈’ 논란…메가박스 사과·전량...",
+      "link": "https://www.sportschosun.com/entertainment/2026-10-05/202610050100029970001907",
       "source": "네이버뉴스"
     }
   ]

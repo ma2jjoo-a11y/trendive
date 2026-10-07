@@ -1,156 +1,156 @@
 {
-  "updated_at": "2026-10-06 10:39",
+  "updated_at": "2026-10-07 09:20",
   "trends": [
     {
-      "title": "성현주",
-      "traffic": 1000,
-      "link": "https://www.google.com/search?q=%EC%84%B1%ED%98%84%EC%A3%BC"
-    },
-    {
-      "title": "우리은행",
-      "traffic": 1000,
-      "link": "https://www.google.com/search?q=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89"
-    },
-    {
-      "title": "하나은행",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%ED%95%98%EB%82%98%EC%9D%80%ED%96%89"
-    },
-    {
-      "title": "클로드",
-      "traffic": 10000,
-      "link": "https://www.google.com/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C"
-    },
-    {
-      "title": "엔화",
-      "traffic": 1000,
-      "link": "https://www.google.com/search?q=%EC%97%94%ED%99%94"
-    },
-    {
-      "title": "1박 2일",
+      "title": "슬로우뉴스",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=1%EB%B0%95%202%EC%9D%BC"
+      "link": "https://www.google.com/search?q=%EC%8A%AC%EB%A1%9C%EC%9A%B0%EB%89%B4%EC%8A%A4"
     },
     {
-      "title": "이자",
-      "traffic": 5000,
-      "link": "https://www.google.com/search?q=%EC%9D%B4%EC%9E%90"
+      "title": "코리아 드라마 어워즈",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%9B%8C%EC%A6%88"
     },
     {
-      "title": "송강",
+      "title": "연차",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%86%A1%EA%B0%95"
+      "link": "https://www.google.com/search?q=%EC%97%B0%EC%B0%A8"
+    },
+    {
+      "title": "회사",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%ED%9A%8C%EC%82%AC"
+    },
+    {
+      "title": "소방",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EC%86%8C%EB%B0%A9"
+    },
+    {
+      "title": "부산국제영화제",
+      "traffic": 500,
+      "link": "https://www.google.com/search?q=%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C"
+    },
+    {
+      "title": "모아타운",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EB%AA%A8%EC%95%84%ED%83%80%EC%9A%B4"
+    },
+    {
+      "title": "자동차",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EC%9E%90%EB%8F%99%EC%B0%A8"
     }
   ],
   "videos": [
     {
-      "title": "[동원그룹 2026 브랜드 캠페인] 미래가 필요한 자리에, 답을 만든다",
-      "channel": "동원TV",
-      "views": 16609459,
-      "link": "https://www.youtube.com/watch?v=t_VRIlnnAAM"
-    },
-    {
       "title": "Mom my phone? 😂 - Animal Hospital (Anomaly)  Roblox Funny Meme #roblox #funny",
       "channel": "craftdox7",
-      "views": 14105779,
+      "views": 14406182,
       "link": "https://www.youtube.com/watch?v=WNnBSkFiXPk"
     },
     {
       "title": "바다 앞에서 한호흡챌린지?! 이번엔 끝까지 성공할 수 있을까 ㅋㅋㅋ #dahye #한호흡챌린지 #reaction",
       "channel": "오!연하 Oh!yeonha",
-      "views": 13426019,
+      "views": 13581258,
       "link": "https://www.youtube.com/watch?v=9qR-UHAvuOg"
     },
     {
       "title": "minecraft meme",
       "channel": "JaNomon",
-      "views": 12632816,
+      "views": 13195285,
       "link": "https://www.youtube.com/watch?v=w3nUBjrTUxY"
     },
     {
       "title": "5 SECOND SWIRL COMPETITION #trulybeauty #shorts #asmr #bodycare #challenge",
       "channel": "Truly Beauty",
-      "views": 11191774,
+      "views": 11383887,
       "link": "https://www.youtube.com/watch?v=LYQNDXmjkbc"
+    },
+    {
+      "title": "Lay’s Saved Coke from Pepsi 😭💀",
+      "channel": "Memeolazy",
+      "views": 10914601,
+      "link": "https://www.youtube.com/watch?v=aPZ37tV72fI"
     },
     {
       "title": "bite of 87 FNAF meme",
       "channel": "FNAFNerd",
-      "views": 7831902,
+      "views": 7918012,
       "link": "https://www.youtube.com/watch?v=04AAnRew0pM"
     },
     {
-      "title": "The Little Boys Protect Their Peach 🤣🤣🤣 Animation Meme #funny #mario",
-      "channel": "Mario Friendly",
-      "views": 6721599,
-      "link": "https://www.youtube.com/watch?v=akrUn7IJLcQ"
+      "title": "Cool (Hardtekk - Slowed) Dance Challenge! Then My Big Sister Crashed In 😳",
+      "channel": "다혜 dahye",
+      "views": 7414974,
+      "link": "https://www.youtube.com/watch?v=084bEyU3ph8"
     },
     {
       "title": "minecraft meme",
       "channel": "JaNomon",
-      "views": 6628391,
+      "views": 7108699,
       "link": "https://www.youtube.com/watch?v=SVLxDBYLUKs"
     }
   ],
   "news": [
     {
-      "title": "K브랜드 日 공략 거점 키운다…이베이재팬, 도쿄 시부야에 첫 상설 체험...",
-      "link": "https://www.mk.co.kr/article/12169029",
+      "title": "충남의 맛, 서울 성수동에서 미식 탐험 시작",
+      "link": "https://www.viva100.com/article/20261007500197",
       "source": "네이버뉴스"
     },
     {
-      "title": "신세계백화점, 젊은 K브랜드 천안에 집결..성장 플랫폼 육성",
-      "link": "https://kpenews.com/View.aspx?No=4252707",
+      "title": "샐러디, ‘월레스와 그로밋’과 콜라보… 신메뉴부터 굿즈까지",
+      "link": "https://www.seoul.co.kr/news/economy/2026/10/07/20261007500018?wlog_tag3=naver",
       "source": "네이버뉴스"
     },
     {
-      "title": "日에 K패션 팔던 무신사, 이번엔 J패션 들여온다…조조타운 첫 팝업",
-      "link": "https://www.peoplewatch.co.kr/article/view/ppw202610060005",
+      "title": "경콘진, 콘텐츠 IP 테마 커피 한 잔?…‘이터널 리턴’·‘단콩이’ 카...",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=914245",
       "source": "네이버뉴스"
     },
     {
-      "title": "마담래쉬, 日 유라쿠초 마루이 팝업 성료… K-메이크업 체험도 운영",
-      "link": "https://www.fashionbiz.co.kr/article/230039",
+      "title": "샐러디, '월레스와 그로밋'과 협업…신메뉴·굿즈 선봬",
+      "link": "https://www.hankyung.com/article/202610066202O",
       "source": "네이버뉴스"
     },
     {
-      "title": "리센느 리브X메이 ‘리트와 메트’ 용산 팝업 일정",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202610060199",
+      "title": "샐러디, ‘월레스와 그로밋’ 협업…신메뉴 3종·한정 굿즈 출시",
+      "link": "https://economist.co.kr/article/view/ecn202610060048",
       "source": "네이버뉴스"
     },
     {
-      "title": "현대백화점 ‘더현대 글로벌’ 파리 첫 진출…K패션 5개 브랜드 선보인...",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000100570",
+      "title": "샐러디, ‘월레스와 그로밋’ 콜라보… 신메뉴부터 굿즈까지 선보여",
+      "link": "https://www.dt.co.kr/article/12087739?ref=naver",
       "source": "네이버뉴스"
     },
     {
-      "title": "무신사, 일본 최대급 패션 플랫폼 '조조타운' 국내 첫 팝업 연다",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=5017719",
+      "title": "경콘진, IP 기업-경기 서부권 카페 맞손…상생형 테마 공간 구축",
+      "link": "https://www.mt.co.kr/policy/2026/10/06/2026100617033091920",
       "source": "네이버뉴스"
     },
     {
-      "title": "경콘진, 님블뉴런·블리쏠과 서부권역 상생 '콘텐츠 IP 테마 카페' 운영",
-      "link": "https://www.thisisgame.com/articles/430670",
+      "title": "무밍, 빠더너스·LG 트윈스 콜라보 '강아지 야구점퍼' 출시",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=04195126645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "source": "네이버뉴스"
     },
     {
-      "title": "경콘진, 콘텐츠 IP 테마카페 연다…지역 상권 상생",
-      "link": "https://zdnet.co.kr/view/?no=20261006094330",
+      "title": "정관장-배민, 프로농구 홈경기서 이벤트 진행...이삭토스트와 협업 픽업...",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=319283",
       "source": "네이버뉴스"
     },
     {
-      "title": "경콘진, 콘텐츠 IP기업·지역 카페 연계…상생 모델 구축",
-      "link": "https://www.kukinews.com/article/view/kuk202610060008",
+      "title": "SBI저축은행 새 이름은 ‘교보SBI’…교보생명, 9000억 인수 후 브랜드 ...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202138",
       "source": "네이버뉴스"
     },
     {
-      "title": "듀이트리, 꿈돌이 협업 수익금 기부",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870139",
+      "title": "'엑시노스 1330 리브랜딩' 아니었다…갤럭시 A18 4G 엑시노스 1610, 게임 ...",
+      "link": "https://kbench.com/?q=node/282364",
       "source": "네이버뉴스"
     },
     {
-      "title": "진짜 ‘돈방석’, ‘디아블로’ 금메달…조폐공사가 이색 굿즈 만드는 ...",
-      "link": "https://www.donga.com/news/Culture/article/all/20261002/134758383/2",
+      "title": "CU, 산돌과 ‘좋은친구’ 서체 개발… 상품 패키지 등에 적용",
+      "link": "https://www.viva100.com/article/20261007500233",
       "source": "네이버뉴스"
     }
   ]

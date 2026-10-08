@@ -1,6 +1,87 @@
 {
-  "last_updated": "2026-10-07T01:46:26Z",
+  "last_updated": "2026-10-08T02:14:07Z",
   "items": [
+    {
+      "id": "743f7a56",
+      "date": "2026-10-08",
+      "category": "📣 마케팅",
+      "title_ko": "설명서엔 없는데, 내 손에는 있는 사용법 — LG전자가 고객에게 마이크를 넘긴 이유",
+      "summary_ko": "LG전자가 2026년 10월 2일부터 31일까지 장애인·시니어 고객의 가전 사용 노하우를 사진·그림·영상으로 모으는 「쓰는 대로 쓰다」 프로젝트를 운영한다. 설명서가 알려주지 않는 '말로 물 따르기', '손등으로 세제함 열기' 같은 저마다의 사용법을 고객이 직접 공유하도록 설계했다. 기업이 기능을 설명하던 방식에서 고객이 서로에게 사용법을 알려주는 방식으로, 접근성 커뮤니케이션의 화자를 바꾸려는 시도다.",
+      "body_ko": "정수기 설명서는 버튼을 누르는 순서를 그림과 함께 안내하지만, 누군가는 말로 물을 받고 누군가는 손끝의 촉각 표시로 버튼을 찾는다. 같은 제품도 몸의 조건과 생활 방식에 따라 사용법이 달라지지만 이런 요령은 설명서에 실리지 않고 쓰는 사람의 습관 안에 머물러 왔다. LG전자는 이 지점에 주목해 장애인과 시니어 고객이 LG 가전과 서비스를 쓰는 자기만의 방법을 직접, 혹은 도움을 받아 기록하는 「쓰는 대로 쓰다」 프로젝트를 시작했다.\n\n이는 ‘모두를 위한 모두의 LG’ 캠페인의 세 번째 프로젝트로, LG전자가 고객 참여형 접근성 커뮤니티 ‘볼드 무브’를 통해 200여 건의 개선 아이디어를 반영하고 접근성 액세서리 ‘LG 컴포트 키트’를 출시해 온 흐름의 연장선에 있다. 운영사무국 안내문은 “실제 고객이 일상 속에서 활용하는 다양한 경험과 노하우가 공유될 때 더욱 실질적인 도움을 줄 수 있다”며, 장애인과 시니어를 지원 대상이 아닌 “경험 공유의 주체로 조명”하겠다고 밝힌다.\n\n참여 방식은 네 장의 장면 카드 중 하나를 고른 뒤 ‘나는 ○○ ○○ 합니다’라는 빈칸 문장을 채우는 구조다. ‘나는 말로 물을 따릅니다’, ‘나는 ThinQ로 요리를 합니다’ 같은 예시 문장은 첫 작성의 막막함을 덜어주는 동시에 그대로 다른 사람에게 전해질 사용법의 첫 줄이 된다. 글이 어려우면 사진·그림·영상으로도 보낼 수 있고, 가족이나 활동 지원자가 대신 보내는 것도 참여로 인정되지만, 사이트 FAQ는 대신 보내는 경우에도 참여자 본인의 의사를 먼저 확인한다고 명시한다.\n\n모인 콘텐츠는 참여자가 동의한 범위 안에서 후속 콘텐츠 제작에 쓰이며, 참여 건수와 연계한 가전 기부 프로그램도 운영된다. 흔한 사용 후기 이벤트가 제품이 좋은지를 묻는다면, 이 프로젝트는 제품을 어떻게 쓰는지를 묻는다는 점에서 다르다. 제품을 가장 잘 아는 것은 만든 회사일 수 있지만, 가장 잘 쓰는 방법은 매일 쓰는 사람이 쥐고 있다는 점을 프로젝트는 전제로 삼는다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/00_thumb_C-2.jpg",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/00_thumb_C-2.jpg",
+        "https://somako.co.kr/wp-content/uploads/02_site_intro-2.jpg",
+        "https://somako.co.kr/wp-content/uploads/03_site_forall-2.jpg",
+        "https://somako.co.kr/wp-content/uploads/04_four_cards-2.jpg",
+        "https://somako.co.kr/wp-content/uploads/05_site_fill_samples-2.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/lg-event-campaign2026/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "LG전자",
+        "엘지전자",
+        "접근성",
+        "쓰는대로쓰다",
+        "고객참여캠페인",
+        "시니어마케팅",
+        "배리어프리"
+      ]
+    },
+    {
+      "id": "fa911cf4",
+      "date": "2026-10-08",
+      "category": "🎯 브랜딩",
+      "title_ko": "임신 준비도 '우리 둘'의 일로 — WeNatal, 차갑던 영양제 패키지를 다정한 리추얼로 바꾸다",
+      "summary_ko": "FORNER STUDIO가 프리네이탈 브랜드 WeNatal의 패키지 디자인을 공개했다. 여성 전용이라는 기존 공식 대신 파트너가 함께하는 가임 여정을 콘셉트로 삼아, 차가운 약국식 백색 대신 흙빛 컬러와 금박 디테일로 따뜻한 비주얼 세계를 구축했다.",
+      "body_ko": "대부분의 프리네이탈 브랜드는 여성만을 타깃으로 하며, 차가운 약국식 클리셰와 플라스틱 용기에 의존해왔다. WeNatal은 이와 다른 관점에서 출발한다. 생식 건강을 파트너가 함께 걷는 길로 바라보며, FORNER STUDIO는 이 아이디어를 중심으로 따뜻한 비주얼 세계를 설계했다. 딱딱한 임상적 화이트 박스를 걷어내고 짙은 포레스트 그린, 더스티 플럼, 소프트 코랄, 세이지, 페일 크림으로 구성된 흙빛 팔레트를 택했다. 이로써 일상의 웰니스 루틴은 하나의 의도적인 리추얼로 전환되며, 각 카턴은 차분한 정보 전달과 투명한 성분 표기를 함께 담아낸다.\n\n타이포그래피는 인쇄물과 스크린을 아우르는 시스템의 중심축이다. WeNatal 워드마크에는 콘트라스트가 강한 세리프체가 쓰였고, 가는 브래킷과 날카로운 세리프, 섬세하게 깎인 내부 윤곽이 우아하면서도 단단한 인상을 만든다. 보조 카피는 깔끔한 산세리프 대문자와 부드러운 이탤릭으로 구성되며, For Him, For Her, Egg Quality 같은 제품명이 일일 섭취량 표기 위에 자리한다. 명확한 그리드 룰 덕분에 보충제 정보는 정돈되고 가독성 높게 전달되며, 이 타이포 리듬은 작은 포일 패킷부터 대형 옥외 포스터까지 일관되게 유지된다.\n\n촉각적인 인쇄 마감은 패키지를 소장하고 싶은 오브제로 완성한다. 외부 배송 박스는 견고한 크라프트 골판지를 사용했고, 윗면에는 선명한 화이트 실크스크린 호선과 점선 반달 무늬가 들어간다. 내부의 커스텀 인서트 카드에는 'Fully Supported'라는 문구가 담겼다. 메인 카턴은 두꺼운 페이퍼보드에 새틴 표면 마감을 적용했으며, 그린과 플럼 컬러의 카턴을 나란히 놓으면 금박 그래픽이 하나의 원형 심벌로 이어진다. 리필용 파우치는 라일락과 세이지 톤에 반짝이는 금박 스탬프를 더했고, 곡선형 뚜껑을 가진 매트 재질의 커스텀 자(jar)는 침대 협탁 위에 어울리는 차분한 오브제로 제안된다.\n\n이처럼 FORNER STUDIO는 정교한 공예적 디테일과 실용성을 결합해, 가정을 꾸려가는 이들을 위한 패키지 디자인 시스템을 완성했다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_wenatal-rebrand-forner-studio.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_wenatal-rebrand-forner-studio.jpg",
+        "https://abduzeedo.com/api/img?url=https%3A%2F%2Fcms.abduzeedo.com%2Fsites%2Fdefault%2Ffiles%2Foriginals%2Fgallery_wenatal-rebrand-forner-studio_0.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/forner-studio-unveils-wenatal-packaging-design/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "WeNatal",
+        "위네이탈",
+        "FORNER STUDIO",
+        "포너스튜디오",
+        "패키지디자인",
+        "타이포그래피",
+        "브랜드아이덴티티"
+      ]
+    },
+    {
+      "id": "2cd5dab0",
+      "date": "2026-10-08",
+      "category": "🎨 디자인",
+      "title_ko": "모노스페이스의 한계를 넘다 — Sociotype Foundry의 새 서체 Onsite Mono",
+      "summary_ko": "Sociotype Foundry가 그로테스크 서체 패밀리에 Onsite Mono와 SemiMono를 추가했다. 고정폭 서체가 흔히 겪는 시각적 불균형 문제를 구조적으로 해결하며, 모노스페이스의 절제와 타입 디자인의 정교함 사이 균형을 시도한다.\n\n- Joe Leadbeater가 디자인하고 Barbara Bigosinska가 엔지니어링을 맡은 이 서체는 DIN 1451과 Eurostile 같은 중세기 산업 디자인에서 영감을 받은 정사각형 카운터폼을 기반으로 한다.",
+      "body_ko": "고정폭 폰트는 넓은 글자는 압축되고 좁은 글자는 빈 공간에서 늘어나는 식의 시각적 불균형 문제를 흔히 겪는다. Joe Leadbeater가 디자인하고 Barbara Bigosinska가 엔지니어링한 Onsite Mono는 체계적인 타입 디자인 접근으로 이 구조적 마찰을 해결한다. 이번 릴리스는 Condensed, Standard, Extended 폭을 아우르는 Sociotype Foundry의 기존 Onsite 시스템을 확장한 것이다. 정사각형 카운터폼이 글자의 기반을 이루며, DIN 1451과 Eurostile 같은 중세기 산업 랜드마크에서 영감을 가져왔다. 이 기하학적 토대는 차갑고 딱딱하지 않으면서도 명확한 구조를 글자 세트에 부여한다. 가로획을 연장하고 끝맺음 곡선을 조율함으로써, 파운드리는 인쇄물과 고해상도 화면 모두에서 균형 잡힌 텍스트를 구현한다.\n\n이 패밀리는 두 개의 하위 패밀리로 나뉜다. Onsite Mono는 Thin부터 Extrabold까지 일곱 개 웨이트에 Book 컷을 더해 엄격한 고정폭 메트릭을 지키며, 터미널 콘솔과 기술 데이터시트가 요구하는 절제된 리듬을 제공한다. 반면 Onsite SemiMono는 흥미로운 하이브리드 타입 디자인 해법을 선보인다. 모노스페이스 특유의 길게 늘어진 세리프, 넓은 액센트, 코드 느낌의 디테일을 차용하면서도 Onsite Standard의 비례 자간과 커닝을 적용한다. 이 결합은 구두점과 좁은 획 주변의 넓은 여백 문제를 없앤다. 에디토리얼 디자이너는 코딩 폰트의 깔끔한 미감과 긴 호흡의 편집 리딩에 필요한 부드러운 수평 흐름을 동시에 얻을 수 있다.\n\n16개 컷에 걸쳐 스타일당 828개 글리프를 담은 이번 릴리스는 폭넓은 오픈타입 기능을 제공한다. 타이포그래퍼는 문맥 대체 문자, 올드스타일 숫자, 방향 화살표, 커스텀 괄호 인클로저를 활용할 수 있다. 슬래시 처리된 0, 임의 리거처, 대소문자 구분 구두점은 복잡한 표 조판에 세밀한 제어를 가능케 한다. 알약 모양의 배지 프레임은 숫자 하나 혹은 여러 자리 숫자열을 감싸 길 안내나 번호 체계에 활용된다. 에디토리얼 스페시먼은 밀도 높은 건축 비평문, 공항 역사 기록, 지자체 에세이 등 다양한 맥락에서 이 기능들을 보여준다. 작은 각주부터 큰 포스터 배너까지, Onsite Mono와 SemiMono는 실용적 절제와 표현적인 타이포그래픽 리듬이 어떻게 공존할 수 있는지를 보여준다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_onsite-mono-onsite-semimono-typeface-sociotype-foundry.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_onsite-mono-onsite-semimono-typeface-sociotype-foundry.jpg",
+        "https://abduzeedo.com/api/img?url=https%3A%2F%2Fcms.abduzeedo.com%2Fsites%2Fdefault%2Ffiles%2Foriginals%2Fgallery_onsite-mono-onsite-semimono-typeface-sociotype-foundry_0.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/type-design-onsite-mono-sociotype-foundry/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Sociotype Foundry",
+        "소시오타입 파운드리",
+        "Onsite Mono",
+        "온사이트 모노",
+        "타입 디자인",
+        "모노스페이스 폰트",
+        "오픈타입"
+      ]
+    },
     {
       "id": "d21bdee3",
       "date": "2026-10-07",

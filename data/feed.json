@@ -1,6 +1,85 @@
 {
-  "last_updated": "2026-10-11T01:12:08Z",
+  "last_updated": "2026-10-12T01:40:39Z",
   "items": [
+    {
+      "id": "29b44eb8",
+      "date": "2026-10-12",
+      "category": "📣 마케팅",
+      "title_ko": "스폰서 한 곳 대신 천 명에게 판 유니폼 — 큰 문제를 쪼개면 답이 보인다",
+      "summary_ko": "메인 스폰서를 잃은 페루 축구 클럽 데포르티보 무니시팔은 유니폼을 1,000칸으로 쪼개 한 칸당 약 60달러에 팔았습니다. 큰돈을 낼 기업 대신 소속감을 원하는 수많은 개인과 소상공인이 참여하며 2026년 1월 시작된 캠페인은 성공을 거뒀고, 8월 공개된 새 유니폼은 전 세계 언론의 주목을 받았습니다.",
+      "body_ko": "리마의 데포르티보 무니시팔은 1부 리그 4회 우승 경력의 전통 있는 클럽이지만, 재정난으로 하부 리그까지 강등되며 중계권 수입이 말라붙었다. 설상가상으로 유니폼 가슴에 이름을 새기던 메인 스폰서가 떠났고, 하부 리그 팀에 큰돈을 낼 기업은 나타나지 않았다.\n\n구단은 메인 스폰서를 다시 찾는 대신 유니폼 전체를 1,000개의 작은 칸으로 나눠 한 칸을 약 60달러에 팔기로 했다. 동네 빵집이나 식당, 개인 사업자도 부담 없이 살 수 있는 금액이었다. 구단의 상징인 붉은 사선과 엠블럼은 그대로 두고, 그 뒤를 천 개의 작은 이름이 채웠다. 2026년 1월 시작된 이 캠페인은 성공을 거뒀고, 8월 공개된 새 유니폼은 전 세계 언론에 소개되며 재정 위기 극복에 힘을 보탰다.\n\n이는 큰돈을 한 곳에서 받아야 한다는 전제를 뒤집은 선택이었다. 유니폼을 잘게 쪼개자 한 기업이 수만 달러를 내야 하던 자리가 천 곳이 수십 달러씩 나눠 내는 자리로 바뀌었고, 진입 장벽이 낮아지며 참여할 수 있는 사람이 크게 늘었다. 몇 곳이 빠져도 전체가 무너지지 않는 유연한 구조가 된 것도 특징이다. 이는 2005년 영국의 한 대학생이 웹페이지를 100만 개 픽셀로 쪼개 1달러 혹은 100달러 블록 단위로 팔아 100만 달러 넘게 모은 '밀리언 달러 홈페이지' 사례와도 구조적으로 닮아 있다.\n\n다만 이 방식을 적용하려면 몇 가지를 고려해야 한다. 화제성은 한 번이지만 재정은 매년 필요하므로 후원사들이 이듬해에도 참여할 이유를 설계해야 하고, 천 곳을 응대하는 관리 부담도 커진다. 또한 조각이 작아도 '천 명이 함께 구단을 살렸다'는 의미가 살아 있어야 참여 동기가 유지된다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/inline-1790945316780_qy563o.jpg",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/inline-1790945316780_qy563o.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1790945215495_tcgncw-1536x903.png"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/muni-thousand-sponsors-community-marketing/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Deportivo Municipal",
+        "데포르티보 무니시팔",
+        "팬덤마케팅",
+        "분할전략",
+        "TRIZ",
+        "유니폼스폰서십",
+        "커뮤니티마케팅"
+      ]
+    },
+    {
+      "id": "91a653f1",
+      "date": "2026-10-12",
+      "category": "🎯 브랜딩",
+      "title_ko": "T·G·L·F 네 글자가 하나의 미로가 되다 — 제네바 러닝 파운데이션의 10년 만의 새 얼굴",
+      "summary_ko": "국제 에이전시 cheeeeese가 제네바 러닝 파운데이션(TGLF)의 창립 10주년을 맞아 브랜드 아이덴티티를 전면 개편했다. 기존의 고전적인 Trajan 서체 워드마크를 버리고, 네 글자 이니셜을 픽셀 그리드 위의 미로로 재구성한 단일 글리프를 새 로고로 채택했다.",
+      "body_ko": "제네바 러닝 파운데이션은 창립 10년 만에 기존의 Trajan 서체 워드마크와 완전히 결별했다. 국제 에이전시 cheeeeese의 제네바 지사는 T, G, L, F 네 글자를 하나의 미로로 융합해 픽셀 그리드 위에 그려냈고, 그 결과 네 글자는 하나의 연속된 경로로 읽힌다. 이 미로는 보건 종사자들이 매일 마주하는 복잡한 문제들을 상징하며, 미로 안을 가로지르는 한 줄의 선은 제네바 시 문장에 등장하는 '성 베드로의 열쇠'를 차용한 것으로, 문제 속으로 들어가 출구를 찾아 해결사의 손에 닿기까지의 재단 운영 방식을 형상화했다. 공개 이미지에서는 이 이니셜이 파랑, 초록, 크림, 오렌지색 줄무늬 패널로 이루어진 조형물로 들판 위에 세워진 모습으로 소개됐다. TGLF 창립자 Reda Sadki(레다 사드키)는 이를 두고 아트 디렉터 Lea Pérez(레아 페레즈)가 \"한 번 보면 기억에 남는 단 하나의 글리프로 모든 것을 압축했다\"고 평했다.\n\n제작 시트는 이 작업의 시스템적 접근을 잘 보여준다. 미로의 모든 꺾임은 픽셀 그리드에 정확히 맞춰져 엔지니어링적 규율을 부여하며, 워드마크에는 Google Fonts용으로 Colophon Foundry가 디자인한 Space Mono가 사용됐고, Source Code Pro와 Montserrat가 보조 서체로 쓰였다. 이는 수많은 자선단체들이 공유하던 고전적인 Trajan 세리프체로부터의 의도적인 단절이다. 2026년 6월 세 가지 크리에이티브 방향이 제안됐고, TGLF는 이니셜을 활용하는 방향을 최종 선택했으며 작업은 2026년 5월부터 9월까지 진행됐다.\n\n이번 작업 범위는 로고, 비주얼 아이덴티티, 소셜 미디어 템플릿, 그리고 100개국 이상에서 8만 명의 보건 및 인도주의 종사자에게 닿는 조직을 위한 가이드라인까지 포함한다. 소셜 템플릿은 폰 프레임 목업과 듀오톤 인용구 카드를 통해 픽셀 로직을 일상적인 게시물까지 확장시킨다. 얼룩진 페인트 위에 놓인 Trajan 워드마크로 대표되던 이전 아이덴티티와 나란히 놓고 보면 그 변화는 전면적이다. 같은 재단, 새로운 알파벳인 셈이다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_3.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_3.jpg",
+        "https://abduzeedo.com/api/img?url=https%3A%2F%2Fcms.abduzeedo.com%2Fsites%2Fdefault%2Ffiles%2Foriginals%2Fg1_lockup.png"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/how-cheeeeese-reimagined-brand-identity-tglf/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "cheeeeese",
+        "치즈",
+        "TGLF",
+        "제네바 러닝 파운데이션",
+        "브랜드 아이덴티티",
+        "로고 디자인",
+        "Lea Pérez"
+      ]
+    },
+    {
+      "id": "71da8b57",
+      "date": "2026-10-12",
+      "category": "🎨 디자인",
+      "title_ko": "날것의 질감이 디지털을 이긴다 — 이번 주 디자인은 '물성'으로 말한다",
+      "summary_ko": "Abduzeedo가 선정한 이번 주 디자인 트렌드는 정밀한 기술적 제약과 거친 물성의 충돌이다. 인쇄소 교정지, 금속 프롱 바인딩, 모노스페이스 타이포그래피 등 디지털 가공 없이 촉각적 재료성을 전면에 내세운 작업들이 눈에 띈다.",
+      "body_ko": "스웨덴 예테보리의 Lundgren+Lindqvist 스튜디오는 Svensk Bokkonst 카탈로그 작업에서 디지털 사진 촬영을 아예 배제했다. 수상작 도서에서 실제로 떼어낸 생산 낱장을 모아 금속 프롱 파스너로 제본하고, 수상 증서는 재활용한 책 커버 재킷 위에 박을 찍어 완성했다. 같은 스튜디오가 진행한 Polestar 4 포스터 시리즈 역시 인쇄 공정에서 버려지는 교정 캘리브레이션 시트를 가로채 기술적 타이포그래피와 출판 메타데이터를 겹쳐 인쇄하며, 자동차 공학과 판화 예술을 잇는 반복 불가능한 산업 유물을 만들어냈다.\n\n타이포그래피 영역에서는 모노스페이스의 변주가 두드러졌다. 스위스 디자이너 Juri Zaech 유리 자에크는 Pangram Pangram 팡그램 팡그램을 통해 Fraktion Mono를 발표, 고정폭 서체 특유의 차가움 대신 휴머니스트적 보정과 폭넓은 스타일리스틱 세트를 결합했다. Sociotype Foundry 소시오타입 파운드리의 Onsite Mono와 Onsite SemiMono는 타자기의 기계적 비례와 에디토리얼 리듬을 절충해, 순수 모노스페이스가 만드는 어색한 공백 문제를 해결한 하이브리드 시스템을 선보였다.\n\n패키징에서는 촉각적 스토리텔링이 핵심이었다. 오슬로의 OlssønBarbieri 올손바르비에리는 노르웨이 치즈 브랜드 Stavanger Ysteri 스타방에르 위스테리를 위해 비코팅지 위 2단 원형 라벨과 손으로 찍은 엠보싱 컬러 태그를 적용해 소규모 유제품 생산을 수집가치 있는 스칸디나비아 공예품으로 격상시켰다. 런던의 Ragged Edge 래그드 엣지는 문구 브랜드 Papier 파피에를 재단장하며 표현적인 에디토리얼 세리프와 엠보싱 모노그램 실, 두꺼운 페이퍼보드 패키지로 '백지의 가능성'이라는 내러티브를 구축했다. LA의 FORNER STUDIO 포너 스튜디오는 산전 보충제 브랜드 WeNatal 위네이탈을 위해 임상적인 플라스틱 병 대신 가보급 앰버 글라스 용기를 도입, 웰니스 제품을 의식적인 언박싱 의례로 바꿨다.\n\n그 외에도 Toronto의 Underline Studio 언더라인 스튜디오는 아티스트 Les Levine 레스 레빈의 회고전 도록을 은박 인쇄와 반투명 합성지로 구성했고, Norway의 KIND 카인드는 해양 물류 기업 Olympic 올림픽의 아이덴티티를 파도 형상의 기하학적 모노그램으로 재정립했다. 신작 서체로는 Pangram Pangram의 PP Palma와 Skinny Type 스키니 타입의 조각적 디스플레이 세리프 Sonne 조네도 함께 소개됐다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_best-of-week-2026-W41.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_best-of-week-2026-W41.jpg",
+        "https://abduzeedo.com/api/img?url=https%3A%2F%2Fcms.abduzeedo.com%2Fsites%2Fdefault%2Ffiles%2Foriginals%2Fgallery_best-of-week-2026-W41_0.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/best-week-circular-print-monospaces-and-terroir/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Abduzeedo",
+        "어버듀지도",
+        "Lundgren+Lindqvist",
+        "룬드그렌린드크비스트",
+        "Pangram Pangram",
+        "팡그램팡그램",
+        "모노스페이스",
+        "패키지디자인"
+      ]
+    },
     {
       "id": "ece2add6",
       "date": "2026-10-11",

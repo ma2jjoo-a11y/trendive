@@ -90,6 +90,13 @@
   .gal{position:relative;background:var(--soft)}
   .gal-img{width:100%;height:440px;object-fit:cover;display:block;background:var(--soft)}
   .frame img.fitc,.gal-img.fitc{object-fit:contain;background:#fff}
+  /* 비율이 칸과 많이 다른 이미지(글자 박힌 가로형 표지 등): 잘라내지 않고 전체를 보여주되,
+     같은 이미지를 흐리게 깔아 빈 띠가 보이지 않게 */
+  .gal{overflow:hidden}
+  .frame.wide-bg::before,.gal.wide-bg::before{content:"";position:absolute;inset:-30px;
+    background:var(--bgimg) center/cover no-repeat;filter:blur(24px) saturate(1.1);opacity:.9}
+  .frame img.fitw,.gal-img.fitw{position:relative;z-index:1;object-fit:contain;background:transparent}
+  .badge-imp,.gal-nav,.gal-grad,.gal-dots{z-index:2}
   .gal-ph{height:300px;display:flex;align-items:center;justify-content:center;
     font-size:24px;font-weight:800;color:var(--blue);background:linear-gradient(135deg,#eef3ff,#f6f6f7)}
   .gal-nav{position:absolute;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;
@@ -214,12 +221,20 @@ function renderSignals(){
     </div>`;
 }
 
-// 이미지가 표시 영역보다 작으면 흰 배경+원본크기(contain), 크면 꽉 채우기(cover)
+// 이미지 맞춤: ① 표시 영역보다 작으면 흰 배경+원본크기(contain, 억지 확대 금지)
+// ② 칸과 비율이 크게 다르면(글자 박힌 가로 표지 등) 잘리지 않게 전체를 보이고 같은 이미지를 흐리게 깔기
+// ③ 그 외엔 꽉 채우기(cover)
 function fitCheck(img){
   try{
-    if(img.naturalWidth && (img.naturalWidth < img.clientWidth || img.naturalHeight < img.clientHeight))
-      img.classList.add('fitc');
-    else img.classList.remove('fitc');
+    const box=img.parentElement, nw=img.naturalWidth, nh=img.naturalHeight;
+    img.classList.remove('fitc','fitw'); if(box) box.classList.remove('wide-bg');
+    if(!nw || !img.clientWidth) return;
+    if(nw < img.clientWidth || nh < img.clientHeight){ img.classList.add('fitc'); return; }
+    const r=nw/nh, R=img.clientWidth/img.clientHeight;
+    if(r/R > 1.2 || R/r > 1.2){
+      img.classList.add('fitw');
+      if(box){ box.style.setProperty('--bgimg', `url("${img.currentSrc||img.src}")`); box.classList.add('wide-bg'); }
+    }
   }catch(e){}
 }
 
@@ -292,7 +307,7 @@ function open_(idx){
 
 function renderGal(){
   const img=document.getElementById('galImg'); if(!img)return;
-  img.classList.remove('fitc');
+  img.classList.remove('fitc','fitw'); img.parentElement.classList.remove('wide-bg');
   img.onload=()=>fitCheck(img);
   img.onerror=()=>{img.replaceWith(Object.assign(document.createElement('div'),
     {className:'gal-ph',textContent:GAL.cat}));};

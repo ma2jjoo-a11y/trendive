@@ -1,126 +1,141 @@
 {
-  "updated_at": "2026-10-14 16:23",
+  "updated_at": "2026-10-15 08:38",
   "trends": [
     {
-      "title": "kbo mvp",
+      "title": "교통 사고",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EA%B5%90%ED%86%B5%20%EC%82%AC%EA%B3%A0"
+    },
+    {
+      "title": "킬리안 음바페",
       "traffic": 100,
-      "link": "https://www.google.com/search?q=kbo%20mvp"
+      "link": "https://www.google.com/search?q=%ED%82%AC%EB%A6%AC%EC%95%88%20%EC%9D%8C%EB%B0%94%ED%8E%98"
     },
     {
-      "title": "gs25",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=gs25"
-    },
-    {
-      "title": "패밀리 카",
+      "title": "의대생",
       "traffic": 2000,
-      "link": "https://www.google.com/search?q=%ED%8C%A8%EB%B0%80%EB%A6%AC%20%EC%B9%B4"
+      "link": "https://www.google.com/search?q=%EC%9D%98%EB%8C%80%EC%83%9D"
     },
     {
-      "title": "우선주",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%9A%B0%EC%84%A0%EC%A3%BC"
+      "title": "띠별 운세",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EB%9D%A0%EB%B3%84%20%EC%9A%B4%EC%84%B8"
     },
     {
-      "title": "sk 아이젠",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=sk%20%EC%95%84%EC%9D%B4%EC%A0%A0"
+      "title": "엘링 홀란",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%EC%97%98%EB%A7%81%20%ED%99%80%EB%9E%80"
     },
     {
-      "title": "하정우",
-      "traffic": 20000,
-      "link": "https://www.google.com/search?q=%ED%95%98%EC%A0%95%EC%9A%B0"
+      "title": "jtbc",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=jtbc"
     },
     {
-      "title": "정대세",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%A0%95%EB%8C%80%EC%84%B8"
-    },
-    {
-      "title": "킥보드",
+      "title": "로봇",
       "traffic": 2000,
-      "link": "https://www.google.com/search?q=%ED%82%A5%EB%B3%B4%EB%93%9C"
+      "link": "https://www.google.com/search?q=%EB%A1%9C%EB%B4%87"
+    },
+    {
+      "title": "코어위브",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EC%BD%94%EC%96%B4%EC%9C%84%EB%B8%8C"
     }
   ],
   "videos": [
     {
       "title": "TOM HOLLAND LAUGHING 😅🤣 #meme #funny #laugh #viralvideo #fyp #memes #tomholland",
       "channel": "Delwiche Eon",
-      "views": 28423613,
+      "views": 28696379,
       "link": "https://www.youtube.com/watch?v=k1dTG80x5y0"
-    },
-    {
-      "title": "Pringles Activated 😂",
-      "channel": "Cigbock",
-      "views": 13815919,
-      "link": "https://www.youtube.com/watch?v=R1AtlCArKrE"
     },
     {
       "title": "요즘 난리 난 댄스 챌린지! 그녀의 춤 레벨은? 👀",
       "channel": "민서율 seoyool",
-      "views": 11348999,
+      "views": 13995785,
       "link": "https://www.youtube.com/watch?v=yfOdkZFwB4Q"
+    },
+    {
+      "title": "Pringles Activated 😂",
+      "channel": "Cigbock",
+      "views": 13863969,
+      "link": "https://www.youtube.com/watch?v=R1AtlCArKrE"
     },
     {
       "title": "I'm slowly becoming a dumbass #viral #trending #meme #funny #contentcreator",
       "channel": "gningbo",
-      "views": 6151229,
+      "views": 6353726,
       "link": "https://www.youtube.com/watch?v=TqtxNDPn9Sc"
     },
     {
       "title": "asked bro and gf to send $500 meme #memes #shorts",
       "channel": "Kryon",
-      "views": 6012937,
+      "views": 6022061,
       "link": "https://www.youtube.com/watch?v=JQDgaefAXUo"
     },
     {
       "title": "Reverse Engineering Games #ai #meme #comedy #gaming #mod",
       "channel": "Jaden Williams",
-      "views": 5827363,
+      "views": 5897743,
       "link": "https://www.youtube.com/watch?v=4ZnfU3_sErw"
     },
     {
       "title": "제이홉X정국 레전드 챌린지의 탄생?!",
       "channel": "대파민",
-      "views": 5647438,
+      "views": 5759495,
       "link": "https://www.youtube.com/watch?v=5DioI3JOTgk"
     },
     {
-      "title": "Não sei não, mae! @thalita_augusto_reserva_ . . . . . . #memesdaily #meme #viralreels",
-      "channel": "Ana Clara Augusto",
-      "views": 5193161,
-      "link": "https://www.youtube.com/watch?v=cYoyQrxoil8"
+      "title": "Ohio Final Boss VS Bayashi & Sigma 😱🔥 | Ultimate Meme Battle #shorts #huggywuggy #bayashi #viral",
+      "channel": "worldvsreal",
+      "views": 4379632,
+      "link": "https://www.youtube.com/watch?v=n7hBgyvhuP4"
     }
   ],
   "news": [
     {
-      "title": "다이닛, 성수에 첫 플래그십 매장…브랜드 정체성 집약",
-      "link": "https://biz.heraldcorp.com/article/10902650?ref=naver",
+      "title": "신세계백화점, 日 시부야서 K브랜드 팝업…식품·생활 분야 확대",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=322282",
       "source": "네이버뉴스"
     },
     {
-      "title": "기내 향부터 TWG 차까지…싱가포르항공, 더현대 서울서 오감 체험 팝업...",
-      "link": "https://www.ekn.kr/web/view.php?key=20261014028476214",
+      "title": "라 바닐, '스킨 바닐라' 헤어 3종 선보여… 15일부터 성수 팝업스토어 오...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247691",
       "source": "네이버뉴스"
     },
     {
-      "title": "‘쥬얼스타 캐치! 티니핑’ 팝업스토어, 15일부터 전국 7개 점포 순회",
-      "link": "https://www.donga.com/news/Economy/article/all/20261014/134841360/1",
+      "title": "지그재그, 성수 팝업 '지그재그 익스프레스' 16일 오픈",
+      "link": "https://www.news1.kr/industry/distribution/6320566",
       "source": "네이버뉴스"
     },
     {
-      "title": "음악 듣고 공연 예매·굿즈 구매까지…카카오, K팝 팬덤 묶는다",
-      "link": "https://www.news1.kr/it-science/internet-platform/6319781",
+      "title": "지그재그, 오프라인 고객 접점 확대…성수 팝업에 50개 쇼핑몰",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495399",
       "source": "네이버뉴스"
     },
     {
-      "title": "넥센타이어, 겨울철 대비 구매 프로모션·마곡 팝업스토어 운영",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=883523",
+      "title": "지그재그, 16일부터 성수동서 팝업스토어…쇼핑몰 50곳 참여",
+      "link": "https://www.yna.co.kr/view/AKR20261014142400030?input=1195m",
       "source": "네이버뉴스"
     },
     {
-      "title": "신세계백화점, 센텀시티 남성관 새단장···부산 첫 입점 브랜드 확대",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=263611",
+      "title": "르꼬끄, '노바 플러스 헤비 다운' 출시…킥플립 캠페인 공개",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495394",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "르꼬끄, 경량 소재 적용한 '노바 플러스 헤비 다운' 출시",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=20261015075312416346a9e4dd7f_30",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "소니, 산리오 손잡고 헬로키티 한정판 컬렉션 공개",
+      "link": "https://sports.khan.co.kr/article/202610150258003?pt=nv",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "또봉이통닭, 컴투스 '아이모'와 첫 게임 협업…신메뉴 '맵치킹' 인게임...",
+      "link": "https://www.mt.co.kr/industry/2026/10/14/2026101216033715356",
       "source": "네이버뉴스"
     },
     {
@@ -136,21 +151,6 @@
     {
       "title": "센슬, 퍼글러 협업 제품 무신사 뷰티 단독 론칭",
       "link": "https://www.slist.kr/news/articleView.html?idxno=773398",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "센슬, 글로벌 캐릭터 ‘퍼글러’와 한정판 기획세트 출시",
-      "link": "https://zdnet.co.kr/view/?no=20261014153036",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "오하입, 무신사 단독 퍼글러 에디션 출시…“헤어팩에 퍼글러 신상 키링...",
-      "link": "http://www.segyebiz.com/newsView/20261014516341?OutUrl=naver",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "오하입, 헤어팩에 베이비 퍼글러 키링 쏙···무신사 단독 에디션 출시",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=55277",
       "source": "네이버뉴스"
     }
   ]

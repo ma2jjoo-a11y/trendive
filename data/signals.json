@@ -1,106 +1,136 @@
 {
-  "updated_at": "2026-10-17 08:14",
+  "updated_at": "2026-10-18 07:51",
   "trends": [
     {
-      "title": "백악관 대변인",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EB%B0%B1%EC%95%85%EA%B4%80%20%EB%8C%80%EB%B3%80%EC%9D%B8"
+      "title": "날씨",
+      "traffic": 100000,
+      "link": "https://www.google.com/search?q=%EB%82%A0%EC%94%A8"
     },
     {
-      "title": "베트남 축구 국가대표팀",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EB%B2%A0%ED%8A%B8%EB%82%A8%20%EC%B6%95%EA%B5%AC%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%ED%8C%80"
-    },
-    {
-      "title": "삼전 닉스",
+      "title": "손흥민",
       "traffic": 2000,
-      "link": "https://www.google.com/search?q=%EC%82%BC%EC%A0%84%20%EB%8B%89%EC%8A%A4"
+      "link": "https://www.google.com/search?q=%EC%86%90%ED%9D%A5%EB%AF%BC"
     },
     {
-      "title": "홍윤화",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%ED%99%8D%EC%9C%A4%ED%99%94"
+      "title": "weather",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=weather"
     },
     {
-      "title": "심형탁",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%8B%AC%ED%98%95%ED%83%81"
+      "title": "thời tiết",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=th%E1%BB%9Di%20ti%E1%BA%BFt"
     },
     {
-      "title": "kia 타이거즈",
+      "title": "天气",
       "traffic": 1000,
-      "link": "https://www.google.com/search?q=kia%20%ED%83%80%EC%9D%B4%EA%B1%B0%EC%A6%88"
+      "link": "https://www.google.com/search?q=%E5%A4%A9%E6%B0%94"
     },
     {
-      "title": "류필립",
+      "title": "적금",
+      "traffic": 500,
+      "link": "https://www.google.com/search?q=%EC%A0%81%EA%B8%88"
+    },
+    {
+      "title": "프랑스 시위",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%EB%A5%98%ED%95%84%EB%A6%BD"
+      "link": "https://www.google.com/search?q=%ED%94%84%EB%9E%91%EC%8A%A4%20%EC%8B%9C%EC%9C%84"
     },
     {
-      "title": "장인화",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%B8%ED%99%94"
+      "title": "부동산",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EB%B6%80%EB%8F%99%EC%82%B0"
     }
   ],
   "videos": [
     {
       "title": "요즘 난리 난 댄스 챌린지! 그녀의 춤 레벨은? 👀",
       "channel": "민서율 seoyool",
-      "views": 23199936,
+      "views": 24110015,
       "link": "https://www.youtube.com/watch?v=yfOdkZFwB4Q"
+    },
+    {
+      "title": "Clapping Cat meme Speedrun",
+      "channel": "Anatoxich",
+      "views": 20231059,
+      "link": "https://www.youtube.com/watch?v=U1WiczmQUsA"
     },
     {
       "title": "Coke & Pepsi Employees Are Switching Sides 💀",
       "channel": "Memeolazy",
-      "views": 19005676,
+      "views": 19154598,
       "link": "https://www.youtube.com/watch?v=CG4k7elvvcw"
-    },
-    {
-      "title": "Only Five of Those Are Sugar",
-      "channel": "Martin Comics",
-      "views": 18133876,
-      "link": "https://www.youtube.com/watch?v=tQh5uIa5oXo"
     },
     {
       "title": "Cat Clapping Hand Verity Meme",
       "channel": "GTD Show",
-      "views": 17297956,
+      "views": 17861954,
       "link": "https://www.youtube.com/watch?v=zdjoVVDd4ho"
     },
     {
-      "title": "Pepsi Started It, Coke Finished It 🥤",
-      "channel": "Yndrix",
-      "views": 12881339,
-      "link": "https://www.youtube.com/watch?v=YtlH9xXaduI"
-    },
-    {
-      "title": "khi thằng cốt mukbang kiểu 💀 #memes #mukbang #capcut #meme #xuhuongyoutube",
-      "channel": "boku su shi samurai japan 🇯🇵",
-      "views": 12720676,
-      "link": "https://www.youtube.com/watch?v=k4vlMMvBcr4"
+      "title": "holding the door till the end 💀",
+      "channel": "Memeit",
+      "views": 13435151,
+      "link": "https://www.youtube.com/watch?v=QJBopqQoaHk"
     },
     {
       "title": "One in a million moment 🤯🍀",
       "channel": "MemeCore69",
-      "views": 11967863,
+      "views": 13298817,
       "link": "https://www.youtube.com/watch?v=8YYvytgNf-0"
     },
     {
-      "title": "TOP 5 Meme Kucing Hitam, Agak Janggal 😭🗿",
-      "channel": "Oreo Deoo",
-      "views": 11233501,
-      "link": "https://www.youtube.com/watch?v=Qupr0ndJN7A"
+      "title": "khi thằng cốt mukbang kiểu 💀 #memes #mukbang #capcut #meme #xuhuongyoutube",
+      "channel": "boku su shi samurai japan 🇯🇵",
+      "views": 13038723,
+      "link": "https://www.youtube.com/watch?v=k4vlMMvBcr4"
+    },
+    {
+      "title": "언니와 댄스 챌린지! 아무도 예상 못 한 마지막 반전ㅋㅋ 😂",
+      "channel": "민서율 seoyool",
+      "views": 11919056,
+      "link": "https://www.youtube.com/watch?v=ntA5CdR2vDw"
     }
   ],
   "news": [
     {
-      "title": "식품기업, 축제∙전시∙팝업에 브랜드 체험 콘텐츠 결합",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189413",
+      "title": "QWER, 데뷔 3주년 팝업까지…투어·팬 소통 병행 행보",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16250357",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "딱 하루 남았다! 싱가포르항공 더현대 서울 팝업 지금이라도 가야 하는...",
+      "link": "https://www.travie.com/news/articleView.html?idxno=56103",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "‘인스타 브랜드’ 찾아 키운다…키즈 플랫폼이 신생 브랜드에 꽂힌 이...",
+      "link": "https://economist.co.kr/article/view/ecn202610140014",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "한국마사회, 말마프렌즈 스토어 팝업 확대…경주마 굿즈 완판 행진",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=315988",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "한국마사회, 경주마 굿즈로 MZ 지갑 노린다…지역 팝업까지 확대",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065620753055173",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "[신한카드] 아이폰18 구매 캐시백 / ECO Plan 박보검 콜라보 에디션 / 컬...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337616",
       "source": "네이버뉴스"
     },
     {
       "title": "산리오부터 귀멸의 칼날까지…게임업계는 왜 日 IP에 빠졌나",
       "link": "https://www.asiatime.co.kr/article/20261016500134",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "무신사 스탠다드, 롯데百 창원 매장→라부르켓X센트, 사우나 팝업 오픈",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=774102",
       "source": "네이버뉴스"
     },
     {
@@ -114,16 +144,6 @@
       "source": "네이버뉴스"
     },
     {
-      "title": "'O.O' 뮤비 속 도넛숍이 현실로... 랜디스도넛, 엔믹스 콜라보 매장 오픈",
-      "link": "https://www.insight.co.kr/news/578088",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "랜디스도넛, 엔믹스 미니 6집 발매 기념 콜라보…멤버 기획 도넛 6종 한...",
-      "link": "https://www.wikitree.co.kr/articles/1166835",
-      "source": "네이버뉴스"
-    },
-    {
       "title": "돈 쏟아부은 유명 브랜드가 위험하다?…AI 시대 뒤집힌 브랜딩 공식 보...",
       "link": "https://www.mk.co.kr/article/12178171",
       "source": "네이버뉴스"
@@ -131,26 +151,6 @@
     {
       "title": "명랑핫도그&떡볶이, 센텀점 즉석떡볶이 출시… 떡볶이 메뉴 경쟁력 강화",
       "link": "https://www.job-post.co.kr/news/articleView.html?idxno=232902",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "애경산업 에이지투웨니스, 대규모 옥외광고 캠페인 전개",
-      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7189305",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "애경산업, AGE20'S 리브랜딩 서울 전역 옥외광고 나서",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=554660",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "더플랜지, AI 캐릭터에 가르치며 영어 배운다 [서울AI허브 2027]",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172209",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "큰맘할매순대국, 토마토 더한 해장 메뉴 출시",
-      "link": "https://www.etnews.com/20261016000112",
       "source": "네이버뉴스"
     }
   ]

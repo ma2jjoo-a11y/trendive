@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-10-17T00:44:25Z",
+  "last_updated": "2026-10-18T00:13:58Z",
   "items": [
+    {
+      "id": "93c7674f",
+      "date": "2026-10-18",
+      "category": "📣 마케팅",
+      "title_ko": "광고 티 안 나는 바이럴, 비결은 '숨기기'가 아니라 '번역하기' — 현직 AE가 정리한 4가지 기준",
+      "summary_ko": "브랜드 메시지를 그대로 옮기면 콘텐츠는 금방 광고처럼 보인다. N년차 AE가 실무에서 검증한 바이럴 콘텐츠 제작 기준은 '정보를 숨기는 것'이 아니라 소비자가 말할 이유를 찾아 채널에 맞게 번역하는 것이다.",
+      "body_ko": "할인 행사, 신제품 출시처럼 브랜드가 전달하고 싶은 정보는 명확하지만, 소비자가 실제로 그 정보를 그대로 옮겨 말하는 경우는 드물다. 'Brand Say'가 제품의 기능과 특성을 설명한다면, 'People Say'는 그 제품이 필요한 상황과 지금 관심 가질 이유를 담는다. 예컨대 '여름철 산뜻하게 쓰기 좋은 바디워시'라는 브랜드 메시지는 '여름에 쓰기 좋은 인생 목욕템 추천.zip'이라는 소비자의 언어로 바뀔 때 비로소 콘텐츠가 된다.\n\n또 하나의 기준은 채널 맞춤 설계다. 블로그는 검색 기반이라 가격·구성·후기 같은 구체적 정보가 중요하고, 카페는 '써보신 분 있나요?' 식의 대화형 맥락이 어울리며, 인스타그램은 비주얼과 실제 사용 장면으로 직관적으로 보여주는 방식이 맞다. 하나의 메시지를 채널별로 길이만 조절해 복제하면, 말하는 주체가 여전히 브랜드이기 때문에 묘하게 광고처럼 느껴진다.\n\n세 번째는 메시지를 쪼개는 전략이다. 행사 기간, 할인율, 성분, 사용 상황 등 모든 정보를 한 콘텐츠에 담으면 '설명하는 글'이 된다. 대신 같은 프로모션을 가격형, 후기형, 정보형, 상황형처럼 3~4개 소재로 나눠 각기 다른 콘텐츠가 다른 역할을 맡게 하면, 여러 사람이 각자의 이유로 같은 브랜드를 이야기하는 인상을 만들 수 있다.\n\n마지막 기준은 '사람들이 굳이 볼 이유'다. #광고 표기가 명확해도 영화 러닝타임과 마스크팩 사용 시간을 연결하거나, 크리에이터 특유의 말투를 살리거나, 실제 고민에서 출발하는 식으로 정보·재미·공감 중 하나를 앞세우면 광고라는 사실 자체가 큰 장애물이 되지 않는다. 결국 바이럴 마케팅은 메시지를 숨기는 기술이 아니라, 브랜드가 하고 싶은 말을 소비자가 받아들일 수 있는 방식으로 번역하는 작업에 가깝다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/10/image8-1.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/10/image8-1.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/10/고구마팜바이럴-콘텐츠_261016.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/10/image-10.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/10/블로그-카페-인스타그램-예시-이미지-2048x999.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/10/image-11.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ed%98%84%ec%a7%81-ae%ea%b0%80-%ec%95%8c%eb%a0%a4%ec%a3%bc%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%9f%b4-%eb%a7%88%ec%bc%80%ed%8c%85-%eb%85%b8%ed%95%98%ec%9a%b0-%ea%b4%91%ea%b3%a0-%ed%8b%b0-%ec%95%88/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "바이럴마케팅",
+        "콘텐츠기획",
+        "AE",
+        "브랜드마케팅",
+        "Forment",
+        "포맨트",
+        "SNS마케팅"
+      ]
+    },
+    {
+      "id": "ca26992d",
+      "date": "2026-10-18",
+      "category": "🎯 브랜딩",
+      "title_ko": "사무라이와 삼바가 오븐에서 만나면 — 상파울루 베이커리 미라(Mirá)의 브랜딩",
+      "summary_ko": "브라질 상파울루의 아티저널 베이커리 미라(Mirá)는 일본식 발효 기법과 브라질 식재료를 결합한 곳이다. 리우데자네이루의 스튜디오 CRU(Estudio CRU)는 흔한 문화적 상징 대신, 빵 반죽처럼 유기적이고 불규칙한 형태로 두 문화의 만남을 표현한 아이덴티티를 완성했다.",
+      "body_ko": "미라(Mirá)는 일본의 발효 기법과 브라질의 식재료를 섞어 미소 꿀버터 토스트, 유자 미소를 곁들인 에다마메 피자, 코지로 발효한 크루아상 같은 메뉴를 선보이는 상파울루의 아티저널 베이커리다. 브라질에는 1908년 이민이 시작된 이래 일본계 인구가 200만 명 이상 거주하며, 이는 일본 밖 최대 규모의 일본인 디아스포라다. 이들은 현지 재료로 미소와 간장을 만들고 파파야·수박·차요테를 절이는 등 한 세기 넘게 두 문화를 섞어온 식문화를 만들어왔다.\n\n리우데자네이루의 스튜디오 CRU(Estudio CRU)는 이 브랜드를 테마 레스토랑처럼 보이지 않게 만드는 과제를 맡았다. 그래서 흔히 쓰이는 문화적 상징을 가져오는 대신, 빵이 구워지는 과정의 반복과 변주에서 영감을 얻어 유기적이고 유동적이며 의도적으로 불규칙한 형태를 아이덴티티의 축으로 삼았다. 같은 레시피로도 똑같은 빵이 두 개 나오지 않는 것처럼, 형태는 매체마다 조금씩 달라지면서도 미라(Mirá)만의 정체성을 유지한다.\n\n아이덴티티에 사용된 서체 니케이 마루(Nikkei Maru)는 아메리카 대륙 전역의 일본 이민자가 운영하던 상점·식당·호텔 간판 글씨에서 영감을 받았다. 일본어 텍스트는 이곳이 창작 베이커리임을 알리고, 큼직한 라틴 타이포그래피와 넉넉한 자간, 흙빛 색감이 현대적인 느낌을 더한다. 사진 작업은 빵 단면을 지질학적 단층처럼 클로즈업하고, 말차 거품기를 마치 고급 주얼리처럼 다뤄 디테일에 공을 들였다.\n\n문화 융합 브랜딩은 자칫 두 나라의 익숙한 상징을 나열하는 데 그치기 쉽지만, 미라(Mirá)는 세대를 거쳐 공유되고 변형돼온 기법과 재료, 전통 자체에서 더 깊은 이야기를 끌어냈다.",
+      "image_url": "https://bpando.org/wp-content/uploads/mira0-scaled-1.png",
+      "images": [
+        "https://bpando.org/wp-content/uploads/mira0-scaled-1.png",
+        "https://bpando.org/wp-content/uploads/mira0-scaled-copy1-1.png",
+        "https://bpando.org/wp-content/uploads/mira14.png",
+        "https://bpando.org/wp-content/uploads/mira18-scaled-1.png",
+        "https://bpando.org/wp-content/uploads/mira1.png"
+      ],
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/14/kneading-east-and-west/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Mirá",
+        "미라",
+        "Estudio CRU",
+        "스튜디오 CRU",
+        "베이커리 브랜딩",
+        "일본계 브라질",
+        "타이포그래피"
+      ]
+    },
+    {
+      "id": "2ca4d8a8",
+      "date": "2026-10-18",
+      "category": "🎨 디자인",
+      "title_ko": "박물관 사인도 '소프트웨어'처럼 — V&A 이스트 스토어하우스의 모노스페이스 길찾기",
+      "summary_ko": "Fieldwork Facility가 V&A 이스트 스토어하우스를 위해 선보인 웨이파인딩 시스템은 전광판처럼 글자를 교체할 수 있는 모듈형 구조다. 커머셜 타입이 제작한 커스텀 모노스페이스 서체 'Spiller Mono'를 기반으로, 박물관 사인을 코드 에디터처럼 읽히게 설계했다.",
+      "body_ko": "V&A 이스트 스토어하우스의 웨이파인딩은 박물관을 소프트웨어처럼 다룬다. Fieldwork Facility가 설계한 이 시스템은 저탄소 소재로 만들어졌으며, 언제든 업데이트 가능한 프로그래머블 구조를 전제로 한다. 서체는 V&A 브랜드 타이포그래피를 바탕으로 Commercial Type에 의뢰해 제작한 커스텀 모노스페이스 'Spiller Mono'다. 모노스페이스가 가진 초기 컴퓨터·코드 에디터의 기억을 건물의 고유한 언어로 치환한 것이다.\n\n글자는 출발 안내판처럼 섞이는 모듈형 타일 위에 놓인다. 한쪽 벽에는 노랑·분홍·초록 형광펜 바와 도트매트릭스 레일, 물리적 레터 타일이 뒤섞여 환영 메시지를 전하고, 다른 벽에는 플립보드 대문자로 \"WHAT WOULD YOU DO WITH THE V&A COLLECTION\"이라는 질문이 적혀 있다. 일반적인 박물관 그래픽과는 거리가 먼, 기계처럼 읽히는 타이포그래피다. 이 프로젝트는 Dezeen Awards 2026 지역 쇼케이스에도 선정됐다.\n\n모노스페이스 설정은 실질적인 시스템 작업이기도 하다. 고정폭 글자는 모든 메시지를 엄격한 그리드에 맞춰 타일링하기 때문에, 라벨과 안내 토템, 해설 패널이 개별 인쇄물이 아니라 서로 교체 가능한 부품처럼 조립된다. 안내 토템은 층수·목적지명·픽토그램을 코드 에디터 같은 밀도로 쌓아 올리고, 대형 페인트 숫자는 각 층을 글리프 크기의 랜드마크로 만든다.\n\n소재 접근 방식도 치밀하다. 사인 시스템은 저탄소·재활용 소재를 조합해 만들어졌고, 건물의 산업적 건축과 자연스럽게 어울리는 모듈 언어로 조립됐다. 모든 유닛은 해체를 염두에 두고 설계되어, 전시가 바뀔 때 부품을 깔끔히 분리해 재사용하거나 소재를 회수할 수 있다. 처음부터 업데이트와 재사용이 가능하도록 브리핑된 결과다. 제작은 Standard8이 맡았고, 인터프리테이션 하드웨어는 IDK와 Solved Workshop, 대형 활자 가이드는 Calverts Co-op, 타입 디자인은 Commercial Type이 담당했다. 크리에이티브 디렉션과 전략은 Robin Howie, 디자인은 Tilia Bertrand-Shelton, Imogen Ayres, Lan Lê가 맡았다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_75.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_75.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gal_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gal_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gal_3.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gal_4.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/fieldwork-facility-unveils-va-east-storehouse-wayfinding/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Fieldwork Facility",
+        "필드워크 퍼실리티",
+        "V&A",
+        "브이앤에이",
+        "웨이파인딩",
+        "Commercial Type",
+        "모노스페이스"
+      ]
+    },
     {
       "id": "b6f04d85",
       "date": "2026-10-17",

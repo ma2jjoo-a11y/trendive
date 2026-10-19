@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-10-18T00:13:58Z",
+  "last_updated": "2026-10-19T00:25:33Z",
   "items": [
+    {
+      "id": "32910280",
+      "date": "2026-10-19",
+      "category": "📣 마케팅",
+      "title_ko": "경기장 잔디를 스캔하니 쿠폰이 떴다 — 메르카도 리브레의 '필드 바코드'",
+      "summary_ko": "메르카도 리브레가 상파울루 파카엠부 경기장 잔디를 밝고 어두운 줄무늬로 깎아 거대한 바코드를 만들었다. 시청자가 중계 화면 속 잔디를 스캔하면 바로 할인 쿠폰을 받을 수 있었고, 이 캠페인은 올해 칸 라이언즈 옥외 부문 그랑프리를 수상했다.",
+      "body_ko": "메르카도 리브레는 2024년 상파울루 파카엠부 경기장의 네이밍 라이츠를 확보해 '메르카도 리브레 아레나 파카엠부'로 이름을 바꿨다. 여기까지는 흔한 스폰서십 사례지만, 이 캠페인이 특별한 지점은 따로 있었다. 코린치안스와 보카 주니어스의 경기에서 대행사 GUT 상파울루는 잔디를 밝은 줄과 어두운 줄로 번갈아 깎아 폭 104m짜리 바코드를 만들었다. 선수들은 평소처럼 그 위에서 뛰었고, 잔디는 경기면이라는 본래 기능을 잃지 않은 채 광고판이라는 두 번째 역할을 더 맡았다.\n\n이 아이디어의 핵심은 새로운 매체를 만든 게 아니라 이미 있던 자원의 속성을 발견했다는 점이다. 잔디는 깎는 방향에 따라 빛을 다르게 반사해 명암 차이를 만드는데, 이 원리를 활용해 바코드 패턴을 구현했다. 또한 공을 따라가는 시청자의 시선은 반드시 잔디를 지나가기 때문에, 펜스 광고와 달리 피할 수 없는 매체가 됐다. 바코드라는 기호 자체가 '스캔해보라'는 어포던스를 주기 때문에 별도 설명 없이도 시청자들은 자연스럽게 휴대폰을 들어 화면 속 잔디를 비췄다.\n\n기술적 과제도 있었다. 중계 카메라 각도가 계속 바뀌기 때문에 거의 모든 각도에서 일부만 잡혀도 스캔이 가능하도록 설계해야 했고, 실제로는 전용 웹앱을 거쳐야 하는 번거로움도 있었다. 그럼에도 브랜드 발표 기준 쿠폰 5만 3천 건 이상 사용, 매출 150만 유로 이상이라는 성과를 냈다.\n\n이 사례가 주는 인사이트는 명확하다. 가장 좋은 자원은 이미 가진 자원이며, 그것을 조금만 수정해 두 번째 기능을 부여하는 접근이 새로운 매체를 만드는 것보다 효과적일 수 있다는 것이다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/upload-1791788011729_72dlmc.png",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/upload-1791788011729_72dlmc.png",
+        "https://somako.co.kr/wp-content/uploads/inline-1787673041961_bfp7zx.avif",
+        "https://somako.co.kr/wp-content/uploads/upload-1791787895653_hsbk4e.png",
+        "https://somako.co.kr/wp-content/uploads/stock-1791788129222_u799lp.jpg",
+        "https://somako.co.kr/wp-content/uploads/stock-1791788322337_2tajyg.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/field-barcode-visual-metaphor/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "MercadoLibre",
+        "메르카도리브레",
+        "CannesLions",
+        "칸라이언즈",
+        "앰비언트광고",
+        "네이밍라이츠",
+        "옥외광고"
+      ]
+    },
+    {
+      "id": "84f0c246",
+      "date": "2026-10-19",
+      "category": "🎯 브랜딩",
+      "title_ko": "아이스티+레모네이드에 위스키 한 잔 — 개츠비 시대로 떠나는 RTD 칵테일",
+      "summary_ko": "RTD 브랜드 Snazzy가 아놀드 파머(아이스티+레모네이드)에 위스키, 보드카, 테킬라, 럼을 더한 칵테일 라인업을 선보였다. 디자인 스튜디오 Thirst가 1920년대 아르데코 건축과 위대한 개츠비의 샴페인 가득한 세계관을 패키지에 입혔다.",
+      "body_ko": "Snazzy는 미국의 클래식 음료 아놀드 파머에서 영감을 얻었다. 아이스티와 레모네이드를 섞은 익숙한 조합에 위스키, 보드카, 테킬라, 럼을 더해 전혀 새로운 RTD 칵테일 라인업으로 재탄생시켰다.\n\n디자인은 Thirst가 맡았다. 1920년대 아르데코 건축의 기하학적 구조와 위대한 개츠비의 샴페인 가득한 재즈 시대 세계관을 패키지 전면에 끌어왔다. 금속 골드 라인이 캔과 카턴 표면에 부채꼴로 퍼지며 화려한 재즈 시대 무도회장 입구를 연상시킨다.\n\n길게 늘어진 블랙 워드마크는 마지막 글자에 마티니 잔 모양을 녹여 넣어 브랜드명 자체가 칵테일을 암시하도록 설계했다. 장식적 과잉을 적극적으로 받아들인 맥시멀리즘 디자인으로, RTD 제품을 화려한 밤 외출에 어울리는 아이템처럼 보이게 만들었다.",
+      "image_url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/SNAZ-KV-1-Large-11ef92c9a97b41e60262d2313dd0e549.jpeg?w=1280&quality=70&ssl=1",
+      "images": [
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/SNAZ-KV-1-Large-11ef92c9a97b41e60262d2313dd0e549.jpeg?w=1280&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/photocraft-masks.jpg?w=2400&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Pringles-Urn-Hero-scaled.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/1-19.png?w=1920&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Banam_11.jpg?w=1920&quality=70&ssl=1"
+      ],
+      "source": "Dieline",
+      "url": "https://thedieline.com/thirst-gives-snazzy-cocktails-the-gatsby-treatment/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Snazzy",
+        "스내지",
+        "Thirst",
+        "RTD",
+        "패키지디자인",
+        "ArtDeco",
+        "아르데코"
+      ]
+    },
+    {
+      "id": "5b1c08bd",
+      "date": "2026-10-19",
+      "category": "🎨 디자인",
+      "title_ko": "렌초 피아노 미술관에 피터 춤토르가 답하다 — 바이엘러 재단의 ‘뉴 앙상블’",
+      "summary_ko": "스위스 바이엘러 재단 미술관이 개관 30주년을 앞두고 피터 춤토르의 설계로 확장 개관한다. 1997년 렌초 피아노가 세운 원형 미술관의 철학을 이어받아, 와이스 뮤지엄·암만 파빌리온·토어하우스 세 건물과 정원을 하나의 풍경으로 엮었다.",
+      "body_ko": "바이엘러 재단 미술관은 1997년 렌초 피아노의 설계로 스위스 리헨에 문을 연 이래, 예술과 건축, 자연의 조화를 지켜온 공간이다. 2016년 11개 건축팀이 참여한 설계 공모에서 피터 춤토르의 안이 만장일치로 선정되며 확장 프로젝트가 시작됐고, 그는 하나의 거대한 증축 대신 서로 다른 물성과 기능을 지닌 세 개의 건물을 풍경 속에 흩어 배치하는 방식을 택했다.\n\n새로 들어선 와이스 뮤지엄은 1,500㎡ 규모의 전시 공간으로, 오래된 은행나무와 세쿼이아, 플라타너스를 보존하기 위해 평면을 Y자로 설계했다. 현지에서 조달한 쥐라 석회암을 벤치와 계단, 바닥, 벽에 각기 다른 질감으로 변주해 사용하며 장소성을 건축에 새겼다. 반면 유리와 나무로 가볍게 지어진 암만 파빌리온은 낮에는 라운지로, 저녁에는 콘서트와 토크, 상영회가 열리는 복합 문화 공간으로 쓰인다. 작품 반입과 업무를 담당하는 토어하우스는 목조 프레임에 착색 참나무 외관을 둘러 지역 농업 건축의 정서를 담았다.\n\n확장은 건물에 그치지 않는다. 2015년 확보한 사유 정원 ‘에를렌가르텐’에 춤토르가 설계한 다리를 놓아 기존 바이엘러 파크와 연결하면서 공원 면적이 거의 두 배로 늘었다. 기존 건물들도 함께 재단장돼, 암만 아틀리에는 교육 스튜디오와 음악 살롱으로, 오랑주리는 디자이너 인디아 마다비의 손을 거쳐 온실 겸 식물 상점으로 바뀌었다.\n\n렌초 피아노가 빛과 시선으로 미술관과 자연의 경계를 열었다면, 춤토르는 나무와 돌이라는 장소의 물성으로 그 관계를 다시 썼다. 서로 다른 시대의 건축이 하나의 풍경 안에서 만나는 이 프로젝트를 재단은 ‘뉴 앙상블’이라 부르며, 프리뷰는 2026년 9월 26일부터 2027년 1월 14일까지 진행된다.",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfMjEy/MDAxNzkyMDU1ODY0MDcz.yGMA10ECAd2hHUVnlxDObvQ-yKOb__WdGMLFKEDN4OUg.tHl99XNu64D4_wmFKUSNYiYgmLSRUnkxbfKN--xJM-sg.JPEG/01.jpg?type=w966",
+      "images": [
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfMjEy/MDAxNzkyMDU1ODY0MDcz.yGMA10ECAd2hHUVnlxDObvQ-yKOb__WdGMLFKEDN4OUg.tHl99XNu64D4_wmFKUSNYiYgmLSRUnkxbfKN--xJM-sg.JPEG/01.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfNTQg/MDAxNzkyMDU1ODc0NTgz.zi0g4pAJdsLegJKOWpisRRWpMxkrBsEdpCjvs7ndCqkg.jQjzEAJxZfWuxKuRGiQoWu5ogWGjQwHXMLxpa3spvtUg.JPEG/02.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfOTUg/MDAxNzkyMDU1ODc3MTgy.FqhUnrYm_SBTdrGnPWYOk12470RKGEZ-wgRAlzCZxccg.M9VzLqjiwwafmSDPLLC8ihfyvpA_ZqFvXMXZ2IlngJwg.JPEG/03.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfMjEx/MDAxNzkyMDU1ODgwODI2.ERv13TQCLudcjxKqQ56DtVGMFNvdYCKKh-ZXfVNZSmEg.I0dNoowKLlN9Tk6peRgiwNsWXGIUo9Qj4-_dN-DSCQ8g.JPEG/04.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTVfMjk0/MDAxNzkyMDU1OTE1MjMx.asVs2dFaG_f3uqi1B5Ux9zzpksWso5G3ikiunZF1XIog.fo_rzso-uALWZ36iaCZe6zP-Is5ETGDdvfptY5eP5zUg.JPEG/06.jpg?type=w966"
+      ],
+      "source": "디자인프레스",
+      "url": "https://blog.naver.com/designpress2016/224442859969?fromRss=true&trackingCode=rss",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Fondation Beyeler",
+        "바이엘러재단미술관",
+        "Peter Zumthor",
+        "피터춤토르",
+        "Renzo Piano",
+        "미술관건축",
+        "뉴앙상블"
+      ]
+    },
     {
       "id": "93c7674f",
       "date": "2026-10-18",

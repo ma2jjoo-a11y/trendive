@@ -1,106 +1,116 @@
 {
-  "updated_at": "2026-10-25 07:51",
+  "updated_at": "2026-10-26 08:00",
   "trends": [
     {
-      "title": "박현호",
+      "title": "บาร์ซา พบ เรอัลมาดริด",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B8%B2%20%E0%B8%9E%E0%B8%9A%20%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%94"
+    },
+    {
+      "title": "lyon",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=lyon"
+    },
+    {
+      "title": "天气",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EB%B0%95%ED%98%84%ED%98%B8"
+      "link": "https://www.google.com/search?q=%E5%A4%A9%E6%B0%94"
+    },
+    {
+      "title": "이시영",
+      "traffic": 500,
+      "link": "https://www.google.com/search?q=%EC%9D%B4%EC%8B%9C%EC%98%81"
+    },
+    {
+      "title": "lcs",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=lcs"
+    },
+    {
+      "title": "barca",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=barca"
     },
     {
       "title": "이다해",
-      "traffic": 1000,
+      "traffic": 2000,
       "link": "https://www.google.com/search?q=%EC%9D%B4%EB%8B%A4%ED%95%B4"
     },
     {
-      "title": "메이저 리그 사커",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EB%A9%94%EC%9D%B4%EC%A0%80%20%EB%A6%AC%EA%B7%B8%20%EC%82%AC%EC%BB%A4"
-    },
-    {
-      "title": "대구날씨",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
-    },
-    {
-      "title": "이강인",
-      "traffic": 5000,
-      "link": "https://www.google.com/search?q=%EC%9D%B4%EA%B0%95%EC%9D%B8"
-    },
-    {
-      "title": "김장",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EA%B9%80%EC%9E%A5"
-    },
-    {
-      "title": "f1",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=f1"
-    },
-    {
-      "title": "삼성전자",
-      "traffic": 10000,
-      "link": "https://www.google.com/search?q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90"
+      "title": "손지창",
+      "traffic": 500,
+      "link": "https://www.google.com/search?q=%EC%86%90%EC%A7%80%EC%B0%BD"
     }
   ],
   "videos": [
     {
-      "title": "요즘 난리 난 댄스 챌린지! 그녀의 춤 레벨은? 👀",
-      "channel": "민서율 seoyool",
-      "views": 24536646,
-      "link": "https://www.youtube.com/watch?v=yfOdkZFwB4Q"
+      "title": "Mario vs Claw Machine 🤣 Animation Meme #funny #mario",
+      "channel": "Mario Friendly",
+      "views": 17020498,
+      "link": "https://www.youtube.com/watch?v=q3a19l0MMFo"
     },
     {
       "title": "Confieso que en esta ganó.  #memes #humor",
       "channel": "Pigeon Tube",
-      "views": 14903703,
+      "views": 15561465,
       "link": "https://www.youtube.com/watch?v=bZFaD9_allc"
     },
     {
       "title": "언니와 댄스 챌린지! 아무도 예상 못 한 마지막 반전ㅋㅋ 😂",
       "channel": "민서율 seoyool",
-      "views": 13409630,
+      "views": 13561302,
       "link": "https://www.youtube.com/watch?v=ntA5CdR2vDw"
     },
     {
-      "title": "It must have been a dog😭",
-      "channel": "memepples",
-      "views": 9361213,
-      "link": "https://www.youtube.com/watch?v=DLMzPGpfnOc"
+      "title": "Ranking Best Legendary Meme Recreations 😭",
+      "channel": "CallMeAlza",
+      "views": 10400582,
+      "link": "https://www.youtube.com/watch?v=xb2VxegHVwk"
+    },
+    {
+      "title": "Mario made the sausage blocks smaller 😂😂😂 Animation Meme #funny #mario",
+      "channel": "Mario Friendly",
+      "views": 9321558,
+      "link": "https://www.youtube.com/watch?v=Ydn1rvCz-20"
+    },
+    {
+      "title": "She Actually Said The Meme😭🙏 #roblox #rblx",
+      "channel": "CarlSpeaks",
+      "views": 9234655,
+      "link": "https://www.youtube.com/watch?v=mXn6pzA8QFo"
     },
     {
       "title": "Мама, ты зачем меня наказала?! Таба Лапка Мем песня в minecraft! 🤣",
       "channel": "ТИТМАУС",
-      "views": 7563850,
+      "views": 7703205,
       "link": "https://www.youtube.com/watch?v=R8zvDNjTanU"
     },
     {
-      "title": "Ranking Legendary Meme Recreations😭 #usa",
-      "channel": "Perry Ranker",
-      "views": 7384965,
-      "link": "https://www.youtube.com/watch?v=uV6tvOJXszc"
-    },
-    {
-      "title": "SIDEMEN £2,000 CAR CHALLENGE",
-      "channel": "Sidemen",
-      "views": 6780011,
-      "link": "https://www.youtube.com/watch?v=BhTqWKNO-aA"
-    },
-    {
-      "title": "Ultron did the “Same person btw” meme in real time 😭🥀 #visionquest #mcu #ultron #vision #memes #4k",
-      "channel": "Quirky Things",
-      "views": 6630937,
-      "link": "https://www.youtube.com/watch?v=Ub8eulghO4o"
+      "title": "My Senior Coworker Suddenly Crashed the Dance Challenge?! 😳 Cool (Hardtekk - Slowed)",
+      "channel": "다혜 dahye",
+      "views": 7485224,
+      "link": "https://www.youtube.com/watch?v=Mo4Gcc0vavA"
     }
   ],
   "news": [
     {
-      "title": "신세계, 내달 8일까지 '쓱데이'…최대 70% 할인부터 닌텐도 팝업",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=776107",
+      "title": "무신사 엠프티, 中슈즈 '다프네 랩' 국내 첫 팝업",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776267",
       "source": "네이버뉴스"
     },
     {
-      "title": "4주년 〈승리의여신: 니케〉 오프라인 출격, 용산·성수·킨텍스 달군다",
-      "link": "https://www.globale.co.kr/news/articleView.html?idxno=41206",
+      "title": "카스 '응원', 버드와이저 '춤'… 오비맥주, 브랜드별 이색 마케팅 선봬",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=424829",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "신세계百 강남점, 마블·포켓몬 굿즈 950종 '캐릭터 페스타'",
+      "link": "https://www.news1.kr/industry/distribution/6331142",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "롯데월드몰에 '롤 팬덤' 집결…페이커 기념우표·굿즈 170종 쏟아진다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052449",
       "source": "네이버뉴스"
     },
     {
@@ -114,13 +124,8 @@
       "source": "네이버뉴스"
     },
     {
-      "title": "[기획] 영화관엔 라면, 카페엔 누룽지?…식품업계 ‘선 넘는’ 콜라보 ...",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610220104",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "\"30초 만에 품절\" 방탄소년단 제이홉 x 니고 협업 에어포스1 출시되자마...",
-      "link": "https://www.starnewskorea.com/music/2026/10/23/2026102318123618767",
+      "title": "[지도 밖 전북] ⑥“이미 시작됐다”⋯전북 리브랜딩의 희망",
+      "link": "https://www.jjan.kr/article/20261025500150",
       "source": "네이버뉴스"
     },
     {
@@ -129,8 +134,8 @@
       "source": "네이버뉴스"
     },
     {
-      "title": "'쓱데이' 30일 개막...신세계 18개사, 시그니처 핫템·팝업 총출동",
-      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53937",
+      "title": "신세계百 강남점, 캐릭터 팝업…굿즈 950종 선보여",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776239",
       "source": "네이버뉴스"
     },
     {

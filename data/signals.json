@@ -1,151 +1,156 @@
 {
-  "updated_at": "2026-10-27 09:13",
+  "updated_at": "2026-10-28 09:14",
   "trends": [
     {
-      "title": "이지훈",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EC%9D%B4%EC%A7%80%ED%9B%88"
+      "title": "창신 메모리 테크놀로지",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EC%B0%BD%EC%8B%A0%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80"
     },
     {
-      "title": "연비",
+      "title": "공중강습",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%97%B0%EB%B9%84"
+      "link": "https://www.google.com/search?q=%EA%B3%B5%EC%A4%91%EA%B0%95%EC%8A%B5"
     },
     {
-      "title": "월즈 2026",
+      "title": "별자리",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%9B%94%EC%A6%88%202026"
+      "link": "https://www.google.com/search?q=%EB%B3%84%EC%9E%90%EB%A6%AC"
     },
     {
-      "title": "지게차",
+      "title": "허문회",
       "traffic": 100,
-      "link": "https://www.google.com/search?q=%EC%A7%80%EA%B2%8C%EC%B0%A8"
+      "link": "https://www.google.com/search?q=%ED%97%88%EB%AC%B8%ED%9A%8C"
     },
     {
-      "title": "psg vs olympique lyon standings",
+      "title": "신상진",
       "traffic": 100,
-      "link": "https://www.google.com/search?q=psg%20vs%20olympique%20lyon%20standings"
+      "link": "https://www.google.com/search?q=%EC%8B%A0%EC%83%81%EC%A7%84"
     },
     {
-      "title": "병역 기피",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EB%B3%91%EC%97%AD%20%EA%B8%B0%ED%94%BC"
+      "title": "브라질",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%EB%B8%8C%EB%9D%BC%EC%A7%88"
     },
     {
-      "title": "욕망의 덫",
+      "title": "하이닉스 실적발표",
+      "traffic": 20000,
+      "link": "https://www.google.com/search?q=%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%20%EC%8B%A4%EC%A0%81%EB%B0%9C%ED%91%9C"
+    },
+    {
+      "title": "묀헨글라트바흐 대 카를스루에",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%9A%95%EB%A7%9D%EC%9D%98%20%EB%8D%AB"
-    },
-    {
-      "title": "고현항",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%EA%B3%A0%ED%98%84%ED%95%AD"
+      "link": "https://www.google.com/search?q=%EB%AC%80%ED%97%A8%EA%B8%80%EB%9D%BC%ED%8A%B8%EB%B0%94%ED%9D%90%20%EB%8C%80%20%EC%B9%B4%EB%A5%BC%EC%8A%A4%EB%A3%A8%EC%97%90"
     }
   ],
   "videos": [
     {
+      "title": "Cool (That Or That) Viral Dance Challenge! What’s Her Dance Level? 👀",
+      "channel": "다혜 dahye",
+      "views": 32797953,
+      "link": "https://www.youtube.com/watch?v=OaTFbXRZSqs"
+    },
+    {
+      "title": "Tiktokification😭😭",
+      "channel": "memepples",
+      "views": 28912079,
+      "link": "https://www.youtube.com/watch?v=eDzCEJCGRCI"
+    },
+    {
       "title": "\"Bro Does NOT Jump To Conclusions\" 😭🥀",
       "channel": "SERGEANT",
-      "views": 18418250,
+      "views": 18623270,
       "link": "https://www.youtube.com/watch?v=c631g_JK10k"
     },
     {
-      "title": "Mario vs Claw Machine 🤣 Animation Meme #funny #mario",
-      "channel": "Mario Friendly",
-      "views": 17077855,
-      "link": "https://www.youtube.com/watch?v=q3a19l0MMFo"
+      "title": "Ranking Best Recreation Memes",
+      "channel": "RankHive",
+      "views": 17379951,
+      "link": "https://www.youtube.com/watch?v=6BWqGnRUGjY"
     },
     {
       "title": "Confieso que en esta ganó.  #memes #humor",
       "channel": "Pigeon Tube",
-      "views": 16019877,
+      "views": 16244645,
       "link": "https://www.youtube.com/watch?v=bZFaD9_allc"
     },
     {
-      "title": "언니와 댄스 챌린지! 아무도 예상 못 한 마지막 반전ㅋㅋ 😂",
-      "channel": "민서율 seoyool",
-      "views": 13755759,
-      "link": "https://www.youtube.com/watch?v=ntA5CdR2vDw"
+      "title": "Wait for NEYMAR! 😱🔥🤣 Animation Meme #funny #mario",
+      "channel": "Mario Friendly",
+      "views": 12599840,
+      "link": "https://www.youtube.com/watch?v=NuJp_91PKCY"
     },
     {
       "title": "Ranking Best Legendary Meme Recreations 😭",
       "channel": "CallMeAlza",
-      "views": 10620100,
+      "views": 10752538,
       "link": "https://www.youtube.com/watch?v=xb2VxegHVwk"
     },
     {
       "title": "Ranking Best Recreation Memes",
       "channel": "Ranky",
-      "views": 8525765,
+      "views": 9782596,
       "link": "https://www.youtube.com/watch?v=twKq97EnLM8"
-    },
-    {
-      "title": "world's smallest violin (Meme Remix) #worldssmallestviolin #meme #remix #nevermute",
-      "channel": "+NEVERMUTE",
-      "views": 8309241,
-      "link": "https://www.youtube.com/watch?v=_nWahrFmF9A"
-    },
-    {
-      "title": "It's Hilarious That He Created The Famous Meme 💀😭",
-      "channel": "Jon Cuts",
-      "views": 8122636,
-      "link": "https://www.youtube.com/watch?v=ONfmDjRBmgE"
     }
   ],
   "news": [
     {
-      "title": "노브랜드 버거, 비빔밥 재해석한 신메뉴 출시…제주항공 협업 팝업",
-      "link": "https://www.fntimes.com/html/view.php?ud=202610270901524524923defd0cc_18",
+      "title": "써브웨이, 윤남노 셰프 협업 '램 컬렉션' 인기몰이",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776985",
       "source": "네이버뉴스"
     },
     {
-      "title": "[유통갤러리] 풀무원, 부드러운 식감의 프리미엄 ‘안심 돈카츠’ 출시",
-      "link": "https://theviewers.co.kr/View.aspx?No=4280175",
+      "title": "대한민국 대표 유모차 브랜드 리안, 기아 패밀리카와 만났다… 코엑스 ...",
+      "link": "https://kr.aving.net/news/articleView.html?idxno=1816257",
       "source": "네이버뉴스"
     },
     {
-      "title": "네이버, 인스파이어와 협업해 '네이버 아레나' 탄생 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61748",
+      "title": "프랭크버거, '진격의 거인' 2차 콜라보 시작",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215389",
       "source": "네이버뉴스"
     },
     {
-      "title": "베베더오리, 벤볼릭과 콜라보...\"차량용 방향제로 일상 속 캐릭터 경험...",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248460",
+      "title": "만화카페창업 벌툰 범계직영점, 대기업 콜라보 팝업존 오픈",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=324920",
       "source": "네이버뉴스"
     },
     {
-      "title": "LF 헤지스, '록키마운틴 페더베드'와 협업",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361252",
+      "title": "무신사, 오사카서 'K컬처' 체험 넓힌다…농심 이어 로헤커피와 콜라보",
+      "link": "https://www.theguru.co.kr/news/article.html?no=108859",
       "source": "네이버뉴스"
     },
     {
-      "title": "대웅제약, 6년 만에 '우루사' 신규 TV 온에어…배우 최대훈과 콜라보",
-      "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=213851",
+      "title": "한국재무설계협회, 리브랜딩 본격화...생애주기별 재무설계 알린다",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202610271714161280205868f676_30",
       "source": "네이버뉴스"
     },
     {
-      "title": "한국재무설계협회, 리브랜딩 홍보영상 공개…유튜브 이벤트 진행",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716119",
+      "title": "한국재무설계협회, 리브랜딩 영상 공개 기념 유튜브 이벤트 진행",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=150962",
       "source": "네이버뉴스"
     },
     {
-      "title": "\"백화점 1층이 키덜트 축제\"… 신세계百, 캐릭터 IP 매출 2배 급증",
-      "link": "http://www.economytalk.kr/news/articleView.html?idxno=424884",
+      "title": "한국재무설계협회, 리브랜딩 홍보 영상 공개",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=641114",
       "source": "네이버뉴스"
     },
     {
-      "title": "공차, 가을 신메뉴 '바이올렛 시리즈' 2종 출시",
-      "link": "http://www.beyondpost.co.kr/view.php?ud=20261027090239167646a9e4dd7f_30",
+      "title": "단양구경시장, 서울 동대문 패션상권과 특화 굿즈 개발·공동마케팅 업...",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917221",
       "source": "네이버뉴스"
     },
     {
-      "title": "\"이거 마시고 아스팔트 핥았다\"…온갖 밈 탄생한 캡틴큐 재출시, 추억의...",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=510048",
+      "title": "서울시, 경계선지능인 지원 네트워크 '밈넷' 발족‥일 경험·심리상담",
+      "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=234226",
       "source": "네이버뉴스"
     },
     {
-      "title": "굿즈 사러 해외여행을? 달라진 2027년 여행 트렌드 6",
-      "link": "https://www.harpersbazaar.co.kr/article/1912001",
+      "title": "롯데백화점, 부산에 540평 규모 첫 IP 전문관 조성…2030 팬덤 공략",
+      "link": "https://view.asiae.co.kr/article/2026102808515378231",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "삼성전자, 리센느와 ‘갤럭시 Z 폴드8’ 캠페인",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026102808260000938",
       "source": "네이버뉴스"
     }
   ]

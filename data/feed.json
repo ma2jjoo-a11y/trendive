@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-10-24T01:00:08Z",
+  "last_updated": "2026-11-01T01:24:31Z",
   "items": [
+    {
+      "id": "f06fac09",
+      "date": "2026-11-01",
+      "category": "📣 마케팅",
+      "title_ko": "신제품 성공률 20%의 벽 — AI 합성소비자가 NPD 앞단을 바꾼다",
+      "summary_ko": "소비재 신제품의 성공률은 20%를 넘기 어렵고, 특히 중견·중소기업 세 곳 중 두 곳은 단계별 소비자 검증 없이 신제품을 개발한다. 병목은 아이디어·컨셉을 만드는 초기 단계에 몰려 있는데, 이를 보완할 도구로 AI 합성소비자가 주목받고 있다.",
+      "body_ko": "신제품 개발(NPD)은 아이디어부터 출시까지 이어지는 전 과정으로, 로버트 쿠퍼 교수의 스테이지-게이트 시스템이 대표적인 방법론이다. 개발을 여러 단계로 나누고 단계 사이에 검증 관문을 둬, 가능성 낮은 후보는 일찍 걸러내고 될 만한 후보에 자원을 집중하는 구조다. 이 프로세스를 잘 운영하는 상위 기업의 신제품 성공률은 평균의 두 배인 40%에 달한다.\n\n하지만 오픈서베이가 신제품 담당자 250명을 조사한 결과, 단계별 소비자 검증 프로세스를 갖췄다는 응답은 대기업 62.5%, 중견·중소기업 33.7%에 그쳤다. 가장 큰 병목은 아이디어와 컨셉을 만드는 초기 단계로, 아이디어 생성은 내부 아이디에이션 세션(74%)과 담당자 개인의 고민(61.4%)에 의존하는 경우가 대부분이었다. 담당자들도 소비자 반응을 미리 테스트하기 어렵다(72%), 좋은 아이디어를 만들기 어렵다(50.8%)를 주요 애로사항으로 꼽았다.\n\n이 공백을 메울 방법으로 AI 합성소비자가 떠오르고 있다. 실제 사람의 행동 패턴과 선호를 시뮬레이션하는 AI 에이전트로, 1차 데이터에 기반할수록 실제 소비자 반응에 가까워진다. 인지도는 58.6%지만 실제 활용 경험은 7.4%에 불과해 아직 초기 단계지만, 이용 의향은 75%에 달했고 컨셉 개발·평가, 시장 기회 탐색, 아이디에이션 등 병목이 몰린 앞단에서 우선 활용하고 싶다는 응답이 많았다.\n\n오픈서베이는 이런 수요에 맞춰 식음료 신제품 개발 앞단을 위한 '푸드 컨셉 스튜디오'를 선보였다. 실제 취식 기록 데이터인 푸드다이어리를 기반으로 수요를 예측하고 아이디어를 제안하며, 합성소비자가 아이디어별 구매 가능성과 세그먼트별 반응을 평가하고 인터뷰까지 진행한다. 최종 아이디어는 컨셉보드로 자동 생성되고, 확정된 컨셉은 실제 소비자 컨셉조사로 이어진다.",
+      "image_url": "https://i0.wp.com/blog.opensurvey.co.kr/wp-content/uploads/2026/10/NPD-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%86%8C%EB%B9%84%EC%9E%90-%EC%A1%B0%EC%82%AC%402x.png?w=2100&ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.opensurvey.co.kr/wp-content/uploads/2026/10/NPD-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%86%8C%EB%B9%84%EC%9E%90-%EC%A1%B0%EC%82%AC%402x.png?w=2100&ssl=1",
+        "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_conceptstudio_blog_research_tips_01.png"
+      ],
+      "source": "오픈서베이",
+      "url": "https://blog.opensurvey.co.kr/research-tips/npd-process-consumer-research/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "NPD",
+        "신제품개발",
+        "AI합성소비자",
+        "오픈서베이",
+        "OpenSurvey",
+        "컨셉테스트",
+        "소비자조사"
+      ]
+    },
+    {
+      "id": "f82324be",
+      "date": "2026-11-01",
+      "category": "🎯 브랜딩",
+      "title_ko": "스튜디오 생일선물이 이 정도? — Luminous Design, 포트폴리오 대신 '박스'를 보냈다",
+      "summary_ko": "창립 25주년을 맞은 디자인 스튜디오 Luminous Design이 자료집 대신 손으로 빚은 검은 도자기 4점을 만들어 보냈다. 거울 같은 은색 박스에 담아낸 이 선물은, AI가 포트폴리오를 대체하는 시대에 '느리고 촉각적인' 관계 맺기가 왜 여전히 힘이 있는지를 보여준다.",
+      "body_ko": "럭셔리 리지드박스 시장은 2026년 85억 달러 규모로 성장할 전망이다(Persistence Market Research). Luminous Design은 이 성장세가 왜 당연한지를 자사 25주년 기념 프로젝트 '1ST25Y'로 직접 증명했다. 스튜디오는 고객에게 흔한 기념 리포트나 디지털 포트폴리오 대신, 손으로 빚은 검은 도자기 용기 4점을 한정 제작했다.\n\n각 용기에는 피카소가 발로리스에서 도자기에 그렸던 선 드로잉을 연상시키는, 자신의 몸을 끌어안은 듯한 인물이 느슨한 흰 선으로 그려져 있다. 이를 담은 거울 같은 은색 박스는 박물관 수장고에서 막 꺼낸 아카이브 상자를 연상케 한다. 손잡이 컷아웃, 측면에 음각된 'ES1ST25Y' 타이포, 그리고 안에 든 도자기의 실루엣을 정확히 따낸 매트 블랙 배지까지 디테일이 살아 있다.\n\n스튜디오가 클라이언트에게 쏟는 정성을 스스로에게도 똑같이 쏟았다는 점이 인상적이다. 이는 실물 포트폴리오의 귀환을 알리는 신호이기도 하다. 지금 에이전시들은 AI 손쉬운 대안 앞에서 자신의 가치를 증명하려 애쓰고 있는데, 이렇게 느리고 촉각적이며 개인적인 선물을 보내는 것 자체가 Luminous가 앞으로 25년을 더 이어갈 관계를 진심으로 쌓고 있다는 증거다.",
+      "image_url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/544e2d255410271.6a9fd63b48ec9.jpg.webp?w=2400&quality=65&ssl=1",
+      "images": [
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/544e2d255410271.6a9fd63b48ec9.jpg.webp?w=2400&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/10_PW-eb562f41e2183f6f8977ce387dc426a6-scaled-1.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-8.06.58-AM-1.png?w=1792&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Cheerios-with-Ziploc-PantrySeal-1-scaled.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Clean-Cult-castile-soap-line-scaled.jpg?w=2560&quality=70&ssl=1"
+      ],
+      "source": "Dieline",
+      "url": "https://thedieline.com/luminous-designs-25th-anniversary-gift-makes-the-case-for-the-physical-portfolio/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Luminous Design",
+        "루미너스디자인",
+        "패키지디자인",
+        "리지드박스",
+        "스튜디오브랜딩",
+        "아카이브디자인"
+      ]
+    },
+    {
+      "id": "dbe83140",
+      "date": "2026-11-01",
+      "category": "🎨 디자인",
+      "title_ko": "73년 전 그 부두, 포르쉐가 다시 찾은 이유 — 미션 S가 그리는 스포츠카의 미래",
+      "summary_ko": "포르쉐가 뉴욕 퀸즈의 한 부두에서 비전 콘셉트 '미션 S'를 세계 최초 공개했다. 1953년 550 스파이더가 처음 사진 찍힌 바로 그 장소로, 브랜드 헤리티지를 미래 디자인 전략의 기반으로 삼겠다는 선언이다. 911 위에 영구적으로 자리할 새로운 미드엔진 슈퍼 스포츠카 플랫폼의 시작점이라는 점도 주목할 만하다.",
+      "body_ko": "포르쉐가 10월 15일, 고성능 스포츠카의 미래를 담은 비전 콘셉트 '미션 S'를 세계 최초로 공개했다. 이는 포르쉐의 중장기 브랜드 전략 '스포츠바겐슈미데 35'의 첫 신호탄으로, 911 라인업 상위에 위치하며 정규 라인업에 영구적으로 추가될 새로운 미드엔진 플랫폼의 기준을 제시한다. 공개 장소는 뉴욕 퀸즈의 한 부두였는데, 1953년 포르쉐 최초의 미드엔진 모델 '550 스파이더'의 첫 사진이 촬영된 바로 그곳이다. 73년 만에 같은 장소를 다시 찾은 것은 브랜드 헤리티지가 미래 디자인 전략의 핵심 기반임을 보여주기 위해서다.\n\n디자인은 스타일 포르쉐를 이끄는 토비아스 쉴만 부사장이 진정성, 일관성, 영원성이라는 세 가지 전략 축으로 완성했다. 둥근 헤드라이트와 볼륨감 있는 펜더는 911의 얼굴을, 패널 틈새선은 클래식 G-모델을, 낮게 깔린 전면부는 GT1을, 루프라인은 959의 실루엣을 계승했다. 엔진 냉각 구조는 레이싱카 917에서, 휠 디자인은 1970~80년대 928에서 모티프를 가져오는 등 차체 전반에 브랜드 유산이 녹아들었다.\n\n실내는 1950년대 550 스파이더와 356의 미니멀리즘으로 회귀한 것이 특징이다. 고정식 중앙 디스플레이와 조수석 화면을 과감히 없애고, 필요할 때만 펼쳐지는 자석식 스마트폰 거치 시스템으로 대체했다. 운전석은 스티어링 휠을 쥔 운전자 시선에 맞춘 '드라이버 액시스' 개념을 따르며, 포르쉐 상징인 5개의 원형 계기판이 아날로그와 디지털을 결합해 재설계됐다.\n\n마이클 라이터스 포르쉐 AG 이사회 회장은 미션 S가 일회성 하이퍼카가 아닌 정규 고객 판매 라인업에 영구적으로 추가될 모델이라고 밝혔다. 소수를 위한 한정 생산 모델이 아니라, 모터스포츠에서 입증된 엔지니어링을 제품군 전반으로 확장하겠다는 전략적 선언인 셈이다.",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjUg/MDAxNzkzMTcyNjI0ODQ2.3P2Xe3rNdxxnkGzzd1IzxEk7BCkUALGGL89w6gnsb6gg.jDEOmFBV5HoS9HIhK1VjfwzD5pW60O3z--fwuWOHDSAg.JPEG/img_6.jpg?type=w966",
+      "images": [
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjUg/MDAxNzkzMTcyNjI0ODQ2.3P2Xe3rNdxxnkGzzd1IzxEk7BCkUALGGL89w6gnsb6gg.jDEOmFBV5HoS9HIhK1VjfwzD5pW60O3z--fwuWOHDSAg.JPEG/img_6.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjk3/MDAxNzkzMTcyNjI0OTcx.XzHm15yA9h_6rUTY8RSIJX-dh-N9P_LJKlhglgE5jfkg.jJe4gDJX2kXvPyu77xCHPNIbE7jxgU5St_22_q1KjZMg.JPEG/img_5.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfODIg/MDAxNzkzMTc0NzU5NjMz.nUYc-9lUSHrfmtCHeqHF7A_gKQD6-5s2XNns87yGS-Yg.PNm9thv_K09Y6zGdnDd1X8oQh5HK6lQEh_Ywt0x6Vtkg.JPEG/img.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMTQ3/MDAxNzkzMTc0NzUwOTYy.-7aL-mstq1uRT2P1_MnT342Uy-CQNLP-LTiPSe0_Pacg.sZWD0OaF4Z9ImjpNaz1F-QuqLTCfygvFThtSIQpjhyog.JPEG/img_1.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMiAg/MDAxNzkzMTc0ODQzMTE2.huHGBP0u9cjF0mTW3k2e1rE_du47iqxYZqEFW-AJjwwg.tNAoxCLIUFeYpFYAXt71EzXzPyPI81fSxFu1hztrXrEg.JPEG/img_20.jpg?type=w966"
+      ],
+      "source": "디자인프레스",
+      "url": "https://blog.naver.com/designpress2016/224457790214?fromRss=true&trackingCode=rss",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Porsche",
+        "포르쉐",
+        "Mission S",
+        "미션S",
+        "자동차디자인",
+        "헤리티지마케팅",
+        "콘셉트카"
+      ]
+    },
     {
       "id": "e8c7919e",
       "date": "2026-10-24",

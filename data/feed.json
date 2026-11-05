@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-04T02:38:48Z",
+  "last_updated": "2026-11-05T02:42:53Z",
   "items": [
+    {
+      "id": "2df5047e",
+      "date": "2026-11-05",
+      "category": "📣 마케팅",
+      "title_ko": "검색의 화폐가 바뀌었다 — 클릭 대신 'AI 인용'",
+      "summary_ko": "네이버 AI 브리핑이 검색 결과 최상단을 차지하면서 노출의 기준이 클릭에서 'AI가 얼마나 인용하는가'로 옮겨가고 있다. 네이버는 AI 브리핑에 광고를 붙이고 인용 횟수로 창작자를 지원하는 '네이버 메이트'까지 운영하며 이 변화를 수익모델로 연결하고 있다. 브랜드 입장에서는 이제 검색 광고 입찰이 아니라, AI가 신뢰할 만한 '남의 입'과 '사실 기반 정보'를 얼마나 쌓는지가 새로운 경쟁력이 됐다.",
+      "body_ko": "2025년 3월 등장한 네이버 AI 브리핑은 그해 말 전체 검색의 약 20%에 적용됐고, 올해 말까지 두 배 수준으로 확대될 예정이다. 월 3,000만 명 넘게 이 화면을 보고 있으며, 그 결과 네이버의 상반기 검색 점유율은 64.28%로 최근 몇 년 중 가장 높았다. 네이버는 올해 4월 생성형 검색 '큐:'를 접고 AI 브리핑에 힘을 모았고, 7월부터는 AI 브리핑에도 광고를 붙이기 시작했다. 이 광고는 기존 검색광고를 대체하는 게 아니라 그동안 광고가 붙지 않던 정보성 검색어에 새 지면을 만드는 것이며, 구매 전환율이 3배 이상 높았다고 밝혔다.\n\n답을 만드는 재료에도 값이 매겨지기 시작했다. 올해 6월 시작한 '네이버 메이트'는 AI 브리핑 인용 횟수를 기준으로 매달 약 3,000명의 창작자에게 지원금을 준다. 기본 월 30만 원부터 최상위 창작자는 월 1,000만 원까지, 연간 규모는 약 200억 원이다. 조회수나 클릭이 아닌 'AI가 인용한 횟수'가 가치를 재는 기준이 된 것이다. 해외 분석에서도 AI 요약이 뜨는 검색에서는 링크 클릭이 줄었지만, 요약 속에 이름이 오른 브랜드는 오히려 클릭이 늘었다는 결과가 나왔다.\n\n브랜드가 당장 할 수 있는 일은 세 가지로 요약된다. 먼저 고객이 실제로 던질 법한 질문 목록을 추천형·비교형·문제해결형으로 10개 안팎 만들고, 이를 네이버 AI 브리핑·AI탭·ChatGPT·제미나이에 똑같이 던져 결과를 표로 기록한다. 둘째, AI는 브랜드 스스로의 말보다 리뷰·블로그·기사 같은 '남의 입'을 더 신뢰하므로 후기 요청 방식을 구체적인 질문으로 바꾸고, 담당자가 리뷰에 답글을 달거나 고객사 인터뷰를 공개하는 식으로 믿을 만한 목소리를 늘려야 한다. 셋째, '업계 최고 수준'보다 '평일 오후 2시 전 주문 시 당일 도착'처럼 숫자와 기준이 담긴 사실을 적어야 AI가 그대로 인용할 수 있다. 실제 연구에 따르면 통계와 출처를 보강한 콘텐츠는 AI 답변 속 가시성이 최대 40%까지 높아졌다.\n\n네이버는 AI 브리핑에 인용되기 좋은 글의 원칙으로 직접 경험한 지식, 일관된 주제, 진정성, 읽기 쉬운 구조, 최신성 유지를 꼽았다. 검색엔진 시대에는 키워드를 고르고 광고 자리를 사는 노력이 통했지만, AI가 답변 속에서 브랜드를 추천하는 일은 입찰가로 정해지지 않는다. AI 시대의 마케팅은 새로운 기술 경쟁이라기보다, 원래 해야 했던 일을 더 제대로 하는 쪽에 가까워지고 있다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/upload-1793627696718_nfjuki.png",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/upload-1793627696718_nfjuki.png",
+        "https://somako.co.kr/wp-content/uploads/inline-1793684013855_08d3yk.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1793626859297_p1batk.png",
+        "https://somako.co.kr/wp-content/uploads/stock-1793627024298_d65vqv.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1793627820136_6edd2r.png"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/naver-ai-briefing-citation-marketing/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "AI브리핑",
+        "Naver",
+        "네이버",
+        "검색마케팅",
+        "콘텐츠전략",
+        "ChatGPT",
+        "SEO"
+      ]
+    },
+    {
+      "id": "ede285ff",
+      "date": "2026-11-05",
+      "category": "🎯 브랜딩",
+      "title_ko": "와인 라벨, 이제는 '조용한 자신감'이 이긴다",
+      "summary_ko": "스페인 최고 등급 DOQ를 받은 프리오라트 와이너리 Manel이 라벨을 전면 개편했다. 화려한 장식 대신 타자기체 텍스트와 양각 로고만 남긴 미니멀 디자인으로, 가까이 다가가야 디테일이 보이는 '조용한 자신감'을 택했다.",
+      "body_ko": "Celler Hidalgo Albert가 스튜디오 Atipus에 Manel 라벨 리뉴얼을 의뢰했다. 프리오라트는 리오하와 함께 스페인에서 단 두 곳뿐인 최고 등급 DOQ 지역이라 실수가 허용되지 않는 작업이었다. Atipus는 와이너리 고유의 심볼을 유지하되, 두꺼운 텍스처 종이에 블라인드 엠보싱으로 처리해 멀리서는 거의 보이지 않게 만들었다.\n\n나머지 요소는 모두 걷어냈다. 라벨에는 카탈루냐어와 영어로 쓰인 타자기체 텍스트만 남았고, 가장자리는 손으로 찢은 듯한 톱니 모양으로 마감했다. 화이트 라벨에 레드 왁스 봉인을 더한 구성은 장식 없이도 고급스러움을 전달한다.\n\n이런 디자인은 디테일이 멀리서는 보이지 않고 가까이 다가가야만 드러난다는 점이 특징이다. 소비자가 라벨에 몸을 기울여 자세히 들여다보게 만드는 것 자체가 하나의 전략으로, 최근 와인 패키징에서 과시 대신 절제를 택하는 흐름과 맞닿아 있다.",
+      "image_url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/1900x1070-1-34d29ab00d14a8265f029c2f19e65cea.jpg?w=1900&quality=70&ssl=1",
+      "images": [
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/1900x1070-1-34d29ab00d14a8265f029c2f19e65cea.jpg?w=1900&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/10_PW-eb562f41e2183f6f8977ce387dc426a6-scaled-1.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Cheerios-with-Ziploc-PantrySeal-1-scaled.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/1793275180738.jpeg?w=2048&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/Newsroom_20261022_BLACKLABELBACONPORTIONPACKS2.jpg?w=1110&quality=70&ssl=1"
+      ],
+      "source": "Dieline",
+      "url": "https://thedieline.com/are-the-most-confident-wine-labels-getting-quieter/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Atipus",
+        "아티푸스",
+        "Manel",
+        "마넬",
+        "Priorat",
+        "프리오라트",
+        "와인라벨디자인"
+      ]
+    },
+    {
+      "id": "7b8f0966",
+      "date": "2026-11-05",
+      "category": "🎨 디자인",
+      "title_ko": "'불복종'을 주제로 도시 전체가 전시장이 된다 — 2026 캔버라 공예·디자인 페스티벌",
+      "summary_ko": "호주 캔버라에서 열리는 〈2026 Craft + Design Canberra Festival〉이 'Dissent(불복종)'를 주제로 11월 5일부터 15일까지 비엔날레 형식으로 열린다. 500명 이상의 창작자와 130개 이상의 프로그램이 도시 곳곳에서 진행되며, 기후 위기와 사회적 불평등에 질문을 던지는 디자인의 역할을 조명한다.",
+      "body_ko": "호주 수도 캔버라에서 열리는 〈2026 Craft + Design Canberra Festival〉의 주제는 'Dissent'다. 반대나 이견을 뜻하는 이 단어는 이번 행사에서 기존의 사회적 관습과 환경 문제에 질문을 던지고 다른 가능성을 상상하는 창작의 태도를 가리킨다. 지난해 연중 운영되던 오픈 스튜디오 중심 방식과 달리, 올해는 11월 5일부터 15일까지 하나의 주제로 도시 전체를 연결하는 비엔날레 형식으로 바뀌었다. 500명 이상의 예술가, 제작자, 디자이너, 퍼포머가 참여해 전시, 디자인 마켓, 오픈 스튜디오, 공공미술, 공연, 심포지엄, 워크숍 등 130개 이상의 프로그램을 선보인다.\n\n주제를 가장 직접적으로 다루는 프로그램은 11월 6일 호주 국립 영상 음향 보관소에서 열리는 심포지엄 'Dissent by Design'이다. 창작자와 디자이너, 활동가가 모여 기후 위기와 사회적 불평등, 지속 불가능한 시스템에 대응하는 창작의 역할을 논의하며, 퍼스트 네이션스 출신 디자이너 앨리슨 페이지는 정체성과 공동체의 관계를 디자인 관점에서 다룬다.\n\n전시장 밖 도시 공간도 중요한 무대다. 'Signs of Dissent | Graphic Interventions'는 11월 5일부터 12월 6일까지 캔버라 곳곳에서 그래픽 설치 작업을 통해 익숙한 도시 공간을 새롭게 바라보게 한다. 호주국립식물원에서 열리는 'Revitrification'은 버려진 건축용 유리를 조형물로 재구성해 폐기물의 새로운 활용 가능성을 탐구하며, 거리와 정원 같은 일상 공간에서 디자인의 사회적·환경적 역할을 직접 경험하게 한다.",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfNCAg/MDAxNzkzNjY4MTM2NDkx.dBDK-iDvPW-hQwaeWBY2kpifcCJfJMZIH-DkaQuUCR8g.EieAVBX8Fe57wezZFItAQK8ADamfQBDkUoDH5o_d7-Mg.JPEG/1.jpg?type=w966",
+      "images": [
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfNCAg/MDAxNzkzNjY4MTM2NDkx.dBDK-iDvPW-hQwaeWBY2kpifcCJfJMZIH-DkaQuUCR8g.EieAVBX8Fe57wezZFItAQK8ADamfQBDkUoDH5o_d7-Mg.JPEG/1.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfMTA1/MDAxNzkzNjcwNzM0Nzk3.hJtcNEc9PUXY_upFyV4bBdAnEXN9r8_IjY-Mxj61pAwg.IcwKYc1J7_4Wmjzfcf1pz-0_org0Fjx_rJtexnJQwxkg.JPEG/5.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfODAg/MDAxNzkzNjcwNTQzODAy.nLs5hiMpMMHyY6_ePhgRmfzasapS03UzShwFWNU2FK0g.z6l8V4GirrzBDkcTw7A1RwBP5kR-0Llo8wBsW7-zdKgg.JPEG/9.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfNzAg/MDAxNzkzNjcwNDUyMjA5.R6zDM-UALcsYPy_PHF26j8jEpMaxGSLtAwawHzENhZgg.Q_FawjoxgqbVuEZycjPy8gAO-auZZt7YWiDmVoR9wv4g.JPEG/11.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDNfMjY5/MDAxNzkzNjY4MzA0NjY1.TWfQQDx5XCsLZnCcBLukX-46wYsvn__JEK9_wmbqE9og.hMcB9ys9lRgwykO-kIhnnoMNKxfxau2RoIYXmcIdl3gg.JPEG/2.jpg?type=w966"
+      ],
+      "source": "디자인프레스",
+      "url": "https://blog.naver.com/designpress2016/224464716443?fromRss=true&trackingCode=rss",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Craft+DesignCanberraFestival",
+        "캔버라디자인페스티벌",
+        "Dissent",
+        "공공미술",
+        "지속가능디자인",
+        "AlisonPage",
+        "앨리슨페이지"
+      ]
+    },
     {
       "id": "eccf6177",
       "date": "2026-11-04",

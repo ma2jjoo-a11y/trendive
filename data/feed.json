@@ -1,6 +1,94 @@
 {
-  "last_updated": "2026-11-07T02:18:05Z",
+  "last_updated": "2026-11-08T01:45:53Z",
   "items": [
+    {
+      "id": "d9974cbb",
+      "date": "2026-11-08",
+      "category": "📣 마케팅",
+      "title_ko": "명동·강남은 지났다 — 외국인 관광객은 지금 남대문시장·성수동으로 간다",
+      "summary_ko": "서울 골목상권의 외국인 카드 소비액이 1년 새 80% 넘게 뛰었다. 남대문시장에서는 때타월·목욕바구니 같은 생활잡화가 SNS를 타고 인기 쇼핑 아이템이 됐고, 성수동은 외국인 소비 증가율 1위 관광지로 올라섰다.",
+      "body_ko": "서울시 관광·소비 동향에 따르면 올해 1~9월 골목상권의 외국인 카드 소비액은 3,082억원으로 전년 동기 대비 80.5% 늘었다. 특히 남대문시장 자유상가 일대의 외국인 매출은 95억원에서 157억원으로 65.6% 급증하며 전체 매출 중 외국인 비중이 9.4%에서 14.4%로 뛰었다. 스카프, 때타월, 목욕 바구니 같은 평범한 생활용품이 SNS를 통해 입소문을 타면서 외국인 관광객과 젊은 층 사이의 인기 상품으로 떠올랐다는 점이 눈에 띈다.\n\n서울시와 중구는 지난해 11월 남대문시장 중심가에 한옥 처마를 형상화한 '디자인 아케이드'를 설치했고, 숭례문·남산과 연결하는 보행로를 조성하는 '남대문시장 일대 혁신 프로젝트'도 진행 중이다. 그 결과 올해 1~8월 주말·공휴일 카드 결제 건수는 20대 이하 44%, 30대 53% 증가했고, 외국인 하루 평균 유동 인구도 전년보다 9.9% 늘었다.\n\n성수동은 공공 인프라와 민간 투자가 맞물려 성장한 대표 사례로 꼽힌다. 2005년 서울숲 개원, 2010년 성수IT산업개발진흥지구 지정 이후 공장·창고가 카페와 문화공간으로 바뀌고 팝업스토어가 몰리면서, 올해 1~9월 외국인 카드 소비액은 2,638억원으로 전년 대비 2배(100.6%) 뛰어 서울 주요 관광지 중 가장 높은 증가율을 기록했다.\n\n익선동·서순라길 등 종로3가 일대도 한옥과 공방, 포장마차가 어우러진 분위기로 영국 매체 '타임아웃'이 선정한 '2026 세계에서 가장 멋진 동네' 1위에 오르며 주목받았다. 서울시는 이 같은 흐름을 이어가기 위해 야간 먹거리·문화 콘텐츠를 결합한 '서울 달빛야장'을 현재 6곳에서 2028년까지 25곳으로 확대할 계획이다.",
+      "image_url": "https://img6.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110509460001300_P4.jpg",
+      "images": [
+        "https://img6.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110509460001300_P4.jpg",
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/목-13.png",
+        "https://img1.yna.co.kr/reporter/39373139393937_160753.jpg",
+        "https://img5.yna.co.kr/photo/yna/YH/2025/11/17/PYH2025111707850001300_P4.jpg",
+        "https://img8.yna.co.kr/photo/yna/YH/2026/08/07/PYH2026080706370001301_P4.jpg"
+      ],
+      "source": "고구마팜 · 연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261104152300004?input=1195m",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "남대문시장",
+        "성수동",
+        "서울관광",
+        "골목상권",
+        "전통시장",
+        "외국인관광객",
+        "로컬콘텐츠"
+      ],
+      "via": "https://gogumafarm.kr/%ec%98%a4%eb%8a%98%ec%9d%98-%eb%89%b4%ec%8a%a4%ed%81%b4%eb%a6%ac%ed%95%91%ea%b3%bc-%ec%bb%a4%eb%a8%b8%ec%8a%a4-%ed%8a%b8%eb%a0%8c%eb%93%9c-168/"
+    },
+    {
+      "id": "a99c8788",
+      "date": "2026-11-08",
+      "category": "🎯 브랜딩",
+      "title_ko": "리본 한 가닥이 로고가 되다 — 바르셀로나 카페 Julia의 손끝 브랜딩",
+      "summary_ko": "바르셀로나의 스페셜티 커피숍 Julia는 실제 리본을 손으로 꼬고 접어 로고를 만들었다. 선물을 포장할 때의 정성을 브랜드 경험에 그대로 옮긴 것으로, 디지털로는 흉내 낼 수 없는 손맛이 컵과 간판 곳곳에 남아있다.",
+      "body_ko": "바르셀로나의 작은 스페셜티 커피숍 Julia는 '리본'이라는 단순한 오브제에서 브랜드 전체를 길어냈다. 선물을 건넬 때 리본 하나를 더하면 그만큼의 정성이 느껴진다는 발상에서 출발해, 수제 음식과 디테일에 집중하는 매장의 정체성을 포장이라는 행위에 빗댄 것이다.\n\n로고는 실제 리본을 손으로 비틀고 접어 글자 모양을 만든 뒤 촬영해 완성했다. 컵에 인쇄된 로고를 가까이서 보면 리본이 접히며 생긴 주름과 그림자, 미세한 불규칙함이 그대로 드러난다. 디지털 드로잉 툴로는 설계할 수 없는, 재료 자체의 물성이 만들어낸 결과물이다.\n\n리본은 리본답게 비틀리고, 누르는 힘에 따라 주름이 생기며, 빛은 굴곡마다 다르게 반사된다. 그래서 같은 글자라도 매번 조금씩 다른 표정을 띤다. 이 단순한 아이디어는 로고에서 멈추지 않고 커피컵을 감싸는 형태로 이어지며, 선물을 주고받을 때의 감각을 커피 한 잔을 건네는 순간까지 확장시킨다.",
+      "image_url": "https://bpando.org/wp-content/uploads/julia-hey-ribbon-wordmark.jpg",
+      "images": [
+        "https://bpando.org/wp-content/uploads/julia-hey-ribbon-wordmark.jpg",
+        "https://bpando.org/wp-content/uploads/julia-hey-01.jpg",
+        "https://bpando.org/wp-content/uploads/julia-hey-02.jpg",
+        "https://bpando.org/wp-content/uploads/julia-hey-04.jpg",
+        "https://bpando.org/wp-content/uploads/julia-hey-03.jpg"
+      ],
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/04/tied-with-care/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Julia",
+        "줄리아",
+        "BP&O",
+        "리본로고",
+        "핸드메이드브랜딩",
+        "카페브랜딩",
+        "바르셀로나"
+      ]
+    },
+    {
+      "id": "9a6aee72",
+      "date": "2026-11-08",
+      "category": "🎨 디자인",
+      "title_ko": "페이지 한가운데를 가르는 선 하나 — 논플레이스를 다루는 잡지의 편집 디자인",
+      "summary_ko": "이탈리아 저널 Nea Magazine Issue N.3가 마르크 오제의 '비장소' 개념을 다루며, 그리드 선·녹색 잉크·투박한 종이를 이용한 편집 디자인으로 주목받고 있다. Studio Gabriele Colia가 디렉팅한 이 호는 사진과 글을 짝지은 다섯 개 챕터로 구성됐다.",
+      "body_ko": "Nea Magazine Issue N.3의 12-13페이지 스프레드 한가운데는 얇은 검은 선이 양면을 정확히 이등분한다. 왼쪽 페이지의 노을빛 사진과 오른쪽 페이지의 세리프체 제목 'CIVIL WAR'는 이 선을 피하지 않고 그대로 가로지른다. Studio Gabriele Colia가 디렉션하고 편집장 Riccardo S. D'Ercole, 포토 에디터 Nicola Colia가 참여한 이번 호는 이탈리아·미국·독일·네덜란드·팔레스타인 다섯 지역의 사진 시리즈와 이를 바탕으로 쓰인 미발표 글 다섯 편을 짝지었다. 주제는 마르크 오제가 1992년 제시한 '비장소(non-places)' 개념으로, 고정된 정체성이 흐려지는 익명의 통과 공간을 탐구한다.\n\n목차 스프레드에서는 세로선이 바깥쪽 여백으로 이동해 작은 판권면과 ISBN 바코드를 다섯 개의 큰 세리프 챕터 제목과 분리시킨다. D'Ercole가 쓴 4페이지짜리 서문에서는 검은 잉크 대신 선명한 녹색 잉크를 사용했다. 1970년 롤랑 바르트의 인용구 아래, 이탈리아어 산세리프 문단과 영어 모노스페이스 슬랩체 문단이 예측 가능한 좌우 대역 구조 없이 자유롭게 자리를 바꾸고, 양쪽을 가로지르는 이탈리아어 전폭 캡션이 중간중간 삽입된다. 10-11페이지에서는 같은 녹색 잉크가 점선 그리드 위에 펼쳐져, 책등 접힘을 가로지르는 가는 삼각형이 RITRATTO와 VOCE, IMPERMANENZA를 연결한다.\n\n종이 선택과 잉크 비침 효과가 이 디자인 논리를 완성한다. 26×18센티미터 크기의 104페이지 책은 무광의 120그램 Fedrigoni Arena Rough 내지를 따뜻한 갈색 250그램 Fedrigoni Materica 표지로 감쌌으며, 표지 하단에는 큼직한 녹색 NEA 글자가 찍혀 있다. 속표지를 넘기면 완전히 비어 있는 갈색 보드가 흰색 NONLUOGHI 타이틀 페이지와 마주한다. 손으로 꿰맨 실 제본 덕분에 책등이 평평하게 펼쳐져 접힘 부분의 다이어그램이 눌리지 않는다. 종이는 불투명하지도 않다. Nicola Colia의 스튜디오 사진에서는 녹색 백라이트 위에 거친 질감의 120그램 종이를 올려, 뒤집힌 EDITORIALE 글자와 인접 이미지가 곡선형 CONCETTO와 IMMAGINE ACUSTICA 도표 뒤로 희미하게 비쳐 보이게 했다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/hero_nea-magazine-issue-n-3-editorial-studio-gabriele-colia.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_nea-magazine-issue-n-3-editorial-studio-gabriele-colia.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_nea-magazine-issue-n-3-editorial-studio-gabriele-colia_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_nea-magazine-issue-n-3-editorial-studio-gabriele-colia_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_nea-magazine-issue-n-3-editorial-studio-gabriele-colia_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_nea-magazine-issue-n-3-editorial-studio-gabriele-colia_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/editorial-design-nea-magazine-issue-n3-gabriele-colia/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Nea Magazine",
+        "네아매거진",
+        "Gabriele Colia",
+        "가브리엘레 콜리아",
+        "editorial design",
+        "에디토리얼디자인",
+        "Fedrigoni"
+      ]
+    },
     {
       "id": "78ce9666",
       "date": "2026-11-07",

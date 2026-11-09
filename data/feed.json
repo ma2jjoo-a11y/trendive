@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-11-08T01:45:53Z",
+  "last_updated": "2026-11-09T01:54:16Z",
   "items": [
+    {
+      "id": "59a4ac31",
+      "date": "2026-11-09",
+      "category": "📣 마케팅",
+      "title_ko": "2027 식품 트렌드, 그대로 베끼면 경쟁사와 똑같은 제품이 나온다",
+      "summary_ko": "2026년 10월 Whole Foods, Datassential, Innova가 발표한 2027 식품 트렌드 리포트는 세분화된 건강 기능, 익숙한 음식의 새 형태, 쓴맛·발효·아시아 음식(불닭, 막걸리, 김치)을 공통 키워드로 꼽았다. 문제는 이 키워드를 그대로 신제품에 옮기면 경쟁사도 같은 리포트를 보고 있다는 점이다. 이에 오픈서베이는 트렌드 키워드를 맛·원료·형태·섭취 상황·타깃으로 쪼개 조합하고, AI 합성소비자로 걸러내는 신제품 개발 방식을 제안한다.",
+      "body_ko": "2026년 10월, Whole Foods·Datassential·Innova 등 해외 리서치 기관과 유통사들이 2027 식품 트렌드 리포트를 잇달아 발표했다. 세 리포트가 공통으로 가리키는 방향은 혈당·장 건강·근육·피부 등으로 잘게 나뉜 건강 기능, 새로운 형태로 재해석된 익숙한 음식, 원산지와 원재료 구성을 따지는 소비자였다. 맛에서는 쓴맛과 발효, 그리고 불닭·막걸리·김치 같은 한국 음식이 눈에 띄는 키워드로 올랐다.\n\n문제는 이런 글로벌 트렌드 키워드를 그대로 신제품 기획에 가져다 쓰기 어렵다는 점이다. 시장 기준이 미국·글로벌 소비자이고, 같은 리포트를 본 경쟁사가 비슷한 시기에 비슷한 제품을 내놓을 수 있으며, 무엇보다 트렌드 문장은 방향만 제시할 뿐 어떤 원료·형태·상황·타깃으로 구체화할지는 알려주지 않는다.\n\n이 빈칸을 채우기 위해 오픈서베이는 트렌드 키워드 하나를 원료, 맛, 형태, 섭취 상황, 타깃 다섯 가지 속성으로 쪼개는 방식을 제안한다. 예컨대 Whole Foods가 꼽은 '쓴맛' 트렌드를 스낵 카테고리에 적용하면, 말차와 볶은 콩으로 만든 원재료 5개 이하의 바, 카카오닙스를 넣은 발효 크래커, 자몽 껍질의 쓴맛을 살린 단백질 젤리 같은 여러 제품 후보가 나온다. 다만 속성별 후보값이 조금만 늘어나도 조합의 수는 수백에서 수천 개로 불어나, 이를 전부 검토하거나 실제 소비자 조사로 평가하기는 현실적으로 어렵다.\n\n오픈서베이는 이 과정을 '푸드 컨셉 스튜디오'로 해결한다. 2016년 7월부터 쌓아온 전국 20~59세 소비자의 식생활 기록 데이터(푸드다이어리)를 기반으로 아이디어를 펼치고, AI 합성소비자가 유력 후보를 1차로 추려낸다. 식음료 아이디어 69개로 검증한 결과 합성소비자의 평가 순서는 실제 소비자 평가와 94.2% 일치했다. 다만 최종 출시 결정은 여전히 실제 소비자 컨셉조사와 제품 테스트를 거친다.",
+      "image_url": "https://i0.wp.com/blog.opensurvey.co.kr/wp-content/uploads/2026/11/trend-attribute-combination-wide.png?w=2100&ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.opensurvey.co.kr/wp-content/uploads/2026/11/trend-attribute-combination-wide.png?w=2100&ssl=1",
+        "https://blog.opensurvey.co.kr/wp-content/uploads/2026/11/26_conceptstudio_blog_research_tips_03.png"
+      ],
+      "source": "오픈서베이",
+      "url": "https://blog.opensurvey.co.kr/research-tips/food-trends-2027-new-product/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "FoodTrend",
+        "식품트렌드",
+        "오픈서베이",
+        "OpenSurvey",
+        "신제품개발",
+        "AI합성소비자",
+        "푸드다이어리"
+      ]
+    },
+    {
+      "id": "5ad1cbea",
+      "date": "2026-11-09",
+      "category": "🎯 브랜딩",
+      "title_ko": "브라질에서 꽃핀 일본의 커피 뿌리 — 카페 모리의 새 패키지",
+      "summary_ko": "1928년 파라나에 정착한 일본계 이민 가족의 이야기를 담은 브라질 커피 브랜드 카페 모리가 새 패키지 디자인을 선보였다. 굵은 레드 워드마크와 작은 상징 요소로 두 문화의 뿌리를 은근하게 녹여낸 점이 특징이다.",
+      "body_ko": "1908년부터 1924년 사이 약 3만5천 명의 일본인 이민자들이 커피 농장 노동을 위해 브라질로 건너갔다. 카페 모리는 그중 1928년 파라나 지역에 정착해 직접 커피를 재배하고 로스팅하기 시작한 한 가족의 역사에서 출발한 브랜드다. 디자인 스튜디오 Agarcía는 이 서사를 새 패키지에 담아냈다.\n\n패키지는 굵고 통통한 빨간색 워드마크와, 붉은 태양 아래 놓인 두 그루의 파란 소나무로 이루어진 작은 심벌을 중심으로 구성된다. 각 원산지별 패키지에는 원산지명과 재배 고도, 품종, 가공 방식, 생산자 정보 등이 담긴 컬러풀한 라벨이 클립으로 고정된 듯한 형태로 부착되어 있다.\n\n이번 디자인에서 인상적인 지점은 브랜드의 역사를 텍스트로 설명하지 않고, 작고 섬세한 디테일을 통해 자연스럽게 드러냈다는 점이다. 플랫한 빨강과 파랑 컷아웃으로 구성된 커피나무 일러스트는 일본 판화와 브라질 농장의 이미지가 하나로 融合된 듯한 인상을 준다. 설명적이지 않으면서도 브랜드의 이중적 정체성을 효과적으로 전달하는 방식이다.",
+      "image_url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/SnapInsta.to_817868436_18366744040243723_2492184025345035674_n.jpg?w=2304&quality=70&ssl=1",
+      "images": [
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/SnapInsta.to_817868436_18366744040243723_2492184025345035674_n.jpg?w=2304&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/magnific__enhance__246389_RE-scaled.png?w=2560&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/LUCKIES-SOCIAL-02.png?w=900&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/imgi_64_Wild-Lady_Portfolio-9%404x-2048x1152-1.jpg?w=2048&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/AdobeStock_334129978_Editorial_Use_Only-scaled.jpeg?w=2560&quality=70&ssl=1"
+      ],
+      "source": "Dieline",
+      "url": "https://thedieline.com/cafe-moris-new-coffee-bags-trace-its-roots-from-japan-to-brazil/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Café Mori",
+        "카페 모리",
+        "Agarcía",
+        "패키지디자인",
+        "커피브랜딩",
+        "원산지스토리텔링"
+      ]
+    },
+    {
+      "id": "246d061c",
+      "date": "2026-11-09",
+      "category": "🎨 디자인",
+      "title_ko": "민주주의도 디자인할 수 있을까 — 투표용지부터 의회 구조까지, 제도를 다시 그리는 전시",
+      "summary_ko": "벨기에 디자인 뮤지엄 헨트의 전시 〈퍼블릭 매터스: 디자인과 민주주의〉가 선거 시스템, 의회 건축, 저항 디자인, 시민 참여 프로세스를 통해 민주주의를 '디자인 가능한 시스템'으로 재해석한다. 2000년 미국 대선의 나비형 투표용지 논란부터 게리맨더링을 폭로한 서체 작업까지, 디자인이 정치 참여의 형태를 어떻게 좌우하는지 보여준다.",
+      "body_ko": "벨기에 디자인 뮤지엄 헨트가 선보이는 〈퍼블릭 매터스: 디자인과 민주주의〉는 민주주의를 완성된 정치 체제가 아니라 시민의 참여로 끊임없이 재구성되는 시스템으로 바라본다. 투표용지, 선거 포스터, 의회 건축 같은 익숙한 제도적 장치부터 시민의회, 사회운동, 생태민주주의까지 디자인이 민주주의를 구현하고 변화시키는 다양한 방식을 다룬다.\n\n전시는 2000년 미국 대선에서 논란이 된 플로리다주의 나비형 투표용지처럼, 사소해 보이는 시각적 구성이 유권자의 의사결정에 실질적 영향을 미친 사례로 이야기를 연다. 네덜란드 건축사무소 XML이 193개국 의회 구조를 원형·반원형·말굽형·대립형·교실형으로 분류한 연구는 공간 배치가 토론과 권력 관계를 어떻게 형성하는지 보여준다.\n\n배제의 역사도 디자인의 시선으로 짚는다. 선거구 조작 문제를 알파벳 형태로 시각화한 서체 '어글리 게리', 시각장애인이 스스로 기표할 수 있도록 고안된 투표 도구 '젤프스트베슈팀트', 반브렉시트 포스터 캠페인과 안면 인식을 교란하는 의복 '재머 코트' 등은 디자인이 저항과 권리 보호의 도구가 될 수 있음을 증명한다.\n\n전시는 대표자 선출을 넘어선 참여적 민주주의로 시선을 확장한다. 헨트 시민 40명이 참여한 패널 'DE40', 지역사회 수요를 조사해 자원으로 전환한 건축 프로젝트 '홀딩 패턴', 멸종 곤충을 소재로 생태민주주의를 환기하는 설치작 '엔토마리움 익스팅트'까지, 디자인이 누가 의사결정에 참여하고 어떤 목소리가 가시화될지를 좌우하는 영역임을 보여준다.",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfMTQ5/MDAxNzkzODY0MTcxNTQ2.IoVIN3PJnTLRomZINo0ST_QhvpXF-h3Z60TsB7WGo-Qg.-sIR7e-S_a4HSa5H7QB6mtbbbaDqboVo7yVGQIHtmVEg.JPEG/6.JPG?type=w966",
+      "images": [
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfMTQ5/MDAxNzkzODY0MTcxNTQ2.IoVIN3PJnTLRomZINo0ST_QhvpXF-h3Z60TsB7WGo-Qg.-sIR7e-S_a4HSa5H7QB6mtbbbaDqboVo7yVGQIHtmVEg.JPEG/6.JPG?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfNjkg/MDAxNzkzODY0MjA2Njkx.uqyW2C4jt8_ZF3HslIYUxg56TcIR-H9RxHbr76V8-eAg.yvw77ykgYjGHW5SxdGuraOXZs8IJw1hmjr4DbReFmI8g.PNG/12.png?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfODEg/MDAxNzkzODY0MTU5MzIz.UB635E6ZAYl4fL-YWjdHjQr-4OAVGu13sRVAhCkKyTwg.iavMJWi3H-HBZnbi8Xk72gMET59K-5ZYLH3Pgo57y9gg.JPEG/9.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfMjk4/MDAxNzkzODY0MzI2NTE3.iZFBdzIGBhfbq1ojzTb-r40NqssWQ2B-XDR_ZbGm5hog.1Y8McLtx8G-NcDLMDahr06I9ER0dwdq87sDuLWoI358g.JPEG/8.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDVfMjM0/MDAxNzkzODY0MTg3NjI2.rGU7LwXH_aALPDnEeunmYSHKP9k0rNpWWSkwd6ugGowg.L1eO6IvJtkHDB13Y9tl0nDJj8WvCmaOqnSNhoRQ7WaAg.JPEG/10.JPG?type=w966"
+      ],
+      "source": "디자인프레스",
+      "url": "https://blog.naver.com/designpress2016/224466142469?fromRss=true&trackingCode=rss",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Design Museum Gent",
+        "디자인뮤지엄헨트",
+        "Public Matters",
+        "민주주의디자인",
+        "전시기획",
+        "게리맨더링",
+        "참여디자인"
+      ]
+    },
     {
       "id": "d9974cbb",
       "date": "2026-11-08",

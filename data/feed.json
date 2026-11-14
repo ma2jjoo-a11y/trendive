@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-13T02:51:41Z",
+  "last_updated": "2026-11-14T02:39:11Z",
   "items": [
+    {
+      "id": "592940c1",
+      "date": "2026-11-14",
+      "category": "📣 마케팅",
+      "title_ko": "프롬프트 한 번, 6초 완성 — 클로드로 만드는 유튜브 범퍼 광고",
+      "summary_ko": "촬영도 편집 프로그램도 없이, 클로드 채팅에 프롬프트 한 번만 보내면 기획부터 렌더링·음악·효과음·검수까지 끝난 6초짜리 범퍼 광고 MP4가 나온다. 브랜드명과 메시지, 보여줄 장면 하나만 바꿔 넣으면 되는 구조라 누구나 10~20분 안에 결과물을 받아볼 수 있다.",
+      "body_ko": "범퍼 광고는 영상 앞뒤에 붙는 건너뛸 수 없는 최대 6초짜리 광고다. 이 영상을 클로드 채팅으로 만드는 방법이 공개됐다. 프롬프트는 세 부분으로 구성된다. 브랜드명·한 줄 메시지·보여줄 장면 하나·행동 유도 문구·브랜드 색·로고·화면 비율을 적는 '내 정보', 스타일별 장면 흐름을 짜는 '연출', 화면·글자·소리·검수 기준을 담은 '제작 규칙'이다. 사용자가 바꿀 곳은 '내 정보' 하나뿐이고, 나머지는 120BPM 음악의 12박에 맞춰 정확히 6초로 장면이 전환되도록 이미 설계돼 있다.\n\n스타일은 세 가지다. 친근하게 소개할 때 어울리는 '원테이크 모프'는 브랜드 색 공이 변신해 보여줄 장면이 되고 메시지가 단어별로 튀어 오른다. 강하게 각인시켜야 할 때는 '비트 드롭 키네틱'이 어울리는데, 큰 글자가 박자마다 화면에 박히다 음악이 터지는 순간 로고가 합쳐진다. 품격 있게 보여줘야 할 신제품·프리미엄 브랜드에는 어둠 속 빛줄기로 시작해 로고가 빛 입자로 완성되는 '시네마틱 리빌'이 맞는다. 같은 정보를 넣어도 스타일에 따라 전혀 다른 분위기의 영상이 나온다는 점이 핵심이다.\n\n여행 앱, 원두 구독 서비스, 회의록 자동 정리 서비스 등 여러 가상 브랜드로 테스트한 결과, 공이 변신하는 대상이나 빛이 비추는 대상, 배경색과 화면 방향이 입력 정보에 맞춰 자연스럽게 바뀌었다. 다만 클로드는 소리를 수치로만 검수할 뿐 직접 듣지 못하므로, 완성된 영상은 사람이 직접 청취하고 피드백을 주는 과정이 필요하다.\n\n구글이 제시한 범퍼 광고 제작 팁과 이번 테스트 경험을 더해 다섯 가지 원칙이 정리됐다. 메시지는 하나만 담을 것, 보여줄 장면은 구체적으로 그릴 수 있는 것 하나로 정할 것, 브랜드 신호는 첫 장면부터 줄 것, 마지막 메시지에는 2초 정도 머물 시간을 줄 것, 그리고 한 편이 아니라 여러 각도로 만든 시리즈로 접근할 것이다. 도구가 제작의 전 과정을 대신하는 시대일수록, 결국 사람이 정해야 할 것은 '어떤 장면과 어떤 한 문장을 남길 것인가'로 좁혀진다는 점이 강조됐다.",
+      "image_url": "https://somako.co.kr/wp-content/uploads/upload-1794548740539_2cfnbq.jpg",
+      "images": [
+        "https://somako.co.kr/wp-content/uploads/upload-1794548740539_2cfnbq.jpg",
+        "https://somako.co.kr/wp-content/uploads/inline-1794466313045_36bu8e-1.jpg",
+        "https://somako.co.kr/wp-content/uploads/inline-1794359000093_mwhun0-1.jpg",
+        "https://somako.co.kr/wp-content/uploads/upload-1794228365021_ibfh3g.jpg"
+      ],
+      "source": "소마코",
+      "url": "https://somako.co.kr/claude-6-second-bumper-ad-prompt/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Claude",
+        "클로드",
+        "범퍼광고",
+        "AI영상제작",
+        "프롬프트",
+        "마케팅자동화",
+        "유튜브광고"
+      ]
+    },
+    {
+      "id": "d879558e",
+      "date": "2026-11-14",
+      "category": "🎯 브랜딩",
+      "title_ko": "덴마크 국립미술관, 이름을 줄이고 태도는 키웠다 — Statens Museum for Kunst, 이제는 SMK",
+      "summary_ko": "덴마크 국립미술관이 길고 어려운 정식 명칭 대신 'SMK'라는 짧은 이름으로 리브랜딩했다. 코펜하겐 스튜디오 eTypes가 왕관 엠블럼, 프레임 장치, 강렬한 타이포그래피를 축으로 새 아이덴티티를 설계했다. 유서 깊은 국립 미술관답지 않은 과감한 컬러와 레이아웃이 화제다.",
+      "body_ko": "1896년 설립된 SMK(Statens Museum for Kunst, 덴마크 국립미술관)는 약 700년에 걸친 덴마크 및 국제 미술 컬렉션을 소장한 덴마크 최대 미술관이다. eTypes와는 10년 넘게 협업해온 관계로, 이번 2026년 리뉴얼은 기존 시스템을 확장하면서 외국인에게 발음하기 어려운 정식 명칭 대신 'SMK'라는 짧은 이름을 전면에 내세운 것이 핵심이다. eTypes는 네이밍뿐 아니라 비주얼 아이덴티티, 아트 디렉션, 캠페인 콘셉트, 사이니지, 디자인 템플릿까지 전 영역을 작업했다.\n\n새 아이덴티티는 왕관 엠블럼, 활용도 높은 프레임 장치, 그리고 새로운 타이포그래피 세 요소로 구성된다. 자매 파운드리 Playtype의 서체 Hill을 올캡, 두꺼운 웨이트로 사용해 전시 타이틀이 레이아웃 전체를 채우도록 쌓아 올리는 방식은, 격식 있는 국립 기관에서 기대하기 힘든 과감함을 보여준다. 워드마크 역시 같은 서체로 담백하게 구성되어 왕관 심벌과 함께 왕실 유산을 과장 없이 암시하면서도 미술 자체에 방점을 둔다.\n\n프레임 장치는 작품을 감싸는 두꺼운 테두리로 활용되는데, 색상과 각도, 크롭 방식이 캠페인마다 다르게 변주되며 때로는 건축적인 스케일로 확장되기도 한다. 산성 느낌의 옐로우, 비비드 레드, 브라이트 그린, 페일 터콰이즈 같은 과감한 컬러 팔레트가 블랙, 웜 오프화이트와 어우러지며 전시마다 각기 다른 인상을 주면서도 반복되는 프레임과 타이포그래피로 하나의 패밀리임을 분명히 한다.\n\n이는 수백 년 역사를 가진 기관이 반드시 절제되고 보수적인 미학을 택할 필요가 없음을 보여주는 사례로 평가된다. 스칸디나비아식 미니멀리즘과 애시드 하우스·레이브 신에 가까운 그래픽 감각을 동시에 담아내며, 수많은 전시와 캠페인에 걸쳐 유연하게 변주 가능한 '오너블한' 아이덴티티를 구축했다는 점이 주목받고 있다.",
+      "image_url": "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-logo-blue.jpeg",
+      "images": [
+        "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-logo-blue.jpeg",
+        "https://bpando.org/wp-content/uploads/statens-museum-kunst-SMK-eType-brand-identity-design-bpo-review-typography-digital-poster.png",
+        "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-typography.jpeg",
+        "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark.jpeg",
+        "https://bpando.org/wp-content/uploads/statens-museum-kunst-SMK-eType-brand-identity-design-bpo-review-typography-weights-tote.png"
+      ],
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/12/smk-statens-museum-for-kunst-etypes-brand-identity-design/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "SMK",
+        "에스엠케이",
+        "eTypes",
+        "이타입스",
+        "Playtype",
+        "플레이타입",
+        "미술관브랜딩",
+        "타이포그래피"
+      ]
+    },
+    {
+      "id": "f990c909",
+      "date": "2026-11-14",
+      "category": "🎨 디자인",
+      "title_ko": "비누 한 장을 위한 레터링 — 보이지 않게, 그러나 만져지게",
+      "summary_ko": "런던 비누 공방 Tula Louise가 독립 스튜디오 Twice Shy와 함께 브랜드 패키징을 전면 재설계했다. 핵심은 색을 직접 가리지 않는 반투명 소재와, 각진 다각형과 둥근 곡선을 짝지은 12개의 심볼 시스템이다.",
+      "body_ko": "코로나 시기 런던에서 점토, 숯, 인디고, 강황을 실험하며 시작된 Tula Louise는 그간 임시방편으로 만든 라벨들 때문에 브랜드 방향성이 흐려져 있었다. 매장 바이어들은 이 비누가 일반 욕실용품 코너의 제품들과 무엇이 다른지 구분하기 어려웠다. 독립 스튜디오 Twice Shy는 이 라벨을 '작동하는 비누 공방'의 언어로 재구성했고, 창립자 Jowanda Daley-Thomas와 함께 카탈로그를 재주문 가능한 코어 컬렉션과 실험적인 스튜디오 에디션으로 나눴다.\n\n옛 공방과 약재상의 태그를 참고해, 공동창립자 Jeroen van den Bogaert과 팀은 모든 장식을 걷어내고 12개의 이중선 블랙 아웃라인만 남겼다. 이 빈 프레임들은 텍스트를 받치는 배경이 아니라 그 자체로 아이덴티티를 전달한다. 규칙은 하나다. 각진 다각형은 항상 부드러운 곡선과 맞물려, 형태가 결코 날카롭게만 보이지 않도록 한다. 타원이 뾰족한 사각형을 관통하는 조합이 대표 로고가 되어, 우윳빛 도자기 그릇에 담긴 비누 위로 떠오른다. 다른 조합들은 최대 네 개의 도형을 수평 또는 수직으로 연결해 제품의 비율에 맞춘다. 워드마크는 Daniel Gremme의 Memoir 서체를 커스텀 커닝해 곡선 노치를 더했고, 본문은 Hanken Grotesk로 처리해 TL-02, TL-06 같은 비누 코드와 #706C7F, #9C484C 같은 색상 스와치 카드를 돌 색조 보드 위에 나란히 배치했다.\n\n색은 오직 비누 자체의 몫이다. BARA 같은 단품 패키지에서는 Daley-Thomas가 직접 반투명 벨럼지를 손으로 자르고 접어 상단을 금속 클립 두 개로 고정한다. 장밋빛 점토의 얼룩이 종이 너머로 비치고, 전면에는 팔각형과 원이 겹친 굵은 아웃라인이, 후면에는 파란 잉크로 손글씨 'Batch 2' 표기가 들어간다. 런던 스튜디오에서 그는 커스텀 아크릴 스탬프로 모든 비누에 워드마크를 직접 눌러 새기는데, 이 음각 글자는 거품이 먼저 닿는 자리이자 비누가 닳으며 서서히 사라지는 흔적이 된다.",
+      "image_url": "https://cms.abduzeedo.com/sites/default/files/originals/gallery_twice-shy-positions-tula-louise-as-soap-brand-identity_0.jpg",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_twice-shy-positions-tula-louise-as-soap-brand-identity_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/hero_twice-shy-positions-tula-louise-as-soap-brand-identity.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_twice-shy-positions-tula-louise-as-soap-brand-identity_1.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_twice-shy-positions-tula-louise-as-soap-brand-identity_2.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_twice-shy-positions-tula-louise-as-soap-brand-identity_3.jpg"
+      ],
+      "source": "Abduzeedo",
+      "url": "https://abduzeedo.com/twice-shys-tactile-soap-packaging-design-tula-louise/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Tula Louise",
+        "툴라루이즈",
+        "Twice Shy",
+        "트와이스샤이",
+        "패키지디자인",
+        "타이포그래피",
+        "내추럴비누"
+      ]
+    },
     {
       "id": "6baad63f",
       "date": "2026-11-13",

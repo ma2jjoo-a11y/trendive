@@ -1,136 +1,146 @@
 {
-  "updated_at": "2026-11-13 10:39",
+  "updated_at": "2026-11-14 10:14",
   "trends": [
     {
-      "title": "아시아 프로야구 챔피언십",
+      "title": "고경표",
       "traffic": 2000,
-      "link": "https://www.google.com/search?q=%EC%95%84%EC%8B%9C%EC%95%84%20%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD"
+      "link": "https://www.google.com/search?q=%EA%B3%A0%EA%B2%BD%ED%91%9C"
     },
     {
-      "title": "금융통화위원회",
+      "title": "한화오션",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98"
+    },
+    {
+      "title": "올림픽공원",
       "traffic": 100,
-      "link": "https://www.google.com/search?q=%EA%B8%88%EC%9C%B5%ED%86%B5%ED%99%94%EC%9C%84%EC%9B%90%ED%9A%8C"
+      "link": "https://www.google.com/search?q=%EC%98%AC%EB%A6%BC%ED%94%BD%EA%B3%B5%EC%9B%90"
     },
     {
-      "title": "메르세데스-벤츠",
+      "title": "여수세계박람회장",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%EC%97%AC%EC%88%98%EC%84%B8%EA%B3%84%EB%B0%95%EB%9E%8C%ED%9A%8C%EC%9E%A5"
+    },
+    {
+      "title": "보험계약",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=%EB%B3%B4%ED%97%98%EA%B3%84%EC%95%BD"
+    },
+    {
+      "title": "매일경제신문",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EB%A7%A4%EC%9D%BC%EA%B2%BD%EC%A0%9C%EC%8B%A0%EB%AC%B8"
+    },
+    {
+      "title": "단풍",
       "traffic": 1000,
-      "link": "https://www.google.com/search?q=%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%B2%A4%EC%B8%A0"
+      "link": "https://www.google.com/search?q=%EB%8B%A8%ED%92%8D"
     },
     {
-      "title": "gemini 4 hydrogen",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=gemini%204%20hydrogen"
-    },
-    {
-      "title": "m365",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=m365"
-    },
-    {
-      "title": "양승조",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%96%91%EC%8A%B9%EC%A1%B0"
-    },
-    {
-      "title": "김영훈",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EA%B9%80%EC%98%81%ED%9B%88"
-    },
-    {
-      "title": "헤그세스",
-      "traffic": 100,
-      "link": "https://www.google.com/search?q=%ED%97%A4%EA%B7%B8%EC%84%B8%EC%8A%A4"
+      "title": "lg 트윈스",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=lg%20%ED%8A%B8%EC%9C%88%EC%8A%A4"
     }
   ],
   "videos": [
     {
       "title": "\"She Da GOAT\" 😭🥀",
       "channel": "LARRY",
-      "views": 14542582,
+      "views": 16448311,
       "link": "https://www.youtube.com/watch?v=SUq6RpGjZDA"
     },
     {
       "title": "Fortnite token meme: #memes",
       "channel": "Hazax",
-      "views": 14099240,
+      "views": 14142672,
       "link": "https://www.youtube.com/watch?v=098R9HICJRQ"
-    },
-    {
-      "title": "Gangnam Style Dance Challenge! Nobody Expected THIS 😂",
-      "channel": "다혜 dahye",
-      "views": 12119716,
-      "link": "https://www.youtube.com/watch?v=5m7WKAWQzdA"
     },
     {
       "title": "강남스타일 댄스 챌린지 중.. 갑자기 구경하던 시민이 난입?! 😂",
       "channel": "민서율 seoyool",
-      "views": 10930712,
+      "views": 11604241,
       "link": "https://www.youtube.com/watch?v=6duedn_aPns"
     },
     {
       "title": "Ranking Legendary Meme Recreation 💀😭 #usa",
       "channel": "Topquo",
-      "views": 10547409,
+      "views": 10642753,
       "link": "https://www.youtube.com/watch?v=cKF4OL2t8iA"
     },
     {
       "title": "Whatever makes them feel better😭",
       "channel": "memepples",
-      "views": 8830319,
+      "views": 9162825,
       "link": "https://www.youtube.com/watch?v=Qne4iRXYrLk"
-    },
-    {
-      "title": "Ranking funniest indian memes ever 😂 |#funny#ranking#viral#tranding",
-      "channel": "Legend babal gam ",
-      "views": 8608145,
-      "link": "https://www.youtube.com/watch?v=WLETbkRdl5g"
     },
     {
       "title": "요즘 난리 난 댄스 챌린지 중 지켜보던 시민이 갑자기 난입했다고?! 😂",
       "channel": "민서율 seoyool",
-      "views": 8336723,
+      "views": 8724720,
       "link": "https://www.youtube.com/watch?v=lNbqV0smZlE"
+    },
+    {
+      "title": "요즘 난리 난 댄스 챌린지에 난입했더니.. 당황한 반응이 레전드 😂",
+      "channel": "민서율 seoyool",
+      "views": 7826845,
+      "link": "https://www.youtube.com/watch?v=nJLP587Ga0E"
+    },
+    {
+      "title": "혼자 노래방에서 챌린지 연습하는 이준 #idol #아이돌 #kpop #케이팝 #이준 #a2olite #챌린지 #노래방 #neon #shorts",
+      "channel": "죄와돌",
+      "views": 7698050,
+      "link": "https://www.youtube.com/watch?v=wmfCGc1fxpQ"
     }
   ],
   "news": [
     {
-      "title": "닥터엘시아(Dr.Althea), 성수서 올리브영 첫 브랜드 팝업… 장원영 현장...",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261113001032025",
+      "title": "아프리시테, 롯데百 센텀시티점 팝업 오픈… 26FW 모피 컬렉션 공개",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602037",
       "source": "네이버뉴스"
     },
     {
-      "title": "키움증권, 컨디션과 퇴직연금 팝업스토어 '크크펜션' 운영",
-      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107890",
+      "title": "브랜드 소통 강화하는 식품업계...소비자 참여부터 체험형 마케팅",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=781634",
       "source": "네이버뉴스"
     },
     {
-      "title": "닥터 리쥬올, 피부 장벽 케어 ‘어드밴스드 베리어 라인’ 4종 출시",
-      "link": "http://www.segyebiz.com/newsView/20261113505936?OutUrl=naver",
+      "title": "중동·동남아 '한 방' 날린 한약사 부부 …'바라기' K웰니스 브랜드 도약",
+      "link": "https://www.mt.co.kr/policy/2026/11/14/2026111310064074468",
       "source": "네이버뉴스"
     },
     {
-      "title": "피지오겔, 컬리뷰티페스타서 손상 장벽 리페어 존 팝업 오픈",
-      "link": "https://www.news1.kr/industry/distribution/6352974",
+      "title": "K-패션, 중국서 팝업스토어 경쟁…'차이나 마켓' 공략 재시동",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325927",
       "source": "네이버뉴스"
     },
     {
-      "title": "키움증권, 컨디션과 퇴직연금 팝업스토어 운영",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492136",
+      "title": "[굿모닝! K리테일] LG생활건강 힌스, 몬치치 콜라보 日 출시…열도 공략...",
+      "link": "https://www.goodkyung.com/news/articleView.html?idxno=293418",
       "source": "네이버뉴스"
     },
     {
-      "title": "LG생건 피지오겔, 컬리뷰티페스타서 '손상 장벽 리페어 존' 팝업 운영",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943474",
+      "title": "레이브(RAIVE), 박현지와 함께한 26 WINTER 콜라보 공개… 더현대 서울 팝...",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398230",
       "source": "네이버뉴스"
     },
     {
-      "title": "[게임소식] 넥슨 '테일즈위버', '메이플M' 컬래버레이션 사전 이벤트 외",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943452",
+      "title": "레이브 X 박현지, 더현대 서울 팝업스토어 오픈… 콜라보 컬렉션 최초 ...",
+      "link": "https://www.gosiweek.com/article/1065600405107852",
       "source": "네이버뉴스"
     },
     {
-      "title": "[오늘의 신상품]이마트24, 국내외 문학 콜라보 신상품 출시 外 크라운제...",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=886983",
+      "title": "아이센스블랙라벨PC존, 라멘·음료 등 신메뉴 6종 출시…PC방 먹거리 경...",
+      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=238418",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "옷장에 당장 들이고 싶은 '패션 콜라보' 5",
+      "link": "https://www.esquirekorea.co.kr/article/1913028",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "[김용석의 브랜드씬] \"참치만 팔지 않는다\"…동원그룹의 꼬리표 벗기",
+      "link": "https://www.newspim.com/news/view/20261113001409",
       "source": "네이버뉴스"
     },
     {
@@ -139,18 +149,8 @@
       "source": "네이버뉴스"
     },
     {
-      "title": "베인캐피탈, 9000억 공차 인수 완료…韓日 협업 닻 올렸다 [시그널]",
-      "link": "https://www.sedaily.com/article/20113354?ref=naver",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "엑스, 롱폼 영상 숏폼으로 만드는 '클리핑' 출시",
-      "link": "https://ditoday.com/%ec%97%91%ec%8a%a4-%eb%a1%b1%ed%8f%bc-%ec%98%81%ec%83%81-%ec%88%8f%ed%8f%bc%ec%9c%bc%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-%ed%81%b4%eb%a6%ac%ed%95%91-%ec%b6%9c%ec%8b%9c/",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "한진 훗타운, 해외직구족 겨냥 ‘팬덤티켓’ 공식 론칭…배송 혜택 확대",
-      "link": "https://www.sedaily.com/article/20113904?ref=naver",
+      "title": "TCL, 성수동서 디스플레이·게임 체험 팝업 운영",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=781617",
       "source": "네이버뉴스"
     }
   ]

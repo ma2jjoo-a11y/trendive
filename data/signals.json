@@ -1,136 +1,156 @@
 {
-  "updated_at": "2026-11-16 09:42",
+  "updated_at": "2026-11-17 12:22",
   "trends": [
     {
-      "title": "변상일",
+      "title": "장민기",
+      "traffic": 200,
+      "link": "https://www.google.com/search?q=%EC%9E%A5%EB%AF%BC%EA%B8%B0"
+    },
+    {
+      "title": "예비소집일",
       "traffic": 100,
-      "link": "https://www.google.com/search?q=%EB%B3%80%EC%83%81%EC%9D%BC"
+      "link": "https://www.google.com/search?q=%EC%98%88%EB%B9%84%EC%86%8C%EC%A7%91%EC%9D%BC"
     },
     {
-      "title": "김승수",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EA%B9%80%EC%8A%B9%EC%88%98"
+      "title": "피의자",
+      "traffic": 10000,
+      "link": "https://www.google.com/search?q=%ED%94%BC%EC%9D%98%EC%9E%90"
     },
     {
-      "title": "고속도로 건설",
+      "title": "상장",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C%20%EA%B1%B4%EC%84%A4"
+      "link": "https://www.google.com/search?q=%EC%83%81%EC%9E%A5"
     },
     {
-      "title": "미사일",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EB%AF%B8%EC%82%AC%EC%9D%BC"
+      "title": "너구리",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EB%84%88%EA%B5%AC%EB%A6%AC"
     },
     {
-      "title": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
+      "title": "2027",
+      "traffic": 100,
+      "link": "https://www.google.com/search?q=2027"
+    },
+    {
+      "title": "미스터트롯4",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EB%AF%B8%EC%8A%A4%ED%84%B0%ED%8A%B8%EB%A1%AF4"
+    },
+    {
+      "title": "서울고등법원",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=th%E1%BB%A9%20h%E1%BA%A1ng%20c%E1%BB%A7a%20%C4%91%E1%BB%99i%20tuy%E1%BB%83n%20t%C3%A2y%20ban%20nha%20g%E1%BA%B7p%20%C4%91%E1%BB%99i%20tuy%E1%BB%83n%20b%C3%B3ng%20%C4%91%C3%A1%20qu%E1%BB%91c%20gia%20anh"
-    },
-    {
-      "title": "주한 미군 사령관",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%A3%BC%ED%95%9C%20%EB%AF%B8%EA%B5%B0%20%EC%82%AC%EB%A0%B9%EA%B4%80"
-    },
-    {
-      "title": "사장님 귀는 당나귀 귀",
-      "traffic": 200,
-      "link": "https://www.google.com/search?q=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80"
-    },
-    {
-      "title": "양의지",
-      "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%96%91%EC%9D%98%EC%A7%80"
+      "link": "https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EA%B3%A0%EB%93%B1%EB%B2%95%EC%9B%90"
     }
   ],
   "videos": [
     {
       "title": "$1 vs $10,000 Mystery Box Challenge",
       "channel": "Nick DiGiovanni",
-      "views": 23560505,
+      "views": 25259585,
       "link": "https://www.youtube.com/watch?v=9ZqdgmaO6gM"
+    },
+    {
+      "title": "send this to your friend💀🥀",
+      "channel": "Zakichan",
+      "views": 14856108,
+      "link": "https://www.youtube.com/watch?v=1DrmivbSbpk"
+    },
+    {
+      "title": "Minecraft Hardcore World Meme",
+      "channel": "Dankruptsoul ",
+      "views": 14608216,
+      "link": "https://www.youtube.com/watch?v=02uZI1degwU"
     },
     {
       "title": "강남스타일 댄스 챌린지 중.. 갑자기 구경하던 시민이 난입?! 😂",
       "channel": "민서율 seoyool",
-      "views": 12160779,
+      "views": 12258114,
       "link": "https://www.youtube.com/watch?v=6duedn_aPns"
-    },
-    {
-      "title": "🔥Fortnite In Real Life - Ultimate Battle Royale Challenge! 😱#fortnite #funny #fortnitechallenge",
-      "channel": "DINA YT",
-      "views": 11350556,
-      "link": "https://www.youtube.com/watch?v=ZODfthjvAO8"
     },
     {
       "title": "Whatever makes them feel better😭",
       "channel": "memepples",
-      "views": 11106361,
+      "views": 11776666,
       "link": "https://www.youtube.com/watch?v=Qne4iRXYrLk"
     },
     {
-      "title": "Bro always making it worse😭🥀🥀",
-      "channel": "memepples",
-      "views": 9602878,
-      "link": "https://www.youtube.com/watch?v=XxTr-4Vo9Yw"
+      "title": "🔥Fortnite In Real Life - Ultimate Battle Royale Challenge! 😱#fortnite #funny #fortnitechallenge",
+      "channel": "DINA YT",
+      "views": 11555833,
+      "link": "https://www.youtube.com/watch?v=ZODfthjvAO8"
+    },
+    {
+      "title": "Ranking funniest indian memes ever 😂 |#funny#ranking#viral#tranding",
+      "channel": "Legend babal gam ",
+      "views": 11254741,
+      "link": "https://www.youtube.com/watch?v=WLETbkRdl5g"
     },
     {
       "title": "요즘 난리 난 댄스 챌린지 중 지켜보던 시민이 갑자기 난입했다고?! 😂",
       "channel": "민서율 seoyool",
-      "views": 8824667,
+      "views": 8853485,
       "link": "https://www.youtube.com/watch?v=lNbqV0smZlE"
-    },
-    {
-      "title": "혼자 노래방에서 챌린지 연습하는 이준 #idol #아이돌 #kpop #케이팝 #이준 #a2olite #챌린지 #노래방 #neon #shorts",
-      "channel": "죄와돌",
-      "views": 7750798,
-      "link": "https://www.youtube.com/watch?v=wmfCGc1fxpQ"
-    },
-    {
-      "title": "this can't be happening 😔🥀 #memes #funny #comedy #humor #comments #mad #scary #dankmemes #shorts",
-      "channel": "eribellie",
-      "views": 7631990,
-      "link": "https://www.youtube.com/watch?v=NqwnFQY9klo"
     }
   ],
   "news": [
     {
-      "title": "현대백화점, 챗GPT에 AI 쇼핑 서비스 론칭... \"추천부터 구매까지 한 번...",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887258",
+      "title": "무신사 뷰티 성수, 개점 닷새 만에 거래액 5억원…65% 외국인",
+      "link": "https://www.dailian.co.kr/news/view/1715841/?sc=Naver",
       "source": "네이버뉴스"
     },
     {
-      "title": "CU, 걸그룹 리센느 멤버 담은 '리트와 메트' 굿즈 27종 출시",
-      "link": "https://www.etnews.com/20261116000075",
+      "title": "[오늘의 유통가] 현대백화점, 외국인 전용 VIP 제도 선봬 外",
+      "link": "https://dealsite.co.kr/articles/172968",
       "source": "네이버뉴스"
     },
     {
-      "title": "마리떼 키즈, 첫 팝업스토어 '홀리데이 빌리지' 롯데월드몰에 오픈",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072630",
+      "title": "버거킹, '초콜릿 와퍼' 성수 플레임그라운드서 첫선",
+      "link": "https://www.wikitree.co.kr/articles/1175208",
       "source": "네이버뉴스"
     },
     {
-      "title": "'2026 MAMA' 피너츠·케이스티파이 콜라보→'유니버스' 팝업",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=781812",
+      "title": "무신사 뷰티 성수, 5일 만에 5억원…구매객 3명 중 2명 외국인",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=5050126",
       "source": "네이버뉴스"
     },
     {
-      "title": "\"브라운은 NBA, 호빵맨은 올리브영\"…캐릭터들이 달라졌다",
-      "link": "https://www.dailian.co.kr/news/view/1714588/?sc=Naver",
+      "title": "파파존스, 산리오 '한교동' 한정판 굿즈 세트 출시... 가격·구성은?",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193549",
       "source": "네이버뉴스"
     },
     {
-      "title": "스타벅스, 헬로키티와 크리스마스 협업...한정 음료·굿즈 출시",
-      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107947",
+      "title": "스타벅스-헬로키티, 크리스마스 콜라보 제품 출시",
+      "link": "http://www.breaknews.com/1251314",
       "source": "네이버뉴스"
     },
     {
-      "title": "파파존스, 산리오 캐릭터 한교동 활용한 한정판 굿즈 선보여",
-      "link": "https://www.lawissue.co.kr/view.php?ud=202611160934046591204ead0791_12",
+      "title": "“산리오 3위 ‘한교동’ 굿즈 모으자”…파파존스, 연말 특별 프로모션",
+      "link": "https://www.sportsseoul.com/news/read/1650087?ref=naver",
       "source": "네이버뉴스"
     },
     {
-      "title": "스타벅스, 헬로키티와 크리스마스 프로모션...굿즈부터 별 추가적립",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=782106",
+      "title": "한국타이어-리드볼트, 콜라보 캐리어 오프라인 판매",
+      "link": "http://www.breaknews.com/1251211",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "프라이머로 확인한 미국 시장 경쟁력… 터치인솔, 브랜드 성장 동력 넓...",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398641",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "[2026 한국품질만족도 1위] 홈프래그런스 브랜드, 코코도르",
+      "link": "https://magazine.hankyung.com/business/article/202611168401b",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "[리빙 트렌드] 모나리자, ‘빅 사이즈 점보 물티슈’ 출시 外",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=156985",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "체취 케어 브랜드 '46cm' 누적 판매 130만개… 하루 2천개씩 팔려",
+      "link": "http://www.bokuennews.com/news/article.html?no=287275",
       "source": "네이버뉴스"
     }
   ]

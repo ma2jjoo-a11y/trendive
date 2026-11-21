@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-20T03:41:57Z",
+  "last_updated": "2026-11-21T03:24:46Z",
   "items": [
+    {
+      "id": "5cd005d9",
+      "date": "2026-11-21",
+      "category": "📣 마케팅",
+      "title_ko": "완성작보다 더 화제! 브랜드들이 공개한 '제작 비하인드'의 힘",
+      "summary_ko": "현대자동차, 애플, 로에베, 코인베이스 등 다양한 브랜드가 광고·콘텐츠의 제작 과정 자체를 또 하나의 콘텐츠로 선보이고 있다. 완성본에서는 보이지 않던 노력과 뒷이야기가 소비자의 흥미를 끌며 원본 콘텐츠에 대한 관심을 재점화하는 바이럴 효과를 만들고 있다.",
+      "body_ko": "영화 <호프>의 자동차 추격 장면을 위해 배우 정호연이 실제 운전면허를 따고 연습하는 과정을 담은 현대자동차의 비하인드 영상은 경찰차로 등장한 헤리티지 모델 '스텔라'를 자연스럽게 조명하며 긍정적 반응을 얻었다. 넷플릭스 드라마 <동궁>에서는 CG로 오해받던 세트장의 붉은 글씨가 서예가 이정화 작가가 5일간 직접 붓으로 써 내려간 결과물임이 알려지며 SNS에서 121만 조회수를 기록했고, 네이버는 기념일마다 바뀌는 '스페셜 로고'의 제작 의도를 공식 블로그로 공개해 창작자와 상생하는 브랜드 이미지를 쌓고 있다.\n\n애플은 M6 칩 탑재 맥 미니 광고의 모든 캐릭터와 소품을 AI나 CG 없이 9주에 걸쳐 직접 점토로 조각했다는 비하인드 영상으로 공개 이틀 만에 약 1억 8,800만 조회수를 기록했다. SK텔레콤과 돌고래유괴단은 1998년 '산사 편' 광고를 재해석한 갤럭시 Z 폴드8 광고의 비하인드에서, CG로 지워진 나비 날갯짓 연기를 맡은 배우의 엉뚱한 인터뷰를 더해 클리셰를 비튼 콘텐츠로 재미를 더했다.\n\n로에베는 창립 180주년 애니메이션 'Your Way Out'을 10명의 화가가 2,000장 이상 수채화로 직접 그린 과정을 공개하며 브랜드가 강조해 온 장인정신을 제작 방식 자체로 증명했다. 코인베이스는 게임처럼 보이는 아카데미 시상식 광고가 실제 배우와 세트장으로 구현됐다는 사실을 비하인드로 밝혀 두 번째 바이럴을 일으켰고, 이엘에프 코스메틱스는 피클 팝업스토어의 초기 기획 시안을 릴스로 공개해 완성작과의 비교 재미를 제공했다.\n\n이들 사례의 공통점은 생성형 AI로 콘텐츠 제작이 쉬워진 시대에, 사람의 손길과 수작업 과정 자체가 새로운 볼거리가 될 수 있음을 보여준다는 점이다. 완성된 결과물 너머의 이야기가 브랜드에 대한 관심과 호감을 끌어내는 또 하나의 마케팅 자산이 되고 있다.",
+      "image_url": "https://gogumafarm.kr/wp-content/uploads/2026/11/고구마팜비하인드-콘텐츠_261120.png",
+      "images": [
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/고구마팜비하인드-콘텐츠_261120.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/image-121-scaled.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/image-122.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/image-125.png",
+        "https://gogumafarm.kr/wp-content/uploads/2026/11/image-126.png"
+      ],
+      "source": "고구마팜",
+      "url": "https://gogumafarm.kr/%ec%a0%9c%ec%9e%91-%ea%b3%bc%ec%a0%95%eb%8f%84-%ec%bd%98%ed%85%90%ec%b8%a0%ea%b0%80-%eb%90%9c%eb%8b%a4-%eb%b0%94%ec%9d%b4%eb%9f%b4%ec%9d%84-%eb%b6%80%eb%a5%b8-%eb%b9%84%ed%95%98%ec%9d%b8%eb%93%9c/",
+      "video_url": "",
+      "importance": "high",
+      "tags": [
+        "비하인드콘텐츠",
+        "제작과정마케팅",
+        "Hyundai",
+        "현대자동차",
+        "LOEWE",
+        "로에베",
+        "Coinbase"
+      ]
+    },
+    {
+      "id": "9b640e2b",
+      "date": "2026-11-21",
+      "category": "🎯 브랜딩",
+      "title_ko": "훔치고 싶을 만큼 예쁜 데오드란트 — Fussy x William Morris",
+      "summary_ko": "리필형 데오드란트 브랜드 Fussy(퍼시)가 윌리엄 모리스(William Morris)의 1883년작 패턴 'Strawberry Thief'를 입힌 홀리데이 한정판을 선보였다. 아무도 선물하지 않는 데오드란트를, 버리기 아까운 패키지로 바꿔 선물템으로 포지셔닝한 전략이 눈에 띈다.",
+      "body_ko": "윌리엄 모리스(William Morris)가 1883년 옥스퍼드셔 켈름스콧 매너의 딸기밭에서 열매를 훔쳐 먹던 개똥지빠귀에서 영감을 받아 만든 패턴 'Strawberry Thief'가 이번엔 데오드란트 케이스에 내려앉았다. 'William Morris at Home'과 Fussy(퍼시)가 손잡은 이번 홀리데이 한정 컬렉션이다.\n\nFussy의 조약돌 모양 리필형 케이스는 짙고 그윽한 인디고 컬러를 베이스로, 산호빛 개똥지빠귀 한 마리가 분홍 딸기와 연한 라벤더 잎사귀 사이에 자리 잡은 모습을 담았다. 패턴은 케이스 솔기까지 타고 올라가며 이어진다. 미니 리필 튜브는 자두색, 포레스트 그린, 탠저린 컬러의 푸시업 튜브로, 패턴이 가장자리까지 빼곡히 감싼다.\n\n리필 시스템은 소비자가 케이스를 버리지 않고 계속 간직해야만 성립한다. 그래서 가장 확실한 방법은 버리기 아까울 만큼 예쁘게 만드는 것이다. 무언가 달콤한 것을 훔쳐가는 새를 그린 패턴은, 공교롭게도 스타킹에 쏙 들어가는 크리스마스 선물로도 제격이다.",
+      "image_url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/4_160d8a01-67e1-45af-a101-1c80eb696f4e.png.webp?w=1200&quality=65&ssl=1",
+      "images": [
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/4_160d8a01-67e1-45af-a101-1c80eb696f4e.png.webp?w=1200&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/dieline-trend-report-2027-00-hero-v3.jpg?w=1920&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/mcdonalds-home-alone-meal-71f9d1.webp?w=1200&quality=65&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/imgi_62_Kw0xMBUWGMQBvMrj_5-scaled.jpg?w=2560&quality=70&ssl=1",
+        "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/media_190dc6538435b84ba934466b8eac6942f9e97a33d.png.webp?w=2000&quality=65&ssl=1"
+      ],
+      "source": "Dieline",
+      "url": "https://thedieline.com/nobody-gifts-deodorant-but-fussy-and-william-morris-are-betting-you-will/",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "Fussy",
+        "퍼시",
+        "William Morris",
+        "윌리엄모리스",
+        "패키지디자인",
+        "홀리데이한정판",
+        "리필가능패키징"
+      ]
+    },
+    {
+      "id": "d042898b",
+      "date": "2026-11-21",
+      "category": "🎨 디자인",
+      "title_ko": "손그림부터 AI까지, 건축 드로잉의 경계가 사라졌다 — 아키텍처 드로잉 프라이즈 2026",
+      "summary_ko": "국제 공모전 '아키텍처 드로잉 프라이즈'가 2026년 수상작 11점을 발표했다. 올해부터는 손 드로잉·디지털·AI 등 제작 방식에 따른 구분을 없애고 모든 작품을 하나의 기준으로 통합 심사했다. 도구보다 아이디어 전달력과 독창성을 중심에 둔 변화다.",
+      "body_ko": "2017년 출범한 아키텍처 드로잉 프라이즈는 메이크 아키텍츠, 런던 존 손 경 박물관, 세계건축페스티벌(WAF)이 함께 운영하는 공모전으로, 건축 드로잉의 예술적·기술적 가치를 조명해왔다. 올해는 전 세계 168개 출품작 중 11점이 수상작으로 선정됐으며, 가장 큰 변화는 심사 체계다. 기존에는 손 드로잉과 디지털, 하이브리드 등 제작 유형별로 나눠 시상했지만, 2026년부터는 모든 작품을 통합해 기술적 숙련도, 아이디어 전달력, 접근 방식의 독창성, 완성도, 건축적 제안 여부라는 다섯 가지 기준으로 심사한다. 출품자는 사용한 도구와 AI 활용 여부, 손 드로잉 여부를 별도로 표시해야 한다.\n\n도구의 다양화 속에서도 손 드로잉의 가치는 별도로 조명됐다. 신설된 핸드 드로잉 특별상은 글래스고 건축가 로스 캐머런에게 돌아갔다. 그의 작품 'Glasgow School of Art 2026'은 두 차례 화재 이후 8년째 건물을 감싸고 있는 임시 비계를 연필로 그려, 임시 구조물이 사실상 영구적 풍경이 된 역설을 포착했다.\n\n수상작들은 건축 드로잉을 구조 묘사를 넘어 사회 문제와 기억, 도시의 미래를 탐구하는 매개로 확장했다. 하비에르 가르시아 고이코에체아는 카지노 평면도 6장으로 도박 중독의 심리적 변화를 그렸고, 아나벨 탄은 기후 위기 이후 덩굴과 뿌리가 콘크리트를 뒤덮은 싱가포르의 미래 풍경을 상상했다. 보야나 시코비치는 뉴벨그라드 사회주택의 창문과 발코니에 드러난 주민들의 일상적 개입을, 이오아나 에나체는 미완성으로 남은 루마니아 오페라 극장을 구술 증언으로 재구성했다.\n\n공모전은 11월 18일부터 20일까지 미국 포트로더데일 WAF에서 일부 수상작을 선보이며, 전체 대상은 2027년 초 런던 존 손 경 박물관에서 발표된다. 수상작 전시는 2027년 1월 27일부터 2월 28일까지 열린다.",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfNTUg/MDAxNzk1MDY4OTQ1MTYy.PVM7zyOPkxnsLU3X9U7CQsg4rzMRXNfoxg3SPg2STl4g.sd8DLQsqkD5lf8tO8IEzHhX5qTmyQhUbrAdzHIUgvP8g.JPEG/Post-Tropical_Landscapes_Myths%2C_Monsters_and_Monuments.jpg?type=w966",
+      "images": [
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfNTUg/MDAxNzk1MDY4OTQ1MTYy.PVM7zyOPkxnsLU3X9U7CQsg4rzMRXNfoxg3SPg2STl4g.sd8DLQsqkD5lf8tO8IEzHhX5qTmyQhUbrAdzHIUgvP8g.JPEG/Post-Tropical_Landscapes_Myths%2C_Monsters_and_Monuments.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfNTUg/MDAxNzk1MDY4OTQ1MTYy.PVM7zyOPkxnsLU3X9U7CQsg4rzMRXNfoxg3SPg2STl4g.sd8DLQsqkD5lf8tO8IEzHhX5qTmyQhUbrAdzHIUgvP8g.JPEG/Post-Tropical_Landscapes_Myths,_Monsters_and_Monuments.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfMTE0/MDAxNzk1MDY5MDg3NjQ0.8ZGQm9tuXjawHrErff14_3K1_p4ni9KA2lppDbdHy-cg.oGo8MrJaxeU7HxqYaHTACVR0x9aTdVQjjIaAbPsQ5Pog.JPEG/Urban_Scenography.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfMTA1/MDAxNzk1MDY5MTA0MzQ3.fUzSYaUlTfYRtdx88S46V1dtUZw6gB80IpPdc0xj2oAg.E86ZFJM31jKWO24o8T1GaMAa3vJOjeeEtZ6AHtXeWrsg.JPEG/Floating_Feast.jpg?type=w966",
+        "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTlfMTE4/MDAxNzk1MDY5MzI3MDUx.A5L1yioM1goKkBIsWzSo-bTzoWyNpwddJ8umoUxbg9gg.NrQJcuys4joxCudMutpz66_yYavmlwyhwnT7dcyQuyUg.JPEG/Hand-Drawing_Prize_winner_2026.jpg?type=w966"
+      ],
+      "source": "디자인프레스",
+      "url": "https://blog.naver.com/designpress2016/224483526000?fromRss=true&trackingCode=rss",
+      "video_url": "",
+      "importance": "medium",
+      "tags": [
+        "ArchitectureDrawingPrize",
+        "아키텍처드로잉프라이즈",
+        "건축드로잉",
+        "AI아트",
+        "SirJohnSoanesMuseum",
+        "존손경박물관",
+        "WorldArchitectureFestival"
+      ]
+    },
     {
       "id": "c7260ebf",
       "date": "2026-11-20",

@@ -1,116 +1,121 @@
 {
-  "updated_at": "2026-11-21 10:57",
+  "updated_at": "2026-11-22 09:54",
   "trends": [
     {
-      "title": "두산베어스",
-      "traffic": 2000,
-      "link": "https://www.google.com/search?q=%EB%91%90%EC%82%B0%EB%B2%A0%EC%96%B4%EC%8A%A4"
-    },
-    {
-      "title": "패딩",
-      "traffic": 10000,
-      "link": "https://www.google.com/search?q=%ED%8C%A8%EB%94%A9"
-    },
-    {
-      "title": "동아일보",
-      "traffic": 2000,
-      "link": "https://www.google.com/search?q=%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4"
-    },
-    {
-      "title": "lpga",
+      "title": "수출규제",
       "traffic": 1000,
-      "link": "https://www.google.com/search?q=lpga"
+      "link": "https://www.google.com/search?q=%EC%88%98%EC%B6%9C%EA%B7%9C%EC%A0%9C"
     },
     {
-      "title": "지스타",
+      "title": "인공지능",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EC%A7%80%EC%8A%A4%ED%83%80"
+      "link": "https://www.google.com/search?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5"
     },
     {
-      "title": "공군사관학교",
+      "title": "털",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%EA%B3%B5%EA%B5%B0%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90"
+      "link": "https://www.google.com/search?q=%ED%84%B8"
     },
     {
-      "title": "ราคาทองวันนี้",
+      "title": "군인",
       "traffic": 200,
-      "link": "https://www.google.com/search?q=%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89"
+      "link": "https://www.google.com/search?q=%EA%B5%B0%EC%9D%B8"
     },
     {
-      "title": "브루노 마스",
+      "title": "수험",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EC%88%98%ED%97%98"
+    },
+    {
+      "title": "알테오젠",
+      "traffic": 1000,
+      "link": "https://www.google.com/search?q=%EC%95%8C%ED%85%8C%EC%98%A4%EC%A0%A0"
+    },
+    {
+      "title": "real madrid vs rc celta de vigo standings",
       "traffic": 500,
-      "link": "https://www.google.com/search?q=%EB%B8%8C%EB%A3%A8%EB%85%B8%20%EB%A7%88%EC%8A%A4"
+      "link": "https://www.google.com/search?q=real%20madrid%20vs%20rc%20celta%20de%20vigo%20standings"
+    },
+    {
+      "title": "삼전 닉스",
+      "traffic": 2000,
+      "link": "https://www.google.com/search?q=%EC%82%BC%EC%A0%84%20%EB%8B%89%EC%8A%A4"
     }
   ],
   "videos": [
     {
       "title": "Minecraft Hardcore World Meme",
       "channel": "Dankruptsoul ",
-      "views": 24971835,
+      "views": 28803648,
       "link": "https://www.youtube.com/watch?v=02uZI1degwU"
     },
     {
       "title": "Extreme Floor Is Lava Challenge!",
       "channel": "Stay Wild",
-      "views": 13888964,
+      "views": 15085110,
       "link": "https://www.youtube.com/watch?v=VdDfMCimAt0"
     },
     {
       "title": "강남스타일 댄스 챌린지 중.. 갑자기 구경하던 시민이 난입?! 😂",
       "channel": "민서율 seoyool",
-      "views": 13272336,
+      "views": 13493466,
       "link": "https://www.youtube.com/watch?v=6duedn_aPns"
-    },
-    {
-      "title": "Whatever makes them feel better😭",
-      "channel": "memepples",
-      "views": 13265743,
-      "link": "https://www.youtube.com/watch?v=Qne4iRXYrLk"
     },
     {
       "title": "Twitch: mellstroy #смешно #прикол #мем #угар",
       "channel": "bembemich",
-      "views": 9652713,
+      "views": 9857468,
       "link": "https://www.youtube.com/watch?v=VMOD5EHPn8Y"
     },
     {
       "title": "\"I See Nothing\" 😭🥀",
       "channel": "LARRY",
-      "views": 9225194,
+      "views": 9402164,
       "link": "https://www.youtube.com/watch?v=A_ew5M1GUw8"
+    },
+    {
+      "title": "Minecraft Java Door meme🤯",
+      "channel": "MaerdTheGoat",
+      "views": 9111186,
+      "link": "https://www.youtube.com/watch?v=RZ0BuV_HWjA"
     },
     {
       "title": "Lil Bro Is NOT The Hulk 😭💀",
       "channel": "HILDA BACI FAN KITCHEN",
-      "views": 8589601,
+      "views": 8877447,
       "link": "https://www.youtube.com/watch?v=y8oTNUCw7Fc"
     },
     {
       "title": "Why did bro phrase it like that 😭🙏",
       "channel": "PlierZ",
-      "views": 8091358,
+      "views": 8646590,
       "link": "https://www.youtube.com/watch?v=HWdsy0Xy69o"
     }
   ],
   "news": [
     {
-      "title": "샤넬 홀리데이 팝업, 성수동서 41일간 운영…생모리츠 겨울 산장 재현",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=886656",
+      "title": "롯데百, 마샬 국내 첫 팝업…롯데쇼핑, 상전유통학술상 시상",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=783755",
       "source": "네이버뉴스"
     },
     {
-      "title": "'샤넬 홀리데이 팝업' 21일 오픈...알프스 생모리츠 설원 분위기 담았다",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=327835",
+      "title": "롯데百, 잠실에 국내 첫 '마샬' 팝업…오디오 체험 공간 마련",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=191235",
       "source": "네이버뉴스"
     },
     {
-      "title": "롯데온, 동탄서 우수 브랜드 쇼룸 운영…\"소상공인 브랜드, 백화점 '팝업...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=327784",
+      "title": "집 분위기 바꾸는 '오디오테리어' 인기...롯데百, '마샬' 팝업",
+      "link": "https://www.g-enews.com/view.php?ud=202611220923408345a96f092d0c_1",
       "source": "네이버뉴스"
     },
     {
-      "title": "향수부터 이너뷰티까지... 연말 홀리데이 컬렉션 경쟁 본격화 [최기자의...",
-      "link": "https://www.meconomynews.com/news/articleView.html?idxno=203968",
+      "title": "작은 물건에 담긴 여행의 기억, DDP ‘K-굿즈마을’에 모이다",
+      "link": "https://www.dailyt.co.kr/newsView/dlt202611220005",
+      "source": "네이버뉴스"
+    },
+    {
+      "title": "[TF프리즘] '치이카와' 다음 주자는?…극장가 출격하는 인기 IP들",
+      "link": "https://news.tf.co.kr/read/entertain/2391709.htm",
       "source": "네이버뉴스"
     },
     {
@@ -146,11 +151,6 @@
     {
       "title": "'요즘 감성' 입은 유통家 콜라보···업종 간 경계 허무는 '티저' 마케...",
       "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408928",
-      "source": "네이버뉴스"
-    },
-    {
-      "title": "롱샷, 라부르켓 '홀리데이 컬렉션' 제안...신세계 강남점 팝업",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=783504",
       "source": "네이버뉴스"
     }
   ]
